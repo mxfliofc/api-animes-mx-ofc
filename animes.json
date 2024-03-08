@@ -1,1 +1,10 @@
-[{"nome":"plui","temporada":"9","id":14328,"totaleps":"55","players":"mx.com/1","categorias":["romance"]}]
+{
+  "nome": "Objeto 1",
+  "temporada": "1",
+  "id": 1,
+  "totaleps": "5",
+  "players": "null",
+  "categorias": [
+    "A"
+  ]
+}
