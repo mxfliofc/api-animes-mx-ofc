@@ -1,7 +1,16 @@
-{
-  "nome": "null",
-  "temporada": "null",
-  "id": "null",
-  "players": "null",
-  "categorias": "null"
-}
+[
+  {
+    "nome": "Objeto 1",
+    "temporada": "Verão",
+    "id": 1,
+    "players": null,
+    "categorias": ["A", "B"]
+  },
+  {
+    "nome": "Objeto 2",
+    "temporada": "Inverno",
+    "id": 2,
+    "players": ["João", "Maria"],
+    "categorias": ["C", "D"]
+  }
+]
