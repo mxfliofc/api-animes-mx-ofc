@@ -13,7 +13,7 @@
     "id": 1507,
     "totaleps": "12",
     "players": "Mx.com",
-    "categorias": "anime - aÃ§Ã£o - romance - comÃ©dia -"
+    "categorias": "anime - aÃÂ§ÃÂ£o - romance - comÃÂ©dia -"
   },
   {
     "nome": "TEST 1 ",
@@ -22,5 +22,14 @@
     "totaleps": "15",
     "players": "Git.com",
     "categorias": "anime"
+  },
+  {
+    "nome": "Objeto 1",
+    "temporada": "1",
+    "id": 1,
+    "totaleps": "5",
+    "players": "null.com",
+    "categorias": "anime",
+    "capa": "capa.com"
   }
 ]
