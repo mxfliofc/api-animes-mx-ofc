@@ -1,16 +1,18 @@
 [
   {
     "nome": "Objeto 1",
-    "temporada": "Verão",
+    "temporada": "1",
     "id": 1,
+    "totaleps": "5"
     "players": null,
-    "categorias": ["A", "B"]
+    "categorias": ["A"]
   },
   {
-    "nome": "Objeto 2",
-    "temporada": "Inverno",
-    "id": 2,
-    "players": ["João", "Maria"],
-    "categorias": ["C", "D"]
+    "nome": "Objeto 1",
+    "temporada": "2",
+    "id": 1,
+    "totaleps": "5"
+    "players": null,
+    "categorias": ["B"]
   }
 ]
