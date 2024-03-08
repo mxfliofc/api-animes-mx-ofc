@@ -36,5 +36,13 @@
     "totaleps": "5",
     "players": "yui.com/1",
     "categorias": "anime"
+  },
+  {
+    "nome": "TEST FINAL",
+    "temporada": "1",
+    "id": 1,
+    "totaleps": "5",
+    "players": "null.FL",
+    "categorias": "anime"
   }
 ]
