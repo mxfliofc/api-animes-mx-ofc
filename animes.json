@@ -28,5 +28,13 @@
     "categorias": [
       "anime"
     ]
+  },
+  {
+    "nome": "rayu",
+    "temporada": "12",
+    "id": 1213,
+    "totaleps": "5",
+    "players": "yui.com/1",
+    "categorias": "anime"
   }
 ]
