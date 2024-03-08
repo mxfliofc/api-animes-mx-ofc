@@ -1,10 +1,10 @@
 {
-  "nome": "Objeto 1",
-  "temporada": "1",
-  "id": 1,
-  "totaleps": "5",
-  "players": "null",
+  "nome": "Objeto 2",
+  "temporada": "23",
+  "id": 15353,
+  "totaleps": "51",
+  "players": "mx.com",
   "categorias": [
-    "A"
+    "acao"
   ]
 }
