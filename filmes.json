@@ -1,7 +1,7 @@
 [
   {
-    "nome": "+ Velozes + Furiosos 2",
-    "categoria": "AÃ§Ã£o",
+    "nome": "+ Velozes + Furiosos",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "584",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg",
@@ -9,15 +9,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tRpQXr9G4ecP8SskmPTMfsrvYaB.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "709",
     "idade": "16",
-    "nome": "007 - PermissÃ£o para Matar",
+    "nome": "007 - PermissÃÂ£o para Matar",
     "player": "https://streamtape.com/v/16APVKpAMzidBv/007-permissao-para-matar-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/qc1Id3BLRoUk10uJGmvRqqAKvQL.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "710",
     "idade": "16",
     "nome": "007 Contra GoldenEye",
@@ -25,7 +25,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/jebWDEnGH2f4GnqZxSLfuON5KME.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "700",
     "idade": "14",
     "nome": "007 Contra Octopussy",
@@ -33,7 +33,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fbytkyUibUnksjBEpIwcMxQJTfJ.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "707",
     "idade": "16",
     "nome": "007 Na Mira dos Assassinos",
@@ -41,7 +41,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "206647",
     "idade": "14",
     "nome": "007: Contra Espectro",
@@ -49,7 +49,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/mXbq3IsGDW9AdV8fhL2EiHTrkEu.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "708",
     "idade": "14",
     "nome": "007: Marcado para a Morte",
@@ -57,7 +57,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uULahg7URW4DjPq0fANgHEw1uHC.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "36670",
     "idade": "14",
     "nome": "007: Nunca Mais Outra Vez",
@@ -65,31 +65,31 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/cURZ8FpxFzwZHCL07ABXJCVnORc.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "714",
     "idade": "14",
-    "nome": "007: O AmanhÃ£ Nunca Morre",
+    "nome": "007: O AmanhÃÂ£ Nunca Morre",
     "player": "https://streamtape.com/v/lQgvlL22DVtzmD/007-o-amanha-nunca-morre-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9aWgoZRi3BOsExOYWygRbQilsDS.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "36643",
     "idade": "14",
-    "nome": "007: O Mundo NÃ£o Ã© o Bastante",
+    "nome": "007: O Mundo NÃÂ£o ÃÂ© o Bastante",
     "player": "https://streamtape.com/v/m6D2Z7VQggTbPbW/007-o-mundo-nao-eo-bastante-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "37724",
     "idade": "16",
-    "nome": "007: OperaÃ§Ã£o Skyfall",
+    "nome": "007: OperaÃÂ§ÃÂ£o Skyfall",
     "player": "https://streamtape.com/v/41Gbl80kDOsK06k/007-operacao-skyfall-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "10764",
     "idade": "14",
     "nome": "007: Quantum de Consolo",
@@ -97,7 +97,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/luE0KG1rWfUptbgNtlNtL5sihyd.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "370172",
     "idade": "16",
     "nome": "007: Sem Tempo para Morrer",
@@ -105,7 +105,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "36669",
     "idade": "16",
     "nome": "007: Um Novo Dia para Morrer",
@@ -113,15 +113,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "4951",
     "idade": "12",
-    "nome": "10 coisas que eu odeio em vocÃª",
+    "nome": "10 coisas que eu odeio em vocÃÂª",
     "player": "https://streamtape.net/e/6j6XAppj7WS92gj/10_Coisas_que_Eu_Odeio_em_Voc%C3%AA"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/lwyleO7PqNNkX66stvANWP01p9I.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "1070514",
     "idade": "12",
     "nome": "100 Coisas para Fazer Antes de Virar Zumbi",
@@ -132,7 +132,7 @@
     "categoria": "Romance",
     "id": "710356",
     "idade": "10",
-    "nome": "2 CoraÃ§Ãµes",
+    "nome": "2 CoraÃÂ§ÃÂµes",
     "player": "https://streamtape.net/e/wJJ3yeKzYAFJJ0e/Dois_Cora%C3%A7%C3%B5es"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8TZwcOERoTh4gDCEu2MKLoYI7lx.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "9679",
     "idade": "14",
     "nome": "60 Segundos",
@@ -169,7 +169,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/nb4crpD43qLIlNj3k5mqC0izPCk.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "537996",
     "idade": "12",
     "nome": "A Balada de Buster Scruggs",
@@ -177,10 +177,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fd5B1I6riT7oze7FntN51RvTPyn.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "1142216",
     "idade": "14",
-    "nome": "A Dama do SilÃªncio La Mataviejitas",
+    "nome": "A Dama do SilÃÂªncio La Mataviejitas",
     "player": "https://streamtape.net/e/rDKPpwVzGatb1L2/a-dama-do-silencio-la-mataviejitas-dublado-www.encontrei.tv"
   },
   {
@@ -193,10 +193,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bft6EuB96z0ureK832edqwAplDS.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "238713",
     "idade": "14",
-    "nome": "A EspiÃ£ Que Sabia de Menos",
+    "nome": "A EspiÃÂ£ Que Sabia de Menos",
     "player": "https://streamtape.net/e/8q8VqDYd9AUokjA/A_Espi%C3%A3_Que_Sabia_de_Menos"
   },
   {
@@ -204,7 +204,7 @@
     "categoria": "Aventura",
     "id": "252",
     "idade": "10",
-    "nome": "A FantÃ¡stica FÃ¡brica de Chocolate 1",
+    "nome": "A FantÃÂ¡stica FÃÂ¡brica de Chocolate 1",
     "jogador": "https://streamtape.net/e/Ywx1y078bkFvW4L/A_Fant%C3%A1stica_F%C3%A1brica_de_Chocolate_1"
   },
   {
@@ -212,7 +212,7 @@
     "categoria": "Aventura",
     "id": "118",
     "idade": "12",
-    "nome": "A FantÃ¡stica FÃ¡brica de Chocolate 2",
+    "nome": "A FantÃÂ¡stica FÃÂ¡brica de Chocolate 2",
     "jogador": "https://streamtape.net/e/KLPLgbQr7OC0YoM/A_Fant%C3%A1stica_F%C3%A1brica_de_Chocolate_2"
   },
   {
@@ -225,23 +225,23 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rm6iGsOUe9v2I0jqHyGRUliAMJO.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "798362",
     "idade": "14",
-    "nome": "A Filha do Rei do PÃ¢ntano",
+    "nome": "A Filha do Rei do PÃÂ¢ntano",
     "player": "https://streamtape.com/v/mvDwb9VLdZTBZq/a-filha-do-rei-do-pantano-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "520758",
     "idade": "L",
-    "nome": "A Fuga das Galinhas: AmeaÃ§a dos Nuggets",
+    "nome": "A Fuga das Galinhas: AmeaÃÂ§a dos Nuggets",
     "player": "https://streamtape.com/v/V0jAo9aXB0uP2X/A.Fuga.das.Galinhas.A.Ameaca.dos.Nuggets.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.x264- PiA_%281%29.mkv.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bZt5dYtbIZ03apuexPHvjrOI6vI.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1687",
     "idade": "10",
     "nome": "A Fuga do Planeta dos Macacos",
@@ -252,7 +252,7 @@
     "categoria": "Terror",
     "id": "1144028",
     "idade": "14",
-    "nome": "A FÃºria de DrÃ¡cula",
+    "nome": "A FÃÂºria de DrÃÂ¡cula",
     "player": "https://streamtape.com/v/qr3yLo2k6zcKxv/a-furia-de-dracula-dublado-www.encontrei.tv"
   },
   {
@@ -276,7 +276,7 @@
     "categoria": "Romance",
     "id": "293863",
     "idade": "14",
-    "nome": "A IncrÃ­vel HistÃ³ria de Adaline",
+    "nome": "A IncrÃÂ­vel HistÃÂ³ria de Adaline",
     "jogador": "https://streamtape.net/e/e42ZdVe0xRiYGdl/jcDAinuFNsKoR8EU.mp4"
   },
   {
@@ -289,18 +289,18 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8N9qjYLujTFwawY95mHxQUPO1sj.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "996581",
     "idade": "16",
-    "nome": "A MaldiÃ§Ã£o de Raven's Hollow",
+    "nome": "A MaldiÃÂ§ÃÂ£o de Raven's Hollow",
     "player": "https://streamtape.com/v/6mr1J3OVaLF9kVk/a-maldicao-de-ravens-hollow-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/XJ9sq8CAxGcHjxpsLWu9fBGZsB.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "9342",
     "idade": "12",
-    "nome": "A MÃ¡scara do Zorro",
+    "nome": "A MÃÂ¡scara do Zorro",
     "player": "https://streamtape.net/e/elkoz2qydqsY4PW/a-mascara-do-zorro-dublado-www.encontrei.tv"
   },
   {
@@ -345,10 +345,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oLHF1FezbFzI8JjCGrQ8QynajUj.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "693158",
     "idade": "16",
-    "nome": "A PresenÃ§a",
+    "nome": "A PresenÃÂ§a",
     "player": "https://streamtape.net/e/0zOWDYryyxubGQJ/A_Presen%C3%A7a"
   },
   {
@@ -393,10 +393,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pGYVsGSPxqXxsipqAyS6sR7Ihiu.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "141669",
     "idade": "16",
-    "nome": "A VinganÃ§a Deixa Sua Marca",
+    "nome": "A VinganÃÂ§a Deixa Sua Marca",
     "player": "https://streamtape.net/e/6Qj6kpjYgAS98lj/A_Vingan%C3%A7a_Deixa_Sua_Marca_%28_legendado%29"
   },
   {
@@ -444,20 +444,20 @@
     "categoria": "Thriller",
     "id": "1221388",
     "idade": "12",
-    "nome": "Alarme de IncÃªndio",
+    "nome": "Alarme de IncÃÂªndio",
     "player": "https://streamtape.com/v/dRargwzjw4CkKDy/alarme-de-incendio-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/dg28tcd1gU9YtEjlrWh22RbeQJx.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "714694",
     "idade": "16",
-    "nome": "AlemÃ£o 2",
+    "nome": "AlemÃÂ£o 2",
     "player": "https://streamtape.net/e/o1gMyXw6GOUJam1/alemao-2-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "512195",
     "idade": "12",
     "nome": "Alerta Vermelho",
@@ -465,10 +465,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/E6ShgX7LL02hDqoKpK79M5HBzv.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "626872",
     "idade": "12",
-    "nome": "Alerta de EmergÃªncia",
+    "nome": "Alerta de EmergÃÂªncia",
     "player": "https://streamtape.com/v/xZ4krPkxYWT9Oq/alerta-de-emergencia-dublado-www.encontrei.tv"
   },
   {
@@ -481,18 +481,18 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/lgnBkVe1PNLgFRgaeBeB2Vgb63M.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "12092",
     "idade": "L",
-    "nome": "Alice no PaÃ­s das Maravilhas 1951",
+    "nome": "Alice no PaÃÂ­s das Maravilhas 1951",
     "player": "https://streamtape.com/v/jp1Z6WRBDxIzl9d/Alice_no_Pa%C3%ADs_das_Maravilhas_antigo"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rDkh6b1qDzyECP7aneNwxOjmPuX.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "66894",
     "idade": "12",
-    "nome": "Alta FrequÃªncia",
+    "nome": "Alta FrequÃÂªncia",
     "jogador": "https://streamtape.net/e/jWMvQ6KV6MTzVRX/Alta_Frequ%C3%AAncia"
   },
   {
@@ -500,7 +500,7 @@
     "categoria": "Drama",
     "id": "957176",
     "idade": "14",
-    "nome": "AlÃ©m do EscuridÃ£o",
+    "nome": "AlÃÂ©m do EscuridÃÂ£o",
     "player": "https://streamtape.net/e/PbzMYem60Rc0vd2/Alem.da.Escuridao.2022.1080p.DUBLADO.mkv.mp4"
   },
   {
@@ -508,7 +508,7 @@
     "categoria": "Romance",
     "id": "628333",
     "idade": "14",
-    "nome": "AlÃ©m das Montanhas",
+    "nome": "AlÃÂ©m das Montanhas",
     "player": "https://streamtape.net/e/yxwgo7jp6Ms1q92/Al%C3%A9m_das_Montanhas_%28_MX_FLIX%29\n"
   },
   {
@@ -516,7 +516,7 @@
     "categoria": "Terror",
     "id": "443791",
     "idade": "12",
-    "nome": "AmeaÃ§a Profunda",
+    "nome": "AmeaÃÂ§a Profunda",
     "player": "https://streamtape.net/e/Rmb4GGp0VAidom4/Amea%C3%A7a_Profunda_%28_MX_FLIX%29\n"
   },
   {
@@ -553,7 +553,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rVQmXioizm9bJJlYT03wEHU24h6.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "64688",
     "idade": "12",
     "nome": "Anjos da Lei",
@@ -561,7 +561,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/x6WSL1FmxCswB08Vkz19yoXs56l.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "187017",
     "idade": "14",
     "nome": "Anjos da Lei 2",
@@ -585,7 +585,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8BnoaS3M8zEVE6pCkOoyyEjswCH.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "528502",
     "idade": "14",
     "nome": "Aporia",
@@ -593,7 +593,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/yppruoimnrfKfbgvq9705bS0dDf.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "9788",
     "idade": "14",
     "nome": "Aprovados",
@@ -601,7 +601,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oB367uFcyU2uhGkFqo5RB4Evdji.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "297802",
     "idade": "12",
     "nome": "Aquaman",
@@ -609,7 +609,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "572802",
     "idade": "14",
     "nome": "Aquaman 2: O Reino Perdido",
@@ -644,7 +644,7 @@
     "categoria": "Drama",
     "id": "600583",
     "idade": "16",
-    "nome": "Ataque dos CÃ£es",
+    "nome": "Ataque dos CÃÂ£es",
     "player": "https://streamtape.net/e/WoGww6rg32Ibvb2/ataque-dos-caes-dublado-www.encontrei.tv"
   },
   {
@@ -652,20 +652,20 @@
     "categoria": "Romance",
     "id": "988078",
     "idade": "12",
-    "nome": "AtravÃ©s da Minha Janela: AlÃ©m-mar",
+    "nome": "AtravÃÂ©s da Minha Janela: AlÃÂ©m-mar",
     "player": "https://streamtape.net/e/x3QMk6jApxTQ2M/Minha_Janela%3A_Al%C3%A9m-Mar"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/88sCL8OQMoieKpHClqRCCbcgH6w.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "324786",
     "idade": "16",
-    "nome": "AtÃ© o Ãltimo Homem",
+    "nome": "AtÃÂ© o ÃÂltimo Homem",
     "jogador": "https://streamtape.net/e/plg6KZxM7GcrQeA/At%C3%A9_o_%C3%BAltimo_homem"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oBHqxI9NFi2m9vkQ2PNCGaZJpxL.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "19995",
     "idade": "10",
     "nome": "Avatar",
@@ -673,10 +673,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/m3CkWymzFl269Pjmc3eTPkvtdRl.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "10045",
     "idade": "12",
-    "nome": "B13: 13Âº Distrito",
+    "nome": "B13: 13ÃÂº Distrito",
     "player": "https://streamtape.net/e/VxeL01ZgBYuKK41/B13%3A_13%C2%BA_Distrito"
   },
   {
@@ -689,7 +689,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/2FgdtwT3Ln5PX4Sa0mkA70IPVXt.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "15015",
     "idade": "10",
     "nome": "Barbie como Rapunzel",
@@ -697,7 +697,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vk5RC1h4h5t50Opic3yo4hH8qAq.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "377897",
     "idade": "10",
     "nome": "Barbie e os Agentes Secretos",
@@ -705,7 +705,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9TtBy4l0yFZoUhR8dVwI3x5PJ5a.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "13004",
     "idade": "L",
     "nome": "Barbie e o Castelo de Diamante",
@@ -713,7 +713,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oOIdyQDj06G8V6AHQl4I7i1UCTT.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "15016",
     "idade": "L",
     "nome": "Barbie: Lago dos Cisnes",
@@ -721,7 +721,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/myDlxdPLbIuifwcsZhEEA9cxUqh.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "44874",
     "idade": "L",
     "nome": "Barbie: Moda e Magia",
@@ -729,7 +729,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rrD263RRyDPXqDY7FBtNP7gEuQZ.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "34134",
     "idade": "10",
     "nome": "Barbie: Vida de Sereia",
@@ -745,7 +745,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "886396",
     "idade": "L",
     "nome": "Batman e Superman: Batalha dos Super Filhos",
@@ -753,10 +753,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/opeo3R9l1AgbiIgPqpp1rtPXBwb.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "14919",
     "idade": "10",
-    "nome": "Batman: A MÃ¡scara do Fantasma",
+    "nome": "Batman: A MÃÂ¡scara do Fantasma",
     "player": "https://streamtape.net/e/Qr09YA9qa2t0OvA/BATMAN%3A_A_M%C3%81SCARA_DO_FANTASMA"
   },
   {
@@ -764,7 +764,7 @@
     "categoria": "Thriller",
     "id": "44833",
     "idade": "14",
-    "nome": "EncouraÃ§ado A Batalha dos Mares",
+    "nome": "EncouraÃÂ§ado A Batalha dos Mares",
     "player": "https://streamtape.net/e/41Pvj13LwOTKoA8/battleship-a-batalha-dos-mares-dublado-www.encontrei.tv"
   },
   {
@@ -780,12 +780,12 @@
     "categoria": "Drama",
     "id": "833286",
     "idade": "14",
-    "nome": "Bender: O InÃ­cio",
+    "nome": "Bender: O InÃÂ­cio",
     "jogador": "https://streamtape.net/e/yDYDvwD719h1q1j/Bender%3A_O_In%C3%ADcio_%28MX_FLIX%29\n"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/gA6sEygZlszxZZZTR5jD9rfleZO.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "565770",
     "idade": "14",
     "nome": "Besouro Azul",
@@ -833,55 +833,55 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pubLTvUi3K6Jx8DZ42CeepVikWK.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "8681",
     "idade": "14",
-    "nome": "Busca ImplacÃ¡vel",
+    "nome": "Busca ImplacÃÂ¡vel",
     "jogador": "https://streamtape.net/e/KLZW76Va6Dc4gB/Busca_Implac%C3%A1vel"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/laLGcxl36GAxahL5PbUC8qvabzO.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "82675",
     "idade": "14",
-    "nome": "Busca ImplacÃ¡vel 2",
+    "nome": "Busca ImplacÃÂ¡vel 2",
     "jogador": "https://streamtape.net/e/k31YV19laouOxYW/Busca_Implac%C3%A1vel_2"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4lAnC2BU7VhUG9wxHSOai67Tiqg.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "260346",
     "idade": "16",
-    "nome": "Busca ImplacÃ¡vel 3",
+    "nome": "Busca ImplacÃÂ¡vel 3",
     "player": "https://streamtape.net/e/Mjg09yRqGrCm7mm/Busca_Implac%C3%A1vel_3"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/88iNcBQl9eK6DWIlek9NG2b5fLX.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "100402",
     "idade": "12",
-    "nome": "CapitÃ£o AmÃ©rica 2: O Soldado Invernal",
+    "nome": "CapitÃÂ£o AmÃÂ©rica 2: O Soldado Invernal",
     "jogador": "https://streamtape.net/e/QDagjdWZPVI0YA9/Capit%C3%A3o_Am%C3%A9rica_2%3A_O_Soldado_Invernal"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "271110",
     "idade": "12",
-    "nome": "CapitÃ£o AmÃ©rica: Guerra Civil",
+    "nome": "CapitÃÂ£o AmÃÂ©rica: Guerra Civil",
     "player": "https://streamtape.net/e/erzQ8W9xQ0tY3wp/Capit%C3%A3o_Am%C3%A9rica%3A_Guerra_Civil"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1771",
     "idade": "12",
-    "nome": "CapitÃ£o AmÃ©rica: O Primeiro Vingador",
+    "nome": "CapitÃÂ£o AmÃÂ©rica: O Primeiro Vingador",
     "player": "https://streamtape.net/e/aVQlqPK00dHxkqd/Capit%C3%A3o_Am%C3%A9rica%3A_O_Primeiro_Vingador"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pUThEccecvgCERVJEUzZUBdqFO2.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "1181136",
     "idade": "14",
     "nome": "Cara a Cara com o ETA",
@@ -897,7 +897,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/7InkKCZeGemG0MVUi0JKJkJdb8s.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "8346",
     "idade": "12",
     "nome": "Casamento Grego",
@@ -905,7 +905,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5s5e5xTzUcpnRmFnPT1zXFnaJ5z.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "302688",
     "idade": "12",
     "nome": "Casamento Grego 2",
@@ -913,7 +913,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "1001811",
     "idade": "12",
     "nome": "Casamento Grego 3",
@@ -924,7 +924,7 @@
     "categoria": "Thriller",
     "id": "853588",
     "idade": "16",
-    "nome": "CaÃ§a InvisÃ­vel",
+    "nome": "CaÃÂ§a InvisÃÂ­vel",
     "jogador": "https://streamtape.net/e/dk9e1e9ykGIk8lJ/Capit%C3%A3o_Fant%C3%A1stico_%28_MX_FLIX%29\n"
   },
   {
@@ -932,20 +932,20 @@
     "categoria": "Terror",
     "id": "870671",
     "idade": "16",
-    "nome": "CaÃ§adores de Lobisomem",
+    "nome": "CaÃÂ§adores de Lobisomem",
     "player": "https://streamtape.com/v/23vZBMd1vvFK0d/cacadores-de-lobisomem-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bLurlqMXO5ljLw4NtL3cuaoWoCk.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "954748",
     "idade": "12",
-    "nome": "Queijos de GraÃ§a",
+    "nome": "Queijos de GraÃÂ§a",
     "player": "https://streamtape.com/v/292ww6Yd0khVRj/cheios-de-graca-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/eM4avuHgZYSo9uZmIBWFfgcCCNB.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "2666",
     "idade": "14",
     "nome": "Cidade das Sombras",
@@ -953,7 +953,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uLYdX64xJVZEFRQJZQU4A2ueMyB.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "736769",
     "idade": "16",
     "nome": "Clonaram Tyrone!",
@@ -961,7 +961,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5cC54gTj4BPMEA6BANSK3rLmc7Y.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "7214",
     "idade": "14",
     "nome": "Treinador Carter: Treino para a Vida",
@@ -969,10 +969,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/86YaF3sR3oFaIMhjjPQsTlkhLUq.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "10992",
     "idade": "12",
-    "nome": "Como CÃ£es e Gatos",
+    "nome": "Como CÃÂ£es e Gatos",
     "player": "https://streamtape.net/e/AkPwy2QOzRSW4K/Como_C%C3%A3es_e_Gatos"
   },
   {
@@ -980,7 +980,7 @@
     "categoria": "Romance",
     "id": "296096",
     "idade": "12",
-    "nome": "Como eu era antes de vocÃª",
+    "nome": "Como eu era antes de vocÃÂª",
     "player": "https://streamtape.net/e/ekxXkZeyGKTYM7e/Como_Eu_Era_Antes_de_Voc%C3%AA\n"
   },
   {
@@ -988,7 +988,7 @@
     "categoria": "Aventura",
     "id": "10191",
     "idade": "L",
-    "nome": "Como Treinar o Seu DragÃ£o",
+    "nome": "Como Treinar o Seu DragÃÂ£o",
     "player": "https://streamtape.net/e/Aoe8rdwRykIXVPk/como-treinar-o-seu-dragao-dublado-www.encontrei.tv"
   },
   {
@@ -996,20 +996,20 @@
     "categoria": "Aventura",
     "id": "82702",
     "idade": "L",
-    "nome": "Como Treinar o seu DragÃ£o 2",
+    "nome": "Como Treinar o seu DragÃÂ£o 2",
     "player": "https://streamtape.net/e/AwMzRDZYpWtX8q9/como-treinar-o-seu-dragao-2-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6NjkjDBkbu4je0XIfmIZEQ53b3k.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "9387",
     "idade": "16",
-    "nome": "Conan, o BÃ¡rbaro",
+    "nome": "Conan, o BÃÂ¡rbaro",
     "player": "https://streamtape.com/v/b7ORg3vzPLC28k/conan-o-barbaro-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ncMcHo9SASaKvopMa6xCyRiTnjq.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "505423",
     "idade": "18",
     "nome": "Contato Visceral",
@@ -1017,7 +1017,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "14836",
     "idade": "L",
     "nome": "Coraline e o Mundo Secreto",
@@ -1025,10 +1025,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tWBbNikf5ng7BuNGA55MkvhLrag.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "197",
     "idade": "14",
-    "nome": "CoraÃ§Ã£o Valente",
+    "nome": "CoraÃÂ§ÃÂ£o Valente",
     "player": "https://streamtape.com/v/RLezgMkqjPHdroX/Cora%C3%A7%C3%A3o_Valente_%281995%29_BluRay_1080p_Dual_%C3%81udio_%28By-KleysonLima%29_%281%29.mkv.mp4"
   },
   {
@@ -1036,7 +1036,7 @@
     "categoria": "Guerra",
     "id": "228150",
     "idade": "16",
-    "nome": "CoraÃ§Ãµes de Ferro",
+    "nome": "CoraÃÂ§ÃÂµes de Ferro",
     "player": "https://streamtape.net/e/LdxXPRLwRDhWeL/Cora%C3%A7%C3%B5es_De_Ferro"
   },
   {
@@ -1049,7 +1049,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1zNcJWXQYgMDAF3pNoqxU47FHfc.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "966220",
     "idade": "12",
     "nome": "Corvo Branco",
@@ -1057,7 +1057,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "337404",
     "idade": "12",
     "nome": "Cruela",
@@ -1065,7 +1065,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9RAdZn1pfRkeVSDwngvIQKsZd2Z.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "1495",
     "idade": "14",
     "nome": "Cruzada",
@@ -1073,7 +1073,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/kUqhcfr5IoaE76NOIQl53gn3y3Q.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "9377",
     "idade": "12",
     "nome": "Curtindo a Vida Adoidado",
@@ -1084,15 +1084,15 @@
     "categoria": "Thriller",
     "id": "22803",
     "idade": "14",
-    "nome": "CÃ³digo de Conduta",
+    "nome": "CÃÂ³digo de Conduta",
     "player": "https://streamtape.net/e/DolAXM3LmVCkpka/C%C3%B3digo_de_Conduta"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pmIXPqjZl50UP2dbglEKDfOOBZV.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "1058647",
     "idade": "14",
-    "nome": "De Tirar o FÃ´lego",
+    "nome": "De Tirar o FÃÂ´lego",
     "player": "https://streamtape.net/e/gqYJ8LY7MAFBkY/de-tirar-o-folego-dublado-www.encontrei.tv"
   },
   {
@@ -1105,7 +1105,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/jx6E3bufNYBdzPNkVLEvEKOLwq5.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "16007",
     "idade": "16",
     "nome": "Death Note: O Primeiro Nome",
@@ -1113,15 +1113,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/944LdA7uTyUO5vYc3hvqv5aRFow.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "1008903",
     "idade": "14",
-    "nome": "Deixados para TrÃ¡s O Ãnicio do Fim",
+    "nome": "Deixados para TrÃÂ¡s O ÃÂnicio do Fim",
     "player": "https://streamtape.net/e/BJzpq00VJJFypvp/deixados-para-tras-o-inicio-do-fim-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1WqFOSF3RwyK7OcgPtc51uJB9ym.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "9912",
     "idade": "10",
     "nome": "Desafiando os Limites",
@@ -1129,7 +1129,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bz44Ug0pzMwV0kjNTeS4y1lxUar.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "1082168",
     "idade": "16",
     "nome": "Desaparecida: O Caso Lucie Blackman",
@@ -1145,7 +1145,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/l8l92ZFSiuoMvrU94QWAe6cO02B.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "10982",
     "idade": "10",
     "nome": "Deu a Louca na Chapeuzinho",
@@ -1153,7 +1153,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/q9mvLBgHuB467qHH8WCwgfzItRy.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "57089",
     "idade": "10",
     "nome": "Deu a Louca na Chapeuzinho 2",
@@ -1161,7 +1161,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4xJb2Nll3vHKztHVasHwf6603MB.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "205584",
     "idade": "12",
     "nome": "Deuses do Egito",
@@ -1172,15 +1172,15 @@
     "categoria": "Thriller",
     "id": "995206",
     "idade": "18",
-    "nome": "Dias DifÃ­ceis JP",
+    "nome": "Dias DifÃÂ­ceis JP",
     "player": "https://streamtape.com/v/8PaX3Y2oy6Hoz10/dias-dificeis-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1tbFuwWZOcAXySQ2A1KpxExUirH.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "1123093",
     "idade": "L",
-    "nome": "DiÃ¡rio de uma Banana no Natal: Casa dos Horrores",
+    "nome": "DiÃÂ¡rio de uma Banana no Natal: Casa dos Horrores",
     "player": "https://streamtape.com/v/bvWYb7ADOzFPpQM/Diary.of.a.Wimpy.Kid.Christmas.Cabin.Fever.2023.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H. 264-FLUX.DUAL-C76_%281%29.mkv.mp4"
   },
   {
@@ -1188,20 +1188,20 @@
     "categoria": "Romance",
     "id": "11036",
     "idade": "12",
-    "nome": "DiÃ¡rio de uma PaixÃ£o",
+    "nome": "DiÃÂ¡rio de uma PaixÃÂ£o",
     "jogador": "https://streamtape.net/e/8dXjlVkMBDFJZL/Di%C3%A1rio_de_uma_Paix%C3%A3o_2004"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/z9NjhugUtE0Fm2TCEU6wk1rjYqu.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "532327",
     "idade": "12",
-    "nome": "Dois DoidÃµes em Harvard 2",
+    "nome": "Dois DoidÃÂµes em Harvard 2",
     "jogador": "https://streamtape.net/e/PJWJavQWK8S06Q4/Dois_Doid%C3%B5es_em_Harvard_2"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wK6bCgPTDxwkx8KnKGcZMmviTZA.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "466550",
     "idade": "12",
     "nome": "Dirigir",
@@ -1209,7 +1209,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "438631",
     "idade": "14",
     "nome": "Duna",
@@ -1217,7 +1217,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "755566",
     "idade": "14",
     "nome": "Dupla Jornada",
@@ -1225,7 +1225,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tvBGnEzDMK09PvH0fESCnrhpAeo.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "1954",
     "idade": "14",
     "nome": "Efeito Borboleta",
@@ -1233,7 +1233,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6oGF8yxrzSEiBfx3pltTyWUC3KG.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "14620",
     "idade": "14",
     "nome": "Efeito Borboleta 2",
@@ -1241,10 +1241,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/HdgTkLzVx08sfUyUNTivb2EoV7.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "16258",
     "idade": "14",
-    "nome": "Efeito Borboleta: RevelaÃ§Ã£o",
+    "nome": "Efeito Borboleta: RevelaÃÂ§ÃÂ£o",
     "jogador": "https://streamtape.com/v/G9G6rX86ZPC1Kwd/EFEITO_BORBOLETA%3A_REVELA%C3%87%C3%83O_2009"
   },
   {
@@ -1257,7 +1257,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "568124",
     "idade": "L",
     "nome": "Encanto",
@@ -1281,7 +1281,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/cA9ihYHlTBfbWKXxjgmVpl7QJGx.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "790416",
     "idade": "14",
     "nome": "Esculturas da Vida",
@@ -1289,7 +1289,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/v8ct2LskBXLcPHrW3uvtpyTcwfl.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "50546",
     "idade": "14",
     "nome": "Esposa de Mentirinha",
@@ -1297,18 +1297,18 @@
   },
   {
     "capa": "https://www.themoviedb.org/t/p/w220_and_h330_face/h5eUcGzuVwiz6AHRFOx4MlVALqg.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "100",
     "idade": "12",
-    "nome": "EsquadrÃ£o classe A",
+    "nome": "EsquadrÃÂ£o classe A",
     "player": "https://streamtape.net/e/QyQea6Bz0wF00qo/esquadrao-classe-a-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/avc0QOU93qnpH9b9ocDGBwL68Qr.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "87428",
     "idade": "12",
-    "nome": "Este Ã© o Meu Garoto",
+    "nome": "Este ÃÂ© o Meu Garoto",
     "player": "https://streamtape.net/e/7zjyMzyGAWsALOd/Este_%C3%89_o_Meu_Garoto"
   },
   {
@@ -1316,12 +1316,12 @@
     "categoria": "Drama",
     "id": "381284",
     "idade": "14",
-    "nome": "Estrelas AlÃ©m do Tempo",
+    "nome": "Estrelas AlÃÂ©m do Tempo",
     "player": "https://streamtape.com/v/yAKrpGWrj2i1PZx/estrelas-alem-do-tempo-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/2xtqkht2u7SkrZPd6zyMRymE4nt.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "499338",
     "idade": "12",
     "nome": "Eu acredito",
@@ -1329,18 +1329,18 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8mJkevQKSKyinWRa6XGVyluXJq8.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "1128719",
     "idade": "L",
-    "nome": "Explorando o Desconhecido: A MÃ¡quina do Tempo CÃ³smica",
+    "nome": "Explorando o Desconhecido: A MÃÂ¡quina do Tempo CÃÂ³smica",
     "player": "https://streamtape.net/e/M6YY6k0gRqHmXwX/explorando-o-desconhecido-a-maquina-do-tempo-cosmica-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uEf1CrF8sH3vSXbYIggoinf48ch.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1825",
     "idade": "12",
-    "nome": "FalcÃ£o: O CampeÃ£o dos CampeÃµes",
+    "nome": "FalcÃÂ£o: O CampeÃÂ£o dos CampeÃÂµes",
     "jogador": "https://streamtape.net/e/JkVXWGVGkkU9re/Falc%C3%A3o_-_O_Campe%C3%A3o_dos_Campe%C3%B5es"
   },
   {
@@ -1361,7 +1361,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "707886",
     "idade": "12",
     "nome": "Sinta a batida",
@@ -1404,12 +1404,12 @@
     "categoria": "Drama",
     "id": "626332",
     "idade": "12",
-    "nome": "Flamin' Hot: O Sabor que Mudou a HistÃ³ria",
+    "nome": "Flamin' Hot: O Sabor que Mudou a HistÃÂ³ria",
     "player": "https://streamtape.net/e/Q0o1644BJXT0QPe/flamin039-hot-o-sabor-que-mudou-a-historia-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "359724",
     "idade": "12",
     "nome": "Ford x Ferrari",
@@ -1425,7 +1425,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/hOZKUJGN0m717LRSQDxhgABqWrf.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "109445",
     "idade": "L",
     "nome": "Frozen Uma Aventura Congelante",
@@ -1433,7 +1433,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/gowwCKxLvqnkMzlImDW3ONJWMu1.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "326359",
     "idade": "L",
     "nome": "Congelado: Febre Congelante",
@@ -1452,7 +1452,7 @@
     "categoria": "Fantasia",
     "id": "960700",
     "idade": "12",
-    "nome": "Fullmetal Alchemist: A VinganÃ§a de Scar",
+    "nome": "Fullmetal Alchemist: A VinganÃÂ§a de Scar",
     "jogador": "https://streamtape.net/e/VdAGykdpdouKWda/Fullmetal_Alchemist%3A_A_Vingan%C3%A7a_de_Scar\n"
   },
   {
@@ -1460,20 +1460,20 @@
     "categoria": "Drama",
     "id": "878375",
     "idade": "10",
-    "nome": "FÃ© nas Alturas",
+    "nome": "FÃÂ© nas Alturas",
     "jogador": "https://streamtape.net/e/z6Q7GOZbWlSvlO/F%C3%A9_nas_Alturas"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "399402",
     "idade": "14",
-    "nome": "FÃºria em Alto Mar",
+    "nome": "FÃÂºria em Alto Mar",
     "jogador": "https://streamtape.net/e/Zzb8kAjOZZuqaKO/F%C3%BAria_em_Alto_Mar"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bXwKOr1LnYMetY7mROBQ3MFhb1a.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "9513",
     "idade": "L",
     "nome": "Garfield 2",
@@ -1481,7 +1481,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/h0gAs7tvBDh2eCasfPG0VgyKoQL.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "16460",
     "idade": "L",
     "nome": "Garfield Cai Na Real",
@@ -1489,7 +1489,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/co8AsyQc2KDMUooWMLq7ACw7jnR.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "8920",
     "idade": "L",
     "nome": "Garfield O Filme",
@@ -1500,15 +1500,15 @@
     "categoria": "Fantasia",
     "id": "1189198",
     "idade": "10",
-    "nome": "GÃªnio - A Magia do Natal",
+    "nome": "GÃÂªnio - A Magia do Natal",
     "player": "https://streamtape.com/v/yoPPk3k1k0h1WKZ/Genie.A.Magia.do.Natal.2023.1080p.Dublado.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "878361",
     "idade": "14",
-    "nome": "George Foreman: Sua HistÃ³ria",
+    "nome": "George Foreman: Sua HistÃÂ³ria",
     "player": "https://streamtape.com/v/903V798BzQIojA/George.Foreman.Sua.Historia.2023.1080p.HMAX.WEB-DL.DD2.0.x264-PiA_%281%29.mkv.mp4"
   },
   {
@@ -1516,12 +1516,12 @@
     "categoria": "Fantasia",
     "id": "425909",
     "idade": "12",
-    "nome": "Ghostbusters: Mais AlÃ©m",
+    "nome": "Ghostbusters: Mais AlÃÂ©m",
     "player": "https://streamtape.net/e/e4AjBayG7xhYWve/ghostbusters-mais-alem-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "\n868759",
     "idade": "14",
     "nome": "Ghosted: Sem Resposta",
@@ -1529,15 +1529,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "661374",
     "idade": "16",
-    "nome": "Cebola de Vidro: Um MistÃ©rio Knives Out",
+    "nome": "Cebola de Vidro: Um MistÃÂ©rio Knives Out",
     "jogador": "https://streamtape.net/e/J23k19420lFjzDJ/Glass_Onion%3A_Um_Mist%C3%A9rio_Knives_Out"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9dyFXQwmFHI1gMn2JEczgKD1hwO.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "124905",
     "idade": "16",
     "nome": "Godzilla - 2014",
@@ -1545,7 +1545,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/2umU3r6V4V2gTmSnZJmH61nTorF.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "373571",
     "idade": "14",
     "nome": "Godzilla II: Rei dos Monstros",
@@ -1553,7 +1553,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/iXrCBynsyRGbOtoBeWjt1bRINuA.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "940721",
     "idade": "12",
     "nome": "Godzilla Menos Um",
@@ -1564,7 +1564,7 @@
     "categoria": "Drama",
     "id": "9763",
     "idade": "10",
-    "nome": "Gol!: O Sonho ImpossÃ­vel",
+    "nome": "Gol!: O Sonho ImpossÃÂ­vel",
     "player": "https://streamtape.net/e/7pZG10O0rwsAAeL/Gol%21_-_O_Sonho_Imposs%C3%ADvel"
   },
   {
@@ -1572,31 +1572,31 @@
     "categoria": "Terror",
     "id": "309013",
     "idade": "18",
-    "nome": "Grito de PÃ¢nico",
+    "nome": "Grito de PÃÂ¢nico",
     "player": "https://streamtape.net/e/0ReZLv7k8QsZjJ/grito-de-panico-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/sUGYYLTtE4k5T1DBki033J6qAwY.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "GuardiÃµes da GalÃ¡xia",
+    "nome": "GuardiÃÂµes da GalÃÂ¡xia",
     "player": "https://streamtape.net/e/dj2WYlv2oYu96V/guardioes-da-galaxia-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/3yum4eL013NesiXjsGkaMVQecJn.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "14",
-    "nome": "GuardiÃµes da GalÃ¡xia Vol 3",
+    "nome": "GuardiÃÂµes da GalÃÂ¡xia Vol 3",
     "player": "https://streamtape.net/e/XYMrogejboUDRxp/guardioes-da-galaxia-vol-3-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4trb7VI220GFVUvFlO0cj11SWyi.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "16",
-    "nome": "Guerra AlienÃ­gena",
+    "nome": "Guerra AlienÃÂ­gena",
     "player": "https://streamtape.net/e/jgMyGpAwy8FzOZP/Guerra.Alienigena.Dublado.1080p.2022.WWW.FREEFILMES.NET.mkv.mp4\n"
   },
   {
@@ -1609,18 +1609,18 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/jAMEX0syUh6sbjBiysibzrFpbo.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "348350",
     "idade": "12",
-    "nome": "Han Solo: Uma HistÃ³ria Star Wars",
+    "nome": "Han Solo: Uma HistÃÂ³ria Star Wars",
     "player": "https://streamtape.net/e/P8Pg6qk1DKI0ZgX/han-solo-uma-historia-star-wars-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1zc0pHgfYZ1JcB5H2xA37j9pbTr.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "555768",
     "idade": "12",
-    "nome": "Happy Hour - Verdades e ConsequÃªncias",
+    "nome": "Happy Hour - Verdades e ConsequÃÂªncias",
     "player": "https://streamtape.net/e/pLe91keRDysDak/happy-hour-verdades-e-consequencias-dublado-www.encontrei.tv"
   },
   {
@@ -1628,7 +1628,7 @@
     "categoria": "Fantasia",
     "id": "0",
     "idade": "L",
-    "nome": "Harry Potter e a CÃ¢mara Secreta",
+    "nome": "Harry Potter e a CÃÂ¢mara Secreta",
     "player": "https://streamtape.net/e/w4Y98L26r9SJJJ7/harry-potter-ea-camara-secreta-dublado-www.encontrei.tv"
   },
   {
@@ -1644,7 +1644,7 @@
     "categoria": "Fantasia",
     "id": "0",
     "idade": "14",
-    "nome": "Harry Potter e o CÃ¡lice de Fogo",
+    "nome": "Harry Potter e o CÃÂ¡lice de Fogo",
     "player": "https://streamtape.net/e/r4XA0ZQpxQTbjqO/harry-potter-eo-calice-de-fogo-dublado-www.encontrei.tv"
   },
   {
@@ -1652,7 +1652,7 @@
     "categoria": "Fantasia",
     "id": "0",
     "idade": "12",
-    "nome": "Harry Potter e o Enigma do PrÃ­ncipe",
+    "nome": "Harry Potter e o Enigma do PrÃÂ­ncipe",
     "player": "https://streamtape.net/e/86pkmAV62KHoa9M/harry-potter-eo-enigma-do-principe-dublado-www.encontrei.tv"
   },
   {
@@ -1660,20 +1660,20 @@
     "categoria": "Drama",
     "id": "949640",
     "idade": "12",
-    "nome": "HeranÃ§a de FamÃ­lia",
+    "nome": "HeranÃÂ§a de FamÃÂ­lia",
     "player": "https://streamtape.com/v/4AWKZbRjGeuKKeV/heranca-de-familia-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wuuC2UVWsCSvAQNxvJiRJZLuYD3.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "1109527",
     "idade": "L",
-    "nome": "HerÃ³is da MÃ¡scara Dourada",
+    "nome": "HerÃÂ³is da MÃÂ¡scara Dourada",
     "player": "https://streamtape.net/e/o1orwKGoVziJwlB/Herois.da.Mascara.Dourada.2023.1080p.DUBLADO.mkv.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/haw5Uz30g5nUJfHlzpJIhMQQE7q.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
     "nome": "Hitman: Agente 47",
@@ -1689,7 +1689,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Homem de Ferro 2",
@@ -1697,7 +1697,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Homem de Ferro 3",
@@ -1705,23 +1705,23 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6E5OJfpoUM7k8C1bORXI1lXwhKD.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "Homem de Ferro e CapitÃ£o AmÃ©rica: Super-HerÃ³is Unidos",
+    "nome": "Homem de Ferro e CapitÃÂ£o AmÃÂ©rica: Super-HerÃÂ³is Unidos",
     "player": "https://streamtape.net/e/aqo92YeA03TxGJQ/Homem_de_Ferro_e_o_Capit%C3%A3o_Am%C3%A9rica_Super-Her%C3%B3is_Unidos"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6a7NItazspSV8Fl7u46ccxwPKk4.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
-    "nome": "Homem-Aranha: AtravÃ©s do Aranhaverso",
+    "nome": "Homem-Aranha: AtravÃÂ©s do Aranhaverso",
     "player": "https://streamtape.net/e/Zoy28WmYGkIqDZM/Homem-Aranha%3A_Atrav%C3%A9s_do_Aranhaverso"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Homem-Aranha: De Volta ao Lar",
@@ -1729,7 +1729,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
     "nome": "Homem-Aranha: Longe de Casa",
@@ -1737,7 +1737,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
     "nome": "Homem-Formiga",
@@ -1745,7 +1745,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Homem-Formiga e a Vespa",
@@ -1753,7 +1753,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Homem-Formiga e a Vespa: Quantumania",
@@ -1761,7 +1761,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "12",
     "nome": "Sociedade de Honra",
@@ -1772,23 +1772,23 @@
     "categoria": "Thriller",
     "id": "406761",
     "idade": "16",
-    "nome": "Hotel Ãrtemis",
+    "nome": "Hotel ÃÂrtemis",
     "player": "https://streamtape.net/e/jZzldommVJhzeg9/hotel-artemis-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/qU5OoGW31ahW9ANZU5tIwmPydKC.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "536437",
     "idade": "16",
-    "nome": "HipnÃ³tico AmeaÃ§a InvisÃ­vel",
+    "nome": "HipnÃÂ³tico AmeaÃÂ§a InvisÃÂ­vel",
     "player": "https://streamtape.com/v/RXA9yYDBdrIdbbl/HYPNOTIC.-.AMEACA.INVISIVEL.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76_%281%29. mkv.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wbhe0l7WhcMMAjwvfiyFlnQ8diD.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "956920",
     "idade": "16",
-    "nome": "HÃ¡ Algo no Celeiro",
+    "nome": "HÃÂ¡ Algo no Celeiro",
     "player": "https://streamtape.com/v/lG4mvyyOJKS7RO8/Theres.Something.In.The.Barn.2023.720p.Dub.Filmesmp4.com.mp4"
   },
   {
@@ -1812,7 +1812,7 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "14",
-    "nome": "ImperdoÃ¡vel",
+    "nome": "ImperdoÃÂ¡vel",
     "player": "https://streamtape.net/e/YwVz0KdgjAUvyPl/imperdoavel-dublado-www.encontrei.tv"
   },
   {
@@ -1828,12 +1828,12 @@
     "categoria": "Aventura",
     "id": "335977",
     "idade": "14",
-    "nome": "Indiana Jones e A RelÃ­quia do Destino",
+    "nome": "Indiana Jones e A RelÃÂ­quia do Destino",
     "player": "https://streamtape.com/v/ld0rVZOZVwC7qre/indiana-jones-ea-reliquia-do-destino-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "10",
     "nome": "Interestelar",
@@ -1841,10 +1841,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/v5Jodmj8equxBklBlhZMHJtkp5J.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "681887",
     "idade": "12",
-    "nome": "InvasÃ£o CÃ³smica",
+    "nome": "InvasÃÂ£o CÃÂ³smica",
     "player": "https://streamtape.com/v/BBgem6mYo6tyZYg/invasao-cosmica-dublado-www.encontrei.tv"
   },
   {
@@ -1852,7 +1852,7 @@
     "categoria": "Terror",
     "id": "138843",
     "idade": "18",
-    "nome": "InvocaÃ§Ã£o do Mal",
+    "nome": "InvocaÃÂ§ÃÂ£o do Mal",
     "jogador": "https://streamtape.com/v/zQQZBYjedKIYzpr/INVOCA%C3%87%C3%83O_DO_MAL_1"
   },
   {
@@ -1860,7 +1860,7 @@
     "categoria": "Terror",
     "id": "259693",
     "idade": "18",
-    "nome": "InvocaÃ§Ã£o do Mal 2",
+    "nome": "InvocaÃÂ§ÃÂ£o do Mal 2",
     "jogador": "https://streamtape.com/v/pbgYJl3JlZUrMee/INVOCA%C3%87%C3%83O_DO_MAL_2"
   },
   {
@@ -1868,28 +1868,28 @@
     "categoria": "Terror",
     "id": "423108",
     "idade": "18",
-    "nome": "InvocaÃ§Ã£o do Mal 3: A Ordem do DemÃ´nio",
+    "nome": "InvocaÃÂ§ÃÂ£o do Mal 3: A Ordem do DemÃÂ´nio",
     "jogador": "https://streamtape.com/v/MxW3ZeDeV8ImZr6/INVOCA%C3%87%C3%83O_DO_MAL_3"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ozHweLTPGEWRQyr1z4npGjm6ko0.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "965571",
     "idade": "12",
-    "nome": "IrmÃ£os de Guerra",
+    "nome": "IrmÃÂ£os de Guerra",
     "jogador": "https://streamtape.com/v/bP6v3L2gaktR70/Patriots.Time.dub.mp4_1%2C011.74_MB.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/14Wj4HZOdPmN2DXNbXXvJH2DwIf.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
-    "nome": "Jack Reacher: O Ãltimo Tiro",
+    "nome": "Jack Reacher: O ÃÂltimo Tiro",
     "player": "https://streamtape.net/e/goZORZmlG8cq023/Jack_Reacher%3A_O_%C3%9Altimo_Tiro"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4cnLIFdmZbxPTajcXAyOL3mMCKr.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Jack Reacher: Sem Retorno",
@@ -1897,7 +1897,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "10",
     "nome": "Jerry & Marge Tiram a Sorte Grande",
@@ -1913,7 +1913,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/js0sBACrLX6QMBImDFTG1fYAU7k.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
     "nome": "Jogo de Amor em Las Vegas",
@@ -1924,60 +1924,60 @@
     "categoria": "Drama",
     "id": "695721",
     "idade": "12",
-    "nome": "Jogos Vorazes: A Cantiga dos PÃ¡ssaros e das Serpentes",
+    "nome": "Jogos Vorazes: A Cantiga dos PÃÂ¡ssaros e das Serpentes",
     "player": "https://streamtape.com/v/b2JBbDyKPPixQX/jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4PEFpm3YmZu03XLszBQvlbl9eVB.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "0",
     "idade": "10",
-    "nome": "JosÃ©: O Rei dos Sonhos",
+    "nome": "JosÃÂ©: O Rei dos Sonhos",
     "player": "https://streamtape.net/e/OY99YB3WAOhZvBq/Jos%C3%A9%3A_O_Rei_dos_Sonhos"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
-    "nome": "KaratÃª Kid",
+    "nome": "KaratÃÂª Kid",
     "jogador": "https://streamtape.net/e/b36MXmM79YUPj2B/Karate_Kid_%282010%29_DUAL_AUDIO_720p_-_Douglasvip.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8j0T9oV8WHsDoiDpPSQAXpdWP29.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "KaratÃª Kid 2: A Hora da Verdade ContÃ­nua",
+    "nome": "KaratÃÂª Kid 2: A Hora da Verdade ContÃÂ­nua",
     "player": "https://streamtape.net/e/8vlAw1Ob6OUoKw6/Karate_Kid_2_-_A_Hora_da_Verdade_Continua_%5B1986%5D_-_BluRay_720p_Dublado.mkv.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/7P93pIUQFdMV1sz1JKzu61xWx5A.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
-    "nome": "KaratÃª Kid 3: O Desafio Final",
+    "nome": "KaratÃÂª Kid 3: O Desafio Final",
     "player": "https://streamtape.net/e/9qp1ewzgjGCaMqA/Karat%C3%AA_Kid_3_-_O_Desafio_Final_%5B1989%5D_-_BluRay_720p_Dublado.mkv.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/k8lduAlGOXDYYKSlBeJ0CDyra0x.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
-    "nome": "Kingsman: O CÃ­rculo Dourado",
+    "nome": "Kingsman: O CÃÂ­rculo Dourado",
     "player": "https://streamtape.net/e/8Wkzr0MzbYhoLq6/Kingsman%3A_O_C%C3%ADrculo_Dourado"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/psXtNAL9YJtTzqyCiOL1BLLxN6C.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
-    "nome": "Kingsman: ServiÃ§o Secreto",
+    "nome": "Kingsman: ServiÃÂ§o Secreto",
     "jogador": "https://streamtape.net/e/KLYwLxo82XcDLd/Kingsman%3A_Servi%C3%A7o_Secreto"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rO1YoR49hs9QPla0vwCxrMLln33.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "L",
     "nome": "Kung Fu Futebol Clube",
@@ -1985,7 +1985,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/xKkcdm8Hta88pKrYQo1z8aNdtIB.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
     "nome": "LEGO Ninjago Dia da Despedida",
@@ -1993,7 +1993,7 @@
   },
   {
     "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2F3dm7-ZvXRErmVHJNO-vdNE6MR4kZhp0Q&usqp=CAU",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "971041",
     "idade": "L",
     "nome": "LUCCAS NETO E OS AVENTUREIROS BRINCANDO DE GINCANA",
@@ -2009,7 +2009,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/hEt3GTGknWBtfnWQAlUS3vqMKE2.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Lara Croft: Tomb Raider - A Origem da Vida",
@@ -2017,7 +2017,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "955916",
     "idade": "14",
     "nome": "Elevador: Roubo nas Alturas",
@@ -2025,18 +2025,18 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vsiDOIO4APrPQQ4xx8vJW8N0uHV.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "1155089",
     "idade": "10",
-    "nome": "Liga da JustiÃ§a: Crise nas Infinitas Terras - Parte 1",
+    "nome": "Liga da JustiÃÂ§a: Crise nas Infinitas Terras - Parte 1",
     "player": "https://streamtape.com/v/bkQYpvKmzAcPyX7/liga-da-justica-crise-nas-infinitas-terras-parte-1-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/yxXOMGosmqgjFicfmde61wnwQQ4.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "1003581",
     "idade": "L",
-    "nome": "Liga da JustiÃ§a: Mundo BÃ©lico",
+    "nome": "Liga da JustiÃÂ§a: Mundo BÃÂ©lico",
     "player": "https://streamtape.net/e/q80xdqMR2lszVvY/liga-da-justica-mundo-belico-dublado-www.encontrei.tv"
   },
   {
@@ -2057,7 +2057,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/m6Ockf2oYhxXoBIBaRLDwCOE410.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
     "nome": "Luca",
@@ -2073,7 +2073,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/zkHkMLoC41euiPZG62wslcHLreH.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1214314",
     "idade": "14",
     "nome": "Mais Um Tiro Certo",
@@ -2081,7 +2081,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/b9K9ftcfpycvZh7D2rwWVyWB80M.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "139432",
     "idade": "12",
     "nome": "Mamonas Pra Sempre",
@@ -2097,18 +2097,18 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uFwxmphIAqnX8oDKhf3EOrvtW11.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
-    "nome": "Mar em FÃºria",
+    "nome": "Mar em FÃÂºria",
     "player": "https://streamtape.net/e/XbJD80OXdghDR1g/Mar_Em_F%C3%BAria"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "615656",
     "idade": "14",
-    "nome": "MegatubarÃ£o 2",
+    "nome": "MegatubarÃÂ£o 2",
     "player": "https://streamtape.net/e/J3lOJYkwqWsjzGG/megatubarao-2-dublado-www.encontrei.tv"
   },
   {
@@ -2116,12 +2116,12 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "14",
-    "nome": "MemÃ³rias de VerÃ£o",
+    "nome": "MemÃÂ³rias de VerÃÂ£o",
     "player": "https://streamtape.net/e/xlwMkaBDWVFkM9R/Mem%C3%B3rias_de_Ver%C3%A3o\n"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/sa18Fb4RIdd37u7KILVPA05rYIa.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Mergulho Radical 2: Os Recifes",
@@ -2129,7 +2129,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "2",
     "idade": "L",
     "nome": "Meu Malvado Favorito",
@@ -2137,7 +2137,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/gWakumkwCwcsnVvAW7I2gCgQpcT.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "12",
     "nome": "Meu Passado Me Condena: O Filme",
@@ -2148,7 +2148,7 @@
     "categoria": "Drama",
     "id": "901845",
     "idade": "12",
-    "nome": "Meu PedaÃ§o de Terra",
+    "nome": "Meu PedaÃÂ§o de Terra",
     "player": "https://streamtape.com/v/K0Mp0Wgw7OU0XJ0/meu-pedaco-de-terra-dublado-www.encontrei.tv"
   },
   {
@@ -2156,7 +2156,7 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "12",
-    "nome": "Meu Professor, Minha ObsessÃ£o",
+    "nome": "Meu Professor, Minha ObsessÃÂ£o",
     "player": "https://streamtape.net/e/KzrMlegpxyi01ak/Meu_Professor%2C_Minha_Obsess%C3%A3o"
   },
   {
@@ -2180,15 +2180,15 @@
     "categoria": "Drama",
     "id": "1119355",
     "idade": "16",
-    "nome": "Minha SolidÃ£o Tem Asas",
+    "nome": "Minha SolidÃÂ£o Tem Asas",
     "player": "https://streamtape.com/v/MxoVOAepVoHmR06/minha-solidao-tem-asas-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/dX4zUmTl86s1ao92aKJG1pbrjhO.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1062482",
     "idade": "16",
-    "nome": "MissÃ£o Condor - 2023",
+    "nome": "MissÃÂ£o Condor - 2023",
     "player": "https://streamtape.com/v/JXoGVyRORqCZGw/missao-condor-dublado-www.encontrei.tv"
   },
   {
@@ -2196,28 +2196,28 @@
     "categoria": "Thriller",
     "id": "0",
     "idade": "14",
-    "nome": "MistÃ©rio em Alto Mar",
+    "nome": "MistÃÂ©rio em Alto Mar",
     "player": "https://streamtape.net/e/ygPLvYPXyyfBY3/misterio-em-alto-mar-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/cmmXToVLRW6jCcUoacf5kRB4Qru.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "1230393",
     "idade": "10",
-    "nome": "Monstros: A MaldiÃ§Ã£o do DragÃ£o",
+    "nome": "Monstros: A MaldiÃÂ§ÃÂ£o do DragÃÂ£o",
     "player": "https://streamtape.com/v/A1yOB8l9x8tXMw1/monstros-a-maldicao-do-dragao-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/hx8KzQ9C1UoshyTGf094dCIDsfi.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
-    "nome": "Motorista de TÃ¡xi",
+    "nome": "Motorista de TÃÂ¡xi",
     "jogador": "https://streamtape.net/e/3rYWPW8MZMSdwzV/O_Motorista_de_T%C3%A1xi"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/olETegpIsLwrApT1ldOKIwFE8lY.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "937949",
     "idade": "12",
     "nome": "Mussum: O Filmis",
@@ -2225,10 +2225,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "753342",
     "idade": "14",
-    "nome": "NapoleÃ£o",
+    "nome": "NapoleÃÂ£o",
     "player": "https://streamtape.com/v/go061evyyyTqMBq/napoleao-dublado-www.encontrei.tv"
   },
   {
@@ -2257,15 +2257,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/hCRZCkQScaK0cg2tfgqNZKYgff4.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "939338",
     "idade": "14",
-    "nome": "Nina: A HeroÃ­na dos Sete Mares",
+    "nome": "Nina: A HeroÃÂ­na dos Sete Mares",
     "player": "https://streamtape.com/v/xP990aM9y7FkeDy/nina-a-heroina-dos-sete-mares-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1t1bf7upwyEDq0OGpz0DvNhk7Ki.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "0",
     "idade": "16",
     "nome": "No Caminho da Cura",
@@ -2273,10 +2273,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rnEcFnQYgZ6mmxeeaEeLNSZdgD8.jpg",
-    "categoria": "MÃºsica",
+    "categoria": "MÃÂºsica",
     "id": "0",
     "idade": "12",
-    "nome": "No Ritmo do CoraÃ§Ã£o",
+    "nome": "No Ritmo do CoraÃÂ§ÃÂ£o",
     "player": "https://streamtape.net/e/wVWvOqXeQqTJbRb/no-ritmo-do-coracao-dublado-www.encontrei.tv"
   },
   {
@@ -2300,7 +2300,7 @@
     "categoria": "Terror",
     "id": "1024773",
     "idade": "14",
-    "nome": "NÃ£o Abra!",
+    "nome": "NÃÂ£o Abra!",
     "jogador": "https://streamtape.com/v/JKdWBMw7GjtjKvl/Nao.Abra.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-DUAL-C76_%281%29.mkv.mp4"
   },
   {
@@ -2308,23 +2308,23 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "NÃ£o desligar",
+    "nome": "NÃÂ£o desligar",
     "jogador": "https://streamtape.net/e/pLXjZJm999frgxd/N%C3%A3o_desligue"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "16",
-    "nome": "NÃ£o Olhe para Cima",
+    "nome": "NÃÂ£o Olhe para Cima",
     "player": "https://streamtape.net/e/oGAbQvKGxKcJeWy/N%C3%A3o_Olhe_para_Cima\n"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/2AsEpkZpDsnLgZPSQgADZwouKHV.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "12",
-    "nome": "NÃ£o Se Preocupe, Nada Vai Dar Certo!",
+    "nome": "NÃÂ£o Se Preocupe, Nada Vai Dar Certo!",
     "player": "https://streamtape.net/e/7P6qvQj3p9uA140/N%C3%A3o_Se_Preocupe%2C_Nada_Vai_Dar_Certo"
   },
   {
@@ -2332,7 +2332,7 @@
     "categoria": "Romance",
     "id": "0",
     "idade": "12",
-    "nome": "O Amor Ã© Cego",
+    "nome": "O Amor ÃÂ© Cego",
     "jogador": "https://streamtape.net/e/xqOBGjgmwyukr8J/o_amor_%C3%A9_cego"
   },
   {
@@ -2345,7 +2345,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "40096",
     "idade": "10",
     "nome": "O Auto da Compadecida",
@@ -2353,7 +2353,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/zpeJyyX6panT3IiKFrEFwJ6oxRL.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "O Buscador",
@@ -2377,26 +2377,26 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/feyfwGwJOdUAAqjTP3vXJmSesAt.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "591",
     "idade": "12",
-    "nome": "O CÃ³digo Da Vinci",
+    "nome": "O CÃÂ³digo Da Vinci",
     "jogador": "https://streamtape.net/e/pLzGBxXpLofr66l/O_C%C3%B3digo_Da_Vinci_2006"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/sPWgcYVnmD58xKWzCgxGOhYlh0i.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "25992",
     "idade": "12",
-    "nome": "O CÃ³digo da BÃ­blia",
+    "nome": "O CÃÂ³digo da BÃÂ­blia",
     "jogador": "https://streamtape.net/e/rAwQ3jd72OsbLjZ/O_C%C3%B3digo_da_B%C3%ADblia"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oRjRgdUuSelBEOmYn5Ha6bIIxR8.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "O DiÃ¡rio de Bridget Jones",
+    "nome": "O DiÃÂ¡rio de Bridget Jones",
     "jogador": "https://streamtape.net/e/O2vxjlXDRWuZdz1/O_Di%C3%A1rio_de_Bridget_Jones"
   },
   {
@@ -2412,7 +2412,7 @@
     "categoria": "Romance",
     "id": "0",
     "idade": "14",
-    "nome": "O EspaÃ§o Entre NÃ³s",
+    "nome": "O EspaÃÂ§o Entre NÃÂ³s",
     "player": "https://streamtape.net/e/G9QB1YJQm0s1ekd/O_Espa%C3%A7o_Entre_N%C3%B3s"
   },
   {
@@ -2420,12 +2420,12 @@
     "categoria": "Aventura",
     "id": "0",
     "idade": "12",
-    "nome": "O Filho do MÃ¡skara",
+    "nome": "O Filho do MÃÂ¡skara",
     "player": "https://streamtape.net/e/Le4KKVykJaIZ0Q/o-filho-do-maskara-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fUCBkuNWpAIfH6yhuRzujy5Zjv0.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "9982",
     "idade": "L",
     "nome": "O Galinho Galinho",
@@ -2441,7 +2441,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "O Grande Mestre 4",
@@ -2449,15 +2449,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/hGnQmQARgtXtoesIGAsmmTbMKfH.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "Ã Grinch",
+    "nome": "ÃÂ Grinch",
     "jogador": "https://streamtape.net/e/ewYazOkMdKfYqA7/O_Grinch"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rHJlD4ElNBZmejPATAjkuLUooSB.jpg",
-    "categoria": "MÃºsica",
+    "categoria": "MÃÂºsica",
     "id": "0",
     "idade": "12",
     "nome": "O Grinch - Musical",
@@ -2476,12 +2476,12 @@
     "categoria": "Thriller",
     "id": "570670",
     "idade": "14",
-    "nome": "O Homem InvisÃ­vel",
+    "nome": "O Homem InvisÃÂ­vel",
     "player": "https://streamtape.net/e/a4Leo7wMQWi0Pr/o-homem-invisivel-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ie5sQLxoOzga7YdVHFm8dL5nKgQ.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "19147",
     "idade": "16",
     "nome": "O Homem Que Desafiou o Diabo",
@@ -2500,12 +2500,12 @@
     "categoria": "Fantasia",
     "id": "669770",
     "idade": "16",
-    "nome": "O Jantar EstÃ¡ Servido",
+    "nome": "O Jantar EstÃÂ¡ Servido",
     "player": "https://streamtape.com/v/7z0ybRZ73RiAAQ6/O.Jantar.Esta.Servido.2020.720p.Dub.Filmesmp4.com.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pXufpZD0LvThqlAljov6UOXcS68.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "0",
     "idade": "14",
     "nome": "O Jardim Secreto",
@@ -2513,10 +2513,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "0",
     "idade": "12",
-    "nome": "O Jogo da ImitaÃ§Ã£o",
+    "nome": "O Jogo da ImitaÃÂ§ÃÂ£o",
     "jogador": "https://streamtape.net/e/4GwkM4wQAlcOml/O_Jogo_da_Imita%C3%A7%C3%A3o"
   },
   {
@@ -2524,12 +2524,12 @@
     "categoria": "Terror",
     "id": "926599",
     "idade": "18",
-    "nome": "O Jogo da InvocaÃ§Ã£o",
+    "nome": "O Jogo da InvocaÃÂ§ÃÂ£o",
     "player": "https://streamtape.com/v/3V0gyg6V7MIdQxW/o-jogo-da-invocacao-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "848187",
     "idade": "12",
     "nome": "O Jogo do Disfarce",
@@ -2545,7 +2545,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "18",
     "nome": "O Lobo de Wall Street",
@@ -2569,7 +2569,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "0",
     "idade": "12",
     "nome": "O Menino que Descobriu o Vento",
@@ -2577,10 +2577,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/o2KO4o1kJIgz8Zuucx50YwQx281.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "11230",
     "idade": "12",
-    "nome": "O Mestre InvencÃ­vel",
+    "nome": "O Mestre InvencÃÂ­vel",
     "jogador": "https://streamtape.com/v/0ew0APV4WMtbpv8/Drunken.Master.1978.Dublado.mkv.mp4"
   },
   {
@@ -2596,7 +2596,7 @@
     "categoria": "Drama",
     "id": "726209",
     "idade": "14",
-    "nome": "O Mundo Depois de NÃ³s",
+    "nome": "O Mundo Depois de NÃÂ³s",
     "player": "https://streamtape.com/v/laqVKLMZrGSoyX/O.Mundo.Depois.de.Nos.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29. mkv.mp4"
   },
   {
@@ -2609,7 +2609,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/t2wpjvGFA9ZdQFZn4Phg6QKZRBH.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "870358",
     "idade": "L",
     "nome": "O Natal do Pequeno Batman",
@@ -2641,7 +2641,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/k4fi3epbUws0Y8qbudyCIaNjciw.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1147049",
     "idade": "12",
     "nome": "O Pequeno Roubo do Grande Nunu",
@@ -2649,7 +2649,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wTYTjSUqdra9WKzp7w2aOwYDosS.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "14",
     "nome": "O Planeta dos Macacos",
@@ -2657,7 +2657,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5OJteZoEJevwTUe73iQjpLOrNg3.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "7839",
     "idade": "12",
     "nome": "O Prazer de sua Companhia",
@@ -2673,7 +2673,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "1103787",
     "idade": "10",
     "nome": "O Primeiro Natal do Mundo",
@@ -2684,15 +2684,15 @@
     "categoria": "Crime",
     "id": "0",
     "idade": "14",
-    "nome": "O Quarto do PÃ¢nico",
+    "nome": "O Quarto do PÃÂ¢nico",
     "player": "https://streamtape.net/e/dABZ8KDJ0oikLyV/o-quarto-do-panico-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9GB2FntD6nBGx1EsKKOtR7v4Tza.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
-    "nome": "O Rei LeÃ£o II: O Reino de Simba",
+    "nome": "O Rei LeÃÂ£o II: O Reino de Simba",
     "jogador": "https://streamtape.net/e/llA7MZP8z3i7pKM/O_Rei_Le%C3%A3o_II%3A_O_Reino_de_Simba"
   },
   {
@@ -2713,7 +2713,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "10",
     "nome": "O Show de Truman: O Show da Vida",
@@ -2721,15 +2721,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6yUQ5ZxKmOusLmUmCPIY0nKzlCD.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "27583",
     "idade": "12",
-    "nome": "O SolteirÃ£o",
+    "nome": "O SolteirÃÂ£o",
     "player": "https://streamtape.net/e/YVMV2P7GZZivGaQ/o-solteirao-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/e2qfitm4lm1g3mGc7nGmnnnQa3c.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "6957",
     "idade": "12",
     "nome": "A Virgem de 40 Anos",
@@ -2737,10 +2737,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fIlnPOGWqtRQj7vQdO7iAGAQ1uJ.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "10196",
     "idade": "12",
-    "nome": "O Ãltimo Mestre do Ar",
+    "nome": "O ÃÂltimo Mestre do Ar",
     "jogador": "https://streamtape.com/v/GWOzmGdRrJU1jOQ/avatar_o_ultimo_mestre_do_ar_2010_filme"
   },
   {
@@ -2753,10 +2753,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/lHRid7SIsqHAG8hlxbg2u5E9ouN.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1149381",
     "idade": "14",
-    "nome": "OperaÃ§Ã£o Arma Secreta",
+    "nome": "OperaÃÂ§ÃÂ£o Arma Secreta",
     "player": "https://streamtape.net/e/944wark83Lu9We/operacao-arma-secreta-dublado-www.encontrei.tv"
   },
   {
@@ -2772,7 +2772,7 @@
     "categoria": "Drama",
     "id": "1030009",
     "idade": "10",
-    "nome": "Orgulho e CompaixÃ£o",
+    "nome": "Orgulho e CompaixÃÂ£o",
     "player": "https://streamtape.com/v/VXqRXk0VYYfKePV/orgulho-e-compaixao-dublado-www.encontrei.tv"
   },
   {
@@ -2809,10 +2809,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/qKyfHivRX3wRbY4zgN1oFdjqBqH.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "971041",
     "idade": "L",
-    "nome": "Os Aventureiros â A Origem",
+    "nome": "Os Aventureiros Ã¢ÂÂ A Origem",
     "player": "https://streamtape.net/e/M08mwmwrj4ImvLm/OS_AVENTUREIROS_A_ORIGEM_Filme_completo_%28480p%29.mp4"
   },
   {
@@ -2820,15 +2820,15 @@
     "categoria": "Fantasia",
     "id": "0",
     "idade": "12",
-    "nome": "Os Cavaleiros do ZodÃ­aco Saint Seiya O ComeÃ§o",
+    "nome": "Os Cavaleiros do ZodÃÂ­aco Saint Seiya O ComeÃÂ§o",
     "player": "https://streamtape.net/e/BzlpD7bgbdh2Xd/os-cavaleiros-do-zodiaco-saint-seiya-o-comeco-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5YEOSkSTu5agGlYzHT1nt5dXZbL.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "Os EstagiÃ¡rios",
+    "nome": "Os EstagiÃÂ¡rios",
     "player": "https://streamtape.net/e/dqDrY2KV34sk6x8/Os_Estagi%C3%A1rios\n"
   },
   {
@@ -2841,15 +2841,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
-    "nome": "Os IncrÃ­veis",
+    "nome": "Os IncrÃÂ­veis",
     "player": "https://streamtape.net/e/KPrBrroB0AsDVD/Os_Incr%C3%ADveis\n"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/sMcsZ7BlOf2LDhTlfPlWb3w6lJM.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "35",
     "idade": "10",
     "nome": "Os Simpsons: O Filme",
@@ -2857,15 +2857,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tps40YlcyllmGLAOrAHUez72CQA.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "796185",
     "idade": "12",
-    "nome": "Os TrÃªs Mosqueteiros: D'Artagnan",
+    "nome": "Os TrÃÂªs Mosqueteiros: D'Artagnan",
     "player": "https://streamtape.net/e/VGdbr6X1okhKwB1/os-tres-mosquetes-dartagnan-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Os Vingadores Os Vingadores",
@@ -2873,7 +2873,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "821890",
     "idade": "12",
     "nome": "Pintar",
@@ -2881,7 +2881,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/qPC2pIL6o43PWott4VX6pYhPVgh.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "0",
     "idade": "12",
     "nome": "Pantera Negra: O Reino Selvagem",
@@ -2889,7 +2889,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/nZ69WTv7n01womaNz3SHa4inA9x.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Pantera Negra: Wakanda para Sempre",
@@ -2897,15 +2897,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tmGuklpV65Ve9vBNvGEMMQX6xR8.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "1140066",
     "idade": "18",
-    "nome": "ParaÃ­so",
+    "nome": "ParaÃÂ­so",
     "player": "https://streamtape.net/e/xOkj3pqo0VUwQ8/paraiso-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uahvX2ac0lHIjoP34NYWd2XW8qM.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
     "nome": "Passe Livre",
@@ -2921,10 +2921,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg",
-    "categoria": "DocumentÃ¡rio",
+    "categoria": "DocumentÃÂ¡rio",
     "id": "0",
     "idade": "12",
-    "nome": "PelÃ©",
+    "nome": "PelÃÂ©",
     "jogador": "https://streamtape.net/e/lWDaqpXVLRH7eVq/Pel%C3%A9"
   },
   {
@@ -2937,7 +2937,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/3kkXGyrpA1OzDXl9ubNn8R89YoM.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1160025",
     "idade": "14",
     "nome": "Perdida no Deserto - 2023",
@@ -2945,23 +2945,23 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/yorpiDdIQYMzhpcwn6HRErbP3F0.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
-    "nome": "Peter Pan: Ã Procura do Livro do Nunca",
+    "nome": "Peter Pan: ÃÂ Procura do Livro do Nunca",
     "player": "https://streamtape.net/e/1xXrdzJrbmtejKD/peter-pan-a-procura-do-livro-do-nunca-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/gs0iSjc9tbpbAElolwbDwPDpNXo.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "412117",
     "idade": "L",
-    "nome": "Animais de estimaÃ§Ã£o A Vida Secreta dos Bichos 2",
+    "nome": "Animais de estimaÃÂ§ÃÂ£o A Vida Secreta dos Bichos 2",
     "player": "https://streamtape.net/e/O277X2jK2lFZqyj/pets-a-vida-secreta-dos-bichos-2-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fPhPXOL1wN1OPTqoCCcLJnHbgyn.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
     "nome": "Animais Unidos",
@@ -2977,7 +2977,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/gNAvlP4VYF6H6a4EyIcdZP9QBrM.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "18",
     "nome": "Planeta dos Macacos: A Guerra",
@@ -2985,7 +2985,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Planeta dos Macacos: A Origem",
@@ -2993,7 +2993,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "12",
     "nome": "Planeta dos Macacos: O Confronto",
@@ -3004,7 +3004,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "14",
-    "nome": "Poltergeist - O FenÃ´meno",
+    "nome": "Poltergeist - O FenÃÂ´meno",
     "player": "https://streamtape.net/e/Dqa4wJZyMaikeav/poltergeist-o-fenomeno-dublado-www.encontrei.tv"
   },
   {
@@ -3012,7 +3012,7 @@
     "categoria": "Terror",
     "id": "739901",
     "idade": "16",
-    "nome": "PossessÃ£o DemonÃ­aca",
+    "nome": "PossessÃÂ£o DemonÃÂ­aca",
     "player": "https://streamtape.com/v/mqk0pMrZyehbABz/Possessao.Demoniaca.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv.mp4"
   },
   {
@@ -3036,7 +3036,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PremoniÃ§Ã£o",
+    "nome": "PremoniÃÂ§ÃÂ£o",
     "jogador": "https://streamtape.net/e/QgrxPo6PyBt03Y7/Premoni%C3%A7%C3%A3o"
   },
   {
@@ -3044,7 +3044,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "14",
-    "nome": "PremoniÃ§Ã£o 2",
+    "nome": "PremoniÃÂ§ÃÂ£o 2",
     "jogador": "https://streamtape.net/e/YDZe9VRRb8HvGvw/Premoni%C3%A7%C3%A3o_2"
   },
   {
@@ -3052,7 +3052,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PremoniÃ§Ã£o 4",
+    "nome": "PremoniÃÂ§ÃÂ£o 4",
     "jogador": "https://streamtape.net/e/L37QGJDPy4IRLdZ/Premoni%C3%A7%C3%A3o_4"
   },
   {
@@ -3060,20 +3060,20 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "14",
-    "nome": "PremoniÃ§Ã£o 5",
+    "nome": "PremoniÃÂ§ÃÂ£o 5",
     "jogador": "https://streamtape.net/e/VazVmbVl09TKwd7/Premoni%C3%A7%C3%A3o_5"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/dinY8mjw6NLMmyPZHjyQYlGmKaN.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "796339",
     "idade": "16",
-    "nome": "PressÃ¡gios - 2021",
+    "nome": "PressÃÂ¡gios - 2021",
     "player": "https://streamtape.com/v/9WLbOd8eGQTaGp6/Pressagios.2021.720p.Dub.Filmesmp4.com.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/2YlfMvheZcM1l28peRHQzaJsT0d.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "87826",
     "idade": "14",
     "nome": "Professor Peso Pesado",
@@ -3081,7 +3081,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/eXENORB2EAbO7OUE7CfZRSdYoua.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "14",
     "nome": "Programada para Matar",
@@ -3089,10 +3089,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/t3vZkkM5G40pUJxUzkz69H777Hm.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "457332",
     "idade": "14",
-    "nome": "Projeto ExtraÃ§Ã£o",
+    "nome": "Projeto ExtraÃÂ§ÃÂ£o",
     "player": "https://streamtape.net/e/z6ygQxkV9QtYLWv/projeto-extracao-dublado-www.encontrei.tv"
   },
   {
@@ -3100,7 +3100,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico em Alto Mar",
+    "nome": "PÃÂ¢nico em Alto Mar",
     "player": "https://streamtape.net/e/6BmXYVpMP3T9aB6/panico-em-alto-mar-dublado-www.encontrei.tv"
   },
   {
@@ -3108,7 +3108,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "18",
-    "nome": "PÃ¢nico na Cabana",
+    "nome": "PÃÂ¢nico na Cabana",
     "player": "https://streamtape.net/e/QXwpbXeaW9f03lQ/panico-na-cabana-dublado-www.encontrei.tv"
   },
   {
@@ -3116,7 +3116,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico na Escola",
+    "nome": "PÃÂ¢nico na Escola",
     "player": "https://streamtape.net/e/gdPqXYDmmOuJOd/panico-na-escola-dublado-www.encontrei.tv"
   },
   {
@@ -3124,7 +3124,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico na Floresta",
+    "nome": "PÃÂ¢nico na Floresta",
     "player": "https://streamtape.net/e/rJJ9mOeD1YhGjZ/P%C3%A2nico_na_Floresta"
   },
   {
@@ -3132,7 +3132,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "14",
-    "nome": "PÃ¢nico na Floresta 2: Floresta do Mal",
+    "nome": "PÃÂ¢nico na Floresta 2: Floresta do Mal",
     "player": "https://streamtape.net/e/6wZ6231BgZT9Mpg/P%C3%A2nico_na_Floresta_2%3A_Floresta_do_Mal"
   },
   {
@@ -3140,7 +3140,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico na Floresta 3: Caminho da Morte",
+    "nome": "PÃÂ¢nico na Floresta 3: Caminho da Morte",
     "player": "https://streamtape.net/e/9ogZL12Wx1Uab8d/P%C3%A2nico_na_Floresta_3%3A_Caminho_da_Morte"
   },
   {
@@ -3148,7 +3148,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico na Floresta 4: Origens Sangrentas",
+    "nome": "PÃÂ¢nico na Floresta 4: Origens Sangrentas",
     "player": "https://streamtape.net/e/0BQGyxjx3oSL4G/P%C3%A2nico_na_Floresta_4%3A_Origens_Sangrentas"
   },
   {
@@ -3156,7 +3156,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico na Floresta 5: Linha de Sangue",
+    "nome": "PÃÂ¢nico na Floresta 5: Linha de Sangue",
     "player": "https://streamtape.net/e/0LxelGOzZwFbXoJ/P%C3%A2nico_na_Floresta_5%3A_Linha_de_Sangue"
   },
   {
@@ -3164,7 +3164,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico na Floresta 6: Ãltimo Resort",
+    "nome": "PÃÂ¢nico na Floresta 6: ÃÂltimo Resort",
     "player": "https://streamtape.net/e/vkMDJl8MkZT4zyM/P%C3%A2nico_na_Floresta_6%3A_%C3%9Altimo_Resort"
   },
   {
@@ -3172,7 +3172,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "18",
-    "nome": "PÃ¢nico na Floresta: A FundaÃ§Ã£o",
+    "nome": "PÃÂ¢nico na Floresta: A FundaÃÂ§ÃÂ£o",
     "player": "https://streamtape.net/e/j4yaqPa7XeczBJP/P%C3%A2nico_na_Floresta%3A_A_Funda%C3%A7%C3%A3o"
   },
   {
@@ -3180,7 +3180,7 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico na Ilha",
+    "nome": "PÃÂ¢nico na Ilha",
     "player": "https://streamtape.net/e/pr1lDe9Q7YtrYJy/panico-na-ilha-dublado-www.encontrei.tv"
   },
   {
@@ -3188,7 +3188,7 @@
     "categoria": "Thriller",
     "id": "0",
     "idade": "14",
-    "nome": "PÃ¢nico na Neve",
+    "nome": "PÃÂ¢nico na Neve",
     "player": "https://streamtape.net/e/2Db67AlkAmUZyQa/panico-na-neve-dublado-www.encontrei.tv"
   },
   {
@@ -3196,20 +3196,20 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "PÃ¢nico no Deserto",
+    "nome": "PÃÂ¢nico no Deserto",
     "player": "https://streamtape.net/e/W8yyWaV4jJTblaY/panico-no-deserto-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "691422",
     "idade": "12",
-    "nome": "Quando VocÃª Termina de Salvar o Mundo",
+    "nome": "Quando VocÃÂª Termina de Salvar o Mundo",
     "player": "https://streamtape.net/e/rr2gYDbVX0Sbbem/Quando.Voce.Terminar.de.Salvar.o.Mundo.2023.1080p.DUBLADO.mkv.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/en47PkDX8IhtQA3i1MYslx8eH91.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "884605",
     "idade": "12",
     "nome": "Que Horas Eu Te Pego?",
@@ -3225,7 +3225,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wURuMRNINuztoC0HotYMVfWfyPt.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
     "nome": "Quem Matou?",
@@ -3241,15 +3241,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/442nYP16rpQ2bXduWponkvTXJRa.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
-    "nome": "Rambo II - A MissÃ£o",
+    "nome": "Rambo II - A MissÃÂ£o",
     "jogador": "https://streamtape.net/e/YLlr0A84KwuvD6r/Rambo_II_-_A_Miss%C3%A3o"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/8VcaFbhUnYb6R4Nbhk9tXlcP5j1.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
     "nome": "Rambo III",
@@ -3257,7 +3257,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/2NbmBzgG1chI3fS31HHfZEEsApw.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "18",
     "nome": "Rambo IV",
@@ -3265,15 +3265,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "18",
-    "nome": "Rambo: AtÃ© o Fim",
+    "nome": "Rambo: AtÃÂ© o Fim",
     "jogador": "https://streamtape.net/e/XJwAqdy6BwIDVDg/Rambo%3A_At%C3%A9_o_Fim"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/dDJ4YOz7baCHH6ZJPut9NcCgNl1.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Rambo: Programado Para Matar",
@@ -3281,7 +3281,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/e5kYzP2hljfdooEzl1lskWn7yoj.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "10",
     "nome": "Rango",
@@ -3292,12 +3292,12 @@
     "categoria": "Thriller",
     "id": "0",
     "idade": "16",
-    "nome": "Rastros de JustiÃ§a",
+    "nome": "Rastros de JustiÃÂ§a",
     "player": "https://streamtape.net/e/dOdlr7X8Mwtkaqy/rastros-de-justica-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
     "nome": "Resgate",
@@ -3305,7 +3305,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
     "nome": "Resgate 2",
@@ -3321,7 +3321,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/eLUc5to0p5LhbXJMXtgltg7P4g4.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
     "nome": "Resident Evil 4: Retorno",
@@ -3332,15 +3332,15 @@
     "categoria": "Terror",
     "id": "0",
     "idade": "16",
-    "nome": "Resident Evil: O HÃ³spede Maldito",
+    "nome": "Resident Evil: O HÃÂ³spede Maldito",
     "player": "https://streamtape.net/e/a76P9L49ozSx3ab/Resident_Evil%3A_O_H%C3%B3spede_Maldito\n"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "670292",
     "idade": "14",
-    "nome": "ResistÃªncia",
+    "nome": "ResistÃÂªncia",
     "player": "https://streamtape.com/v/OdvWyy0PVQuZAx8/resistencia-dublado-www.encontrei.tv"
   },
   {
@@ -3348,7 +3348,7 @@
     "categoria": "Crime",
     "id": "0",
     "idade": "14",
-    "nome": "RevÃ³lver",
+    "nome": "RevÃÂ³lver",
     "player": "https://streamtape.net/e/zplpKl3X6aio3Q/Rev%C3%B3lver"
   },
   {
@@ -3356,7 +3356,7 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "12",
-    "nome": "AscensÃ£o",
+    "nome": "AscensÃÂ£o",
     "player": "https://streamtape.net/e/9leewYPLKLCaMbm/rise-dublado-www.encontrei.tv"
   },
   {
@@ -3369,7 +3369,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/7vFsWZGc2ciJVt888FbeKBKWv16.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "97020",
     "idade": "14",
     "nome": "RoboCop",
@@ -3377,7 +3377,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fR0lfsB7YRNy2NQo9Ii7CPnYp31.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "5548",
     "idade": "14",
     "nome": "RoboCop - O Policial do Futuro",
@@ -3385,7 +3385,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "5549",
     "idade": "16",
     "nome": "RoboCop 2",
@@ -3393,7 +3393,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "5550",
     "idade": "12",
     "nome": "RoboCop 3",
@@ -3401,18 +3401,18 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tC9hcesF7QpMFuB6MvQg900VUyX.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
-    "nome": "RobÃ´s",
+    "nome": "RobÃÂ´s",
     "player": "https://streamtape.net/e/WZAralWabpib36X/Rob%C3%B4s_2005_dublado_MX_FLIX"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/74C2YX0NLWnozVMRS56d5CKDdEv.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "Rogue One: Uma HistÃ³ria Star Wars",
+    "nome": "Rogue One: Uma HistÃÂ³ria Star Wars",
     "jogador": "https://streamtape.net/e/k21kz37jD7fOoXy/Rogue_One%3A_Uma_Hist%C3%B3ria_Star_Wars"
   },
   {
@@ -3428,12 +3428,12 @@
     "categoria": "Drama",
     "id": "96721",
     "idade": "14",
-    "nome": "Rush No Limite da EmoÃ§Ã£o",
+    "nome": "Rush No Limite da EmoÃÂ§ÃÂ£o",
     "jogador": "https://streamtape.com/v/KyvJpG612zC0d1z/rush_no_limite_da_emo%C3%A7%C3%A3o"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/yJeJt7JzgGleBtM9LaFmtxTVdAN.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "1159259",
     "idade": "L",
     "nome": "SOS Mamis 2 Mosquita muerta",
@@ -3441,7 +3441,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/fXrRMSXndVuYQ1GSXi1sFR7pvvM.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "221731",
     "idade": "14",
     "nome": "Samurai X 2: O Inferno de Kyoto",
@@ -3449,7 +3449,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tqrrpQR77e6uWOsigAYjl7JBTwm.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "221732",
     "idade": "14",
     "nome": "Samurai X 3: O Fim de Uma Lenda",
@@ -3457,7 +3457,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/nOONTKd9eecYIwNpHqAw9T5Wjmp.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
     "nome": "Samurai X: A Origem",
@@ -3465,7 +3465,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uV0qU90VGJF3luyhdwR29i8wdI6.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "127533",
     "idade": "14",
     "nome": "Samurai X: O Filme",
@@ -3473,7 +3473,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pTPbcJhCYtSKUz2DwDOEqigUQ00.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "602063",
     "idade": "14",
     "nome": "Samurai X: O Final",
@@ -3481,26 +3481,26 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/6Hi9g065cxrQc2TLh5zwmTOurvK.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "Se Beber, NÃ£o Case!",
+    "nome": "Se Beber, NÃÂ£o Case!",
     "player": "https://streamtape.net/e/vwAr6X4Z83tPZL/se-beber-nao-case-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/lvwO6R9RImeq3UBbh6DPWG3Iiqw.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "16",
-    "nome": "Se Beber, NÃ£o Case! - Parte II",
+    "nome": "Se Beber, NÃÂ£o Case! - Parte II",
     "player": "https://streamtape.net/e/PLa73Ql2jyIbya/se-beber-nao-case-parte-ii-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/7QobPkQLohlXAoIGuN97F3C6xJw.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "Se Beber, NÃ£o Case! - Parte III",
+    "nome": "Se Beber, NÃÂ£o Case! - Parte III",
     "player": "https://streamtape.net/e/pYKq1oKWVwuro2W/se-beber-nao-case-parte-iii-dublado-www.encontrei.tv"
   },
   {
@@ -3513,7 +3513,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/pUZxbnF2i4gHf55tjuKIURDi8vR.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "953365",
     "idade": "16",
     "nome": "Seguindo Em Frente",
@@ -3529,7 +3529,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wvVKlu4EurfpCF1Rvawp7vnae7P.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "86838",
     "idade": "16",
     "nome": "Sete Psicopatas e um Shih Tzu",
@@ -3604,7 +3604,7 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "12",
-    "nome": "Snowden: HerÃ³i ou Traidor",
+    "nome": "Snowden: HerÃÂ³i ou Traidor",
     "jogador": "https://streamtape.net/e/MaoDWmAjQpimqk2/Snowden%3A_Her%C3%B3i_ou_Traidor"
   },
   {
@@ -3633,7 +3633,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/iJQfixW818LUdSXlCDL3JZm0S0g.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "12180",
     "idade": "12",
     "nome": "Star Wars: A Guerra dos Clones",
@@ -3641,47 +3641,47 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1893",
     "idade": "L",
-    "nome": "Star Wars: EpisÃ³dio I - A AmeaÃ§a Fantasma",
+    "nome": "Star Wars: EpisÃÂ³dio I - A AmeaÃÂ§a Fantasma",
     "player": "https://streamtape.net/e/z6mkG1ZRl6UYL07/star-wars-episodio-ia-ameaca-fantasma-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9m1nJ2MfTG5QEmjOCg0b4YCo4W8.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1894",
     "idade": "L",
-    "nome": "Star Wars: EpisÃ³dio II - Ataque dos Clones",
+    "nome": "Star Wars: EpisÃÂ³dio II - Ataque dos Clones",
     "player": "https://streamtape.net/e/7mL8yQg4e6UArJP/star-wars-episodio-ii-ataque-dos-clones-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1895",
     "idade": "10",
-    "nome": "Star Wars: EpisÃ³dio III - A VinganÃ§a dos Sith",
+    "nome": "Star Wars: EpisÃÂ³dio III - A VinganÃÂ§a dos Sith",
     "player": "https://streamtape.net/e/Vyv9DL7pG9fKBeL/star-wars-episodio-iii-a-vinganca-dos-sith-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/lqMDbo4rXnakFgc4C6LzPv6pG7F.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "12",
-    "nome": "Star Wars: O Despertar da ForÃ§a",
+    "nome": "Star Wars: O Despertar da ForÃÂ§a",
     "jogador": "https://streamtape.net/e/zD4pj2oKrvcymo/Star_Wars%3A_O_Despertar_da_For%C3%A7a"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/cKwSxAvShaQ3C0T3i08haOFbw7g.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "0",
     "idade": "16",
-    "nome": "Straight Outta Compton A HistÃ³ria do NW A",
+    "nome": "Straight Outta Compton A HistÃÂ³ria do NW A",
     "player": "https://streamtape.net/e/Xj9w3M4OlBSDJP2/straight-outta-compton-a-historia-do-nwa-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "502356",
     "idade": "L",
     "nome": "Super Mario Bros O Filme",
@@ -3689,7 +3689,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Super Velozes, Mega Furiosos",
@@ -3700,23 +3700,23 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "10",
-    "nome": "SuperaÃ§Ã£o: O Milagre da FÃ©",
+    "nome": "SuperaÃÂ§ÃÂ£o: O Milagre da FÃÂ©",
     "jogador": "https://streamtape.net/e/roQ783yaQgHbv6x/Supera%C3%A7%C3%A3o%3A_O_Milagre_da_F%C3%A9"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/aqr4CdX6eeA5UkVAJzKZMs7FeEw.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "16",
-    "nome": "Superbad: Ã Hoje",
+    "nome": "Superbad: ÃÂ Hoje",
     "jogador": "https://streamtape.net/e/2WrZZp3o4xIZrAm/Superbad_-_%C3%89_Hoje"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/7WFk7RUzVpOgd8v2SExD7XHjd1y.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "TÃ¡xi 3",
+    "nome": "TÃÂ¡xi 3",
     "jogador": "https://streamtape.net/e/7Rw0maaGKJIJbV/T%C3%A1xi_3"
   },
   {
@@ -3724,20 +3724,20 @@
     "categoria": "Crime",
     "id": "0",
     "idade": "14",
-    "nome": "Taxi Driver: Motorista de TÃ¡xi",
+    "nome": "Taxi Driver: Motorista de TÃÂ¡xi",
     "jogador": "https://streamtape.net/e/1RB07gGr9YSeA9A/Taxi_Driver%3A_Motorista_de_T%C3%A1xi"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "274855",
     "idade": "12",
-    "nome": "Tempestade Planeta em FÃºria",
+    "nome": "Tempestade Planeta em FÃÂºria",
     "jogador": "https://streamtape.net/v/oxv66A7AllSJyJ2/Tempestade_planeta_em_f%C3%BAria.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/wVp2zu88NMWpGluqW9eGQbwLWi.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Terremoto: A Falha de San Andreas",
@@ -3753,7 +3753,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
-    "categoria": "HistÃ³ria",
+    "categoria": "HistÃÂ³ria",
     "id": "0",
     "idade": "14",
     "nome": "Tetris",
@@ -3761,15 +3761,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1ZYAF1qdwuM1LuXYvPjpRWDSRel.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "926008",
     "idade": "14",
-    "nome": "The Beanie Bubble - O FenÃ´meno das PelÃºcias",
+    "nome": "The Beanie Bubble - O FenÃÂ´meno das PelÃÂºcias",
     "player": "https://streamtape.net/e/vP0BAQrWDkU4vm4/the-beanie-bubble-o-fenomeno-das-pelucias-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "O Flash",
@@ -3777,7 +3777,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "x956262",
     "idade": "14",
     "nome": "A Cozinha",
@@ -3785,7 +3785,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Thor Ragnarok",
@@ -3796,7 +3796,7 @@
     "categoria": "Aventura",
     "id": "0",
     "idade": "L",
-    "nome": "TigrÃ£o: O Filme",
+    "nome": "TigrÃÂ£o: O Filme",
     "player": "https://streamtape.net/e/zp3WakLkwWSX8q/Tigr%C3%A3o%3A_O_Filme_%28_legendado%29"
   },
   {
@@ -3804,7 +3804,7 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "14",
-    "nome": "AtÃ©: A Busca por JustiÃ§a",
+    "nome": "AtÃÂ©: A Busca por JustiÃÂ§a",
     "player": "https://streamtape.net/e/JJlw3DRd43TjvAq/Till_-_A_Busca_por_Justi%C3%A7a_%28_legendado%29"
   },
   {
@@ -3817,7 +3817,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/3CDV8aXmYyxI5kUtQXMdBvQKNvp.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "12",
     "nome": "Tio Drew",
@@ -3825,55 +3825,55 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/daorfyZdHkI44vuf3DVDbmJkYQI.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "16",
-    "nome": "Todo Mundo em PÃ¢nico",
+    "nome": "Todo Mundo em PÃÂ¢nico",
     "player": "https://streamtape.net/e/jgvlKPYBjosajg/todo-mundo-em-panico-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "0",
     "idade": "14",
-    "nome": "Todo Mundo em PÃ¢nico 2",
+    "nome": "Todo Mundo em PÃÂ¢nico 2",
     "player": "https://streamtape.net/e/dKJBWJ4D2xUk6q6/todo-mundo-em-panico-2-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4eGdcLg9dWxUv3dSY7tIz5EX9sz.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "Todo Mundo em PÃ¢nico 3",
+    "nome": "Todo Mundo em PÃÂ¢nico 3",
     "player": "https://streamtape.net/e/9ebXv6ZgxVCa2Rm/todo-mundo-em-panico-3-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc7UJMwADm67GLZ9bjYkiE-gsjT592W7FR1rwT76NiH6GsdN5",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "Todo Mundo em PÃ¢nico 4",
+    "nome": "Todo Mundo em PÃÂ¢nico 4",
     "player": "https://streamtape.net/e/2rBLpv3XoRHKm8/todo-mundo-em-panico-4-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/14mLzrL5d9ykeEy0L9RGSit6PXN.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "Todo Mundo em PÃ¢nico 5",
+    "nome": "Todo Mundo em PÃÂ¢nico 5",
     "player": "https://streamtape.net/e/vKZmvmmMj8I49O1/todo-mundo-em-panico-5-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "Top Gun - Ases IndomÃ¡veis",
+    "nome": "Top Gun - Ases IndomÃÂ¡veis",
     "player": "https://streamtape.com/v/reBRZJq30Mf8G9/top-gun-ases-indomaveis-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Top Gun: Maverick",
@@ -3881,7 +3881,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/csiyO6q8rR74pfgJDjwINzhoick.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Toy Story 4",
@@ -3889,7 +3889,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bxKBgZE9RFPvPGUTgygJK7I83La.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
     "nome": "Toy Story Toons Um Pequeno Grande Erro",
@@ -3897,7 +3897,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rnCVDSbSju6MPQO2LRDiz5ZRZ4q.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "10",
     "nome": "Toy Story Toons: Festa-Sauro Rex",
@@ -3905,15 +3905,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/kKpwfOZ0IhyDXjQ3KTQlmbznD16.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
-    "nome": "Toy Story Toons: FÃ©rias no HavaÃ­",
+    "nome": "Toy Story Toons: FÃÂ©rias no HavaÃÂ­",
     "player": "https://streamtape.net/e/3oXxLA0AvVfdBGK/toy-story-toons-ferias-no-havai-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/l322MKyX8QDXd0ndsXKf8YObfl2.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "L",
     "nome": "Toy Story de Terror",
@@ -3921,7 +3921,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Transformers: O Despertar das Feras",
@@ -3932,20 +3932,20 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "16",
-    "nome": "TransmissÃµes Sinistras",
+    "nome": "TransmissÃÂµes Sinistras",
     "player": "https://streamtape.net/e/Q26oJd0Pxjt0X9A/Broadcast_Signal_Intrusion"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/o0OL6zpJepJW5C6yPsAFRTGqGCg.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "Trocando os PÃ©s",
+    "nome": "Trocando os PÃÂ©s",
     "player": "https://streamtape.net/e/lPrMXxm2ooi7rGQ/trocando_os_p%C3%A9s"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4Wbb6vCsmVePRy0BsoXEoNwihRu.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "901362",
     "idade": "L",
     "nome": "Trolls 3 - Juntos Novamente",
@@ -3953,7 +3953,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "7347",
     "idade": "16",
     "nome": "Tropa de Elite",
@@ -3961,10 +3961,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "47931",
     "idade": "16",
-    "nome": "Tropa de Elite 2 O Inimigo Agora Ã© Outro",
+    "nome": "Tropa de Elite 2 O Inimigo Agora ÃÂ© Outro",
     "player": "https://streamtape.net/e/agWDabrwWwixRVv/tropa-de-elite-2-o-inimigo-agora-e-outro-dublado-www.encontrei.tv"
   },
   {
@@ -3972,12 +3972,12 @@
     "categoria": "Drama",
     "id": "915892",
     "idade": "14",
-    "nome": "TrÃªs Mulheres: Uma EsperanÃ§a",
+    "nome": "TrÃÂªs Mulheres: Uma EsperanÃÂ§a",
     "player": "https://streamtape.net/e/1pGOaKdX4eCpLx/tres-mulheres-uma-esperanca-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Tudo em Todo o Lugar ao Mesmo Tempo",
@@ -3988,7 +3988,7 @@
     "categoria": "Romance",
     "id": "927855",
     "idade": "12",
-    "nome": "TÃ¡ticas do Amor",
+    "nome": "TÃÂ¡ticas do Amor",
     "jogador": "https://streamtape.net/e/86q2Qzeyr1hjOW/T%C3%A1ticas_do_Amor_1.mp4"
   },
   {
@@ -3996,39 +3996,39 @@
     "categoria": "Romance",
     "id": "1141202",
     "idade": "14",
-    "nome": "TÃ¡ticas do Amor 2",
+    "nome": "TÃÂ¡ticas do Amor 2",
     "player": "https://streamtape.net/e/erQBRaqV8pCYzR7/Taticas_do_Amor_2-2023.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/ykpuFTUtnpqJqIvmEOMCZtTwaeg.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "TÃ¡xi 2",
+    "nome": "TÃÂ¡xi 2",
     "jogador": "https://streamtape.net/e/4WDPQDAPBKhK6xA/T%C3%A1xi_2"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/w24fH10gcaX1pf2VkViBzNgHVt5.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
-    "nome": "TÃ¡xi 4",
+    "nome": "TÃÂ¡xi 4",
     "player": "https://streamtape.net/e/P386MdmLPaC0aJK/T%C3%A1xi_4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5EJ3XEuiXCoqqYF7RIhWV0tByrB.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
-    "nome": "TÃ¡xi de Nova York",
+    "nome": "TÃÂ¡xi de Nova York",
     "player": "https://streamtape.net/e/q7mBPL08wRsz02Z/T%C3%A1xi_de_Nova_Iorque"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/d0OpYRp97WDUfAsT41kvgvu31Iv.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "14",
-    "nome": "TÃ¡xi: Velocidade nas Ruas",
+    "nome": "TÃÂ¡xi: Velocidade nas Ruas",
     "player": "https://streamtape.net/e/bw9zm3oP6oCPY21/T%C3%A1xi_-_Velocidade_nas_Ruas"
   },
   {
@@ -4044,12 +4044,12 @@
     "categoria": "Drama",
     "id": "750596",
     "idade": "12",
-    "nome": "Um Plano Por Ãgua Abaixo",
+    "nome": "Um Plano Por ÃÂgua Abaixo",
     "player": "https://streamtape.com/v/9XokdKj0BOUaMKM/Um.Plano.Por.Agua.Abaixo.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv.mp4"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/atxRkJD5gvBDl8m02UZtoA6jwNr.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "1046813",
     "idade": "14",
     "nome": "Uma Fada Veio Me Visitar",
@@ -4076,28 +4076,28 @@
     "categoria": "Terror",
     "id": "764",
     "idade": "18",
-    "nome": "Uma Noite Alucinante: A Morte do DemÃ´nio",
+    "nome": "Uma Noite Alucinante: A Morte do DemÃÂ´nio",
     "player": "https://streamtape.com/v/Mo9zkj96aGfmkR6/uma-noite-alucinante-a-morte-do-demonio-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4hJUWgdmoFsNpzyTN6QjoZcaivO.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "16",
-    "nome": "CaÃ§ador de Vampiros D: Sede de Sangue",
+    "nome": "CaÃÂ§ador de Vampiros D: Sede de Sangue",
     "jogador": "https://streamtape.net/e/yMwWokP8OXf180x/Vampire_Hunter_D%3A_Bloodlust_%28legendado%29"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/d30AWcDezR0qM6OgXovulfA4z8N.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "1637",
     "idade": "12",
-    "nome": "Velocidade MÃ¡xima",
+    "nome": "Velocidade MÃÂ¡xima",
     "player": "https://streamtape.com/v/6XWmO22b1ytZo7/velocidade-maxima-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/4CWoalqAsRzXD9AFbByD1KnH40E.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Velozes & Furiosos 10",
@@ -4105,15 +4105,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "Velozes & Furiosos 5: OperaÃ§Ã£o Rio",
+    "nome": "Velozes & Furiosos 5: OperaÃÂ§ÃÂ£o Rio",
     "player": "https://streamtape.net/e/W3alW6BQrGiR9J/Velozes_%26_Furiosos_5%3A_Opera%C3%A7%C3%A3o_Rio"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/dSu0OsXQTjYhrv7qbeweSJlsIEI.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Velozes & Furiosos 6",
@@ -4121,7 +4121,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Velozes & Furiosos 7",
@@ -4129,7 +4129,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Velozes & Furiosos 8",
@@ -4137,7 +4137,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/7rWlqhy76Az3L0C016cLZRSVqcZ.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Velozes & Furiosos 9",
@@ -4145,7 +4145,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Velozes & Furiosos: Hobbs & Shaw",
@@ -4153,7 +4153,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
     "nome": "Velozes e Furiosos",
@@ -4161,7 +4161,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Velozes e Furiosos 4",
@@ -4169,15 +4169,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/yItFvcLOC470J9S2dsRoUypfmnK.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "14",
-    "nome": "Velozes e Furiosos: Desafio em TÃ³quio",
+    "nome": "Velozes e Furiosos: Desafio em TÃÂ³quio",
     "player": "https://streamtape.net/e/GJ3Dq3Ym2WulM8/Velozes_e_Furiosos%3A_Desafio_em_T%C3%B3quio"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Velozes e Furiosos: Turbo-Charged Prelude",
@@ -4185,15 +4185,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/uhC4cev3ycTJhOsrpZyi4oBohAR.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "0",
     "idade": "14",
-    "nome": "VerÃ£o de 84",
+    "nome": "VerÃÂ£o de 84",
     "jogador": "https://streamtape.net/e/6kd88Wm1yBHpbd/Ver%C3%A3o_de_%2784"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "L",
     "nome": "Viagem ao Centro da Terra: O Filme",
@@ -4201,7 +4201,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/yQ4HefkNWQSVeQkyZ9tvAmVKfgR.jpg",
-    "categoria": "FamÃ­lia",
+    "categoria": "FamÃÂ­lia",
     "id": "345918",
     "idade": "14",
     "nome": "Vida Dupla",
@@ -4209,7 +4209,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vGIIl89vglo66yUfbuTxzNAs4y5.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
     "nome": "Vingadores: Era de Ultron",
@@ -4220,52 +4220,52 @@
     "categoria": "Terror",
     "id": "1031516",
     "idade": "18",
-    "nome": "VisÃµes Mortais",
+    "nome": "VisÃÂµes Mortais",
     "player": "https://streamtape.com/v/MkLwwDd4jecmZJ0/visoes-mortais-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/s7ICZYFXI0h1EMfQ4ApJGtOar1m.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "0",
     "idade": "12",
-    "nome": "Vizinhos Imediatos de 3Âº Grau",
+    "nome": "Vizinhos Imediatos de 3ÃÂº Grau",
     "player": "https://streamtape.net/e/Ldr9bb0ZQ6sRGw8/Vizinhos_Imediatos_de_3%C2%BA_Grau\n"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "ViÃºva Negra",
+    "nome": "ViÃÂºva Negra",
     "player": "https://streamtape.net/e/LQv7Kl7P8oFRLXp/viuva-negra-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/9Azlmj0MvhXvFIqUs5Jg0AS5sA2.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "14",
-    "nome": "VulcÃ£o - A FÃºria",
+    "nome": "VulcÃÂ£o - A FÃÂºria",
     "player": "https://streamtape.net/e/yoZmVeP2zwU1MVz/volcano-a-furia-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/us9UowVdxrH0l4bVleBeCVMsW2i.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "9600",
     "idade": "14",
-    "nome": "VovÃ³ Zona",
+    "nome": "VovÃÂ³ Zona",
     "player": "https://streamtape.net/e/gwb7K2oxMziq8Da/vovo-zona-dublado-www.encontrei.tv"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oawvK7MlAtKIkeOfgKjhhJ7pYD9.jpg",
-    "categoria": "MistÃ©rio",
+    "categoria": "MistÃÂ©rio",
     "id": "754983",
     "idade": "16",
-    "nome": "Vozes no EscuridÃ£o",
+    "nome": "Vozes no EscuridÃÂ£o",
     "player": "https://streamtape.net/e/023wZL3m3QSbRA2/vozes-na-escuridao-dublado-www.encontrei.tv\n"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/oYEF02pi6goGRAXgfL0MZq5jFEo.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "18",
     "nome": "Watchmen: O Filme",
@@ -4281,7 +4281,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/5IiODXjfLhVk5OhBlAqueCB4GQv.jpg",
-    "categoria": "ComÃ©dia",
+    "categoria": "ComÃÂ©dia",
     "id": "787699",
     "idade": "12",
     "nome": "Wonka",
@@ -4289,15 +4289,15 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/csdYAmDnEATx0itAuLxgwGOyxZp.jpg",
-    "categoria": "FicÃ§Ã£o cientÃ­fica",
+    "categoria": "FicÃÂ§ÃÂ£o cientÃÂ­fica",
     "id": "0",
     "idade": "18",
-    "nome": "Zumbis e RobÃ´s",
+    "nome": "Zumbis e RobÃÂ´s",
     "jogador": "https://streamtape.net/e/QkPQmVOj7kS0ZkQ/Zumbis_e_Rob%C3%B4s_%28_legendado%29"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/piDXkSvBA56NTIC6D3uA1eECwtd.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "845387",
     "idade": "12",
     "nome": "maboroshi",
@@ -4313,7 +4313,7 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
-    "categoria": "MÃºsica",
+    "categoria": "MÃÂºsica",
     "id": "0",
     "idade": "14",
     "nome": "tick tick BOOM!",
@@ -4321,10 +4321,10 @@
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/eCXmQTNfnDehgjDsyLT1sDQ3qi.jpg",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "id": "0",
     "idade": "12",
-    "nome": "xXx 2: Estado de EmergÃªncia",
+    "nome": "xXx 2: Estado de EmergÃÂªncia",
     "player": "https://streamtape.net/e/Vy9m8xo34rIKrGG/xXx_2%3A_Estado_de_Emerg%C3%AAncia\n"
   },
   {
@@ -4332,7 +4332,7 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "14",
-    "nome": "Ã Espera de um Milagre",
+    "nome": "ÃÂ Espera de um Milagre",
     "jogador": "https://streamtape.net/e/ezYG1kBkdGSZWM/%C3%80_Espera_de_um_Milagre"
   },
   {
@@ -4340,15 +4340,15 @@
     "categoria": "Drama",
     "id": "0",
     "idade": "16",
-    "nome": "Ãguas Profundas",
+    "nome": "ÃÂguas Profundas",
     "player": "https://streamtape.net/e/WpzGzQj4jACqZ3/%C3%A1guas_profundas"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/1UnP6AtY3DHYjOVDEEF0Age7RKJ.jpg",
-    "categoria": "AnimaÃ§Ã£o",
+    "categoria": "AnimaÃÂ§ÃÂ£o",
     "id": "1029599",
     "idade": "10",
-    "nome": "Ãguia e Jaguar: Os Guerreiros LendÃ¡rios",
+    "nome": "ÃÂguia e Jaguar: Os Guerreiros LendÃÂ¡rios",
     "player": "https://streamtape.com/v/vQQow46D6QC46R6/aguia-e-jaguar-os-guerreiros-lendarios-dublado-www.encontrei.tv"
   }
 ]
