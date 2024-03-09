@@ -7,5 +7,14 @@
     "players": "https://s2.lightspeedst.net/s2/mp4/dungeon-meshi/hd/",
     "categorias": "animes - ",
     "capa": "https://static.wikia.nocookie.net/dublagem/images/f/f3/Dungeon_Meshi.jpg/revision/latest?cb=20240104154306&path-prefix=pt-br"
+  },
+  {
+    "nome": "Objeto 1",
+    "temporada": "1",
+    "id": 1,
+    "totaleps": "5",
+    "players": "mc.xom",
+    "categorias": "anime",
+    "capa": "capa.com"
   }
 ]
