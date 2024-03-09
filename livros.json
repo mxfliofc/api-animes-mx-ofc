@@ -4,5 +4,11 @@
     "ano": "2021",
     "capa": "https://m.media-amazon.com/images/I/71+zsfQ-KjL._UX250_.jpg",
     "link": "https://github.com/mxfliofc/api-livros-pdf-mx-flix-ofc/blob/main/Oito%20Assassinatos%20Perfeitos%20-%20Peter%20Swanson.pdf"
+  },
+  {
+    "nome": "E Se a Gente Tentasse",
+    "ano": "2020",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-NIjVt0_5K4n1g1_AGGVz6vblYj4SsoEC3BqzTNZ57PhRt93i7Zhgnk&s=10",
+    "link": "https://github.com/mxfliofc/api-livros-pdf-mx-flix-ofc/blob/main/E%20Se%20a%20Gente%20Tentasse%20-%20Becky%20Albertalli.pdf"
   }
 ]
