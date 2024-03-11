@@ -8,5 +8,15 @@
     "categoria": "Cinema",
     "idade": "Livre",
     "capa": "capa.com"
+  },
+  {
+    "nome": "Halo (2022)",
+    "id": "52814",
+    "temporada": "1",
+    "totaldeeps": "6",
+    "players": "Mx.com/player",
+    "categoria": "Ação",
+    "idade": "12",
+    "capa": "capa.com/capa.png"
   }
 ]
