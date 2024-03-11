@@ -1,9 +1,9 @@
 [
   {
-    "nome": "Objeto 1",
     "id": "1",
+    "nome": "Objeto ts",
     "temporada": "1",
-    "totaldeeps": "5",
+    "totaleps": "undefined",
     "players": "null",
     "categoria": "Cinema",
     "idade": "Livre",
