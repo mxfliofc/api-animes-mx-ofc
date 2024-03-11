@@ -1,1 +1,12 @@
-oi
+[
+  {
+    "nome": "Objeto 1",
+    "id": "1",
+    "temporada": "1",
+    "totaldeeps": "5",
+    "players": "null",
+    "categoria": "Cinema",
+    "idade": "Livre",
+    "capa": "capa.com"
+  }
+]
