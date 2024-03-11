@@ -1,12 +1,12 @@
 [
   {
     "id": "52814",
-    "nome": "Objeto ts",
+    "nome": "Halo (2022)",
     "temporada": "1",
-    "totaleps": "23",
-    "players": "mx.com",
-    "categoria": "Cinema",
-    "idade": "Livre",
+    "totaleps": "undefined",
+    "players": "Mx.com/player",
+    "categoria": "AÃÂ§ÃÂ£o",
+    "idade": "12",
     "capa": "https://lojadosherois.com.br/cdn/shop/files/IMG_20230612_143234_800x.jpg?v=1686591336"
   },
   {
@@ -15,7 +15,7 @@
     "temporada": "1",
     "totaldeeps": "6",
     "players": "Mx.com/player",
-    "categoria": "AÃ§Ã£o",
+    "categoria": "AÃÂ§ÃÂ£o",
     "idade": "12",
     "capa": "capa.com/capa.png"
   }
