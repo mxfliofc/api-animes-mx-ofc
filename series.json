@@ -18,5 +18,15 @@
     "categoria": "Cinema",
     "idade": "Livre",
     "capa": "capa.com"
+  },
+  {
+    "nome": "hyu",
+    "id": "1232",
+    "temporada": "12",
+    "totaldeeps": "53",
+    "players": "dhq.com",
+    "categoria": "Thriller",
+    "idade": "16",
+    "capa": "capa.com"
   }
 ]
