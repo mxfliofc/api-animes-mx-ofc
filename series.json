@@ -1,10 +1,10 @@
 [
   {
-    "nome": "Objeto 1",
     "id": "1",
+    "nome": "Objeto 1",
     "temporada": "1",
-    "totaldeeps": "5",
-    "players": "null",
+    "totaleps": "undefined",
+    "players": "Oii",
     "categoria": "Cinema",
     "idade": "Livre",
     "capa": "capa.com"
