@@ -58,5 +58,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg"
+  },
+  {
+    "nome": "Ainda Acordados",
+    "id": "213337",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/K9260lv8pau0Qyk/ainda-acordados-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/4ol9MK0ydGfKwJv/ainda-acordados-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/BYxk3LX6O4sykBD/ainda-acordados-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/qM8PV7WXxbhZbO/ainda-acordados-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/Vme8db0zgpUKVja/ainda-acordados-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/8Dj3zDwx47HowJw/ainda-acordados-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/zV2pWLPZ6BcYmdd/ainda-acordados-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/3Vr67Pk9woCdwlr/ainda-acordados-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Comédia",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/zuLPqkFVDKwbtLobpHzJTCGP13B.jpg"
   }
 ]
