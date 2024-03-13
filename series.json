@@ -3,8 +3,27 @@
     "id": "1396",
     "nome": "Objeto 1",
     "temporada": "1",
-    "totaleps": "undefined",
-    "players": "nulloii09",
+    "totaleps": "7",
+    "players": "[
+  {
+    "1": "https://streamtape.com/v/pLBrb733DyIrQay/the-ark-1x1-dublado-www.encontrei.tv"
+  },
+  {
+    "2": "https://streamtape.com/v/RLpb3Rk6KmfdAQB/the-ark-1x2-dublado-www.encontrei.tv"
+  },
+  {
+    "3": "https://streamtape.com/v/pklDdPQwy9FrQM2/the-ark-1x3-dublado-www.encontrei.tv"
+  },
+  {
+    "4": "https://streamtape.com/v/R9dGgL3OvlUdyWo/the-ark-1x4-dublado-www.encontrei.tv"
+  },
+  {
+    "5": "https://streamtape.com/v/wy93rMo6RouPQr/the-ark-1x5-dublado-www.encontrei.tv"
+  },
+  {
+    "6": "https://streamtape.com/v/q83za3wK1rILZP/a-arca-1x7-dublado-www.encontrei.tv"
+  }
+    ]",
     "categoria": "Cinema",
     "idade": "Livre",
     "capa": "capa.com"
@@ -13,8 +32,27 @@
     "nome": "Objeto 1",
     "id": "1396",
     "temporada": "1",
-    "totaldeeps": "5",
-    "players": "null",
+    "totaldeeps": "7",
+    "players": "[
+  {
+    "1": "https://streamtape.com/v/pLBrb733DyIrQay/the-ark-1x1-dublado-www.encontrei.tv"
+  },
+  {
+    "2": "https://streamtape.com/v/RLpb3Rk6KmfdAQB/the-ark-1x2-dublado-www.encontrei.tv"
+  },
+  {
+    "3": "https://streamtape.com/v/pklDdPQwy9FrQM2/the-ark-1x3-dublado-www.encontrei.tv"
+  },
+  {
+    "4": "https://streamtape.com/v/R9dGgL3OvlUdyWo/the-ark-1x4-dublado-www.encontrei.tv"
+  },
+  {
+    "5": "https://streamtape.com/v/wy93rMo6RouPQr/the-ark-1x5-dublado-www.encontrei.tv"
+  },
+  {
+    "6": "https://streamtape.com/v/q83za3wK1rILZP/a-arca-1x7-dublado-www.encontrei.tv"
+  }
+    ]",
     "categoria": "Cinema",
     "idade": "Livre",
     "capa": "capa.com"
