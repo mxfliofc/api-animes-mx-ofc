@@ -128,5 +128,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/e1pUQkXbFNI6xH4oDuHnyJoOSib.jpg"
+  },
+  {
+    "nome": "Arcane",
+    "id": "94605",
+    "temporada": "1",
+    "totaleps": "5",
+    "players": "{   \"1\": \"https://streamtape.com/v/z6zxyJy1brSk9J/arcane-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/d8AoW4va3vtk8YA/arcane-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/xloYym96p8Tk2pw/arcane-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/AwPwAZgyJlHXk1X/arcane-1x5-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/pxo3k8Gjd7SrgRZ/arcane-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Animação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"
   }
 ]
