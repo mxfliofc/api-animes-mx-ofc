@@ -8,5 +8,15 @@
     "categoria": "Aventura",
     "idade": "12",
     "capa": "capa.com/capa"
+  },
+  {
+    "nome": "A Mais Pura Verdade",
+    "id": "134029",
+    "temporada": "1",
+    "totaleps": "7",
+    "players": "{   \"1\": \"https://streamtape.com/v/KWyvKra9ydC0XeL/a-mais-pura-verdade-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/wPJZ2zwzrWfJykj/a-mais-pura-verdade-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/m63QYA3zoLuVOL/a-mais-pura-verdade-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/gP9dPdjJgzsq8oW/a-mais-pura-verdade-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/J9WqL4mk1DUrYG/a-mais-pura-verdade-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/AQQ18p0BqlTXAQW/a-mais-pura-verdade-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/DMDKMZYQB1ik7yL/a-mais-pura-verdade-1x7-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg"
   }
 ]
