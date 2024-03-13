@@ -308,5 +308,15 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg"
+  },
+  {
+    "nome": "Extrapolations",
+    "id": "138169",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/eKKjjJ2pDvhYVDe/extrapolations-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/eVJjRq7JGaFw90/extrapolations-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/4RWzl0GqMVIV8B/extrapolations-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/1aYVylobKqUeq7D/extrapolations-um-futuro-inquietante-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/YBzLdWeDxDHvWYy/extrapolations-um-futuro-inquietante-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/D2gDLYGDrxIk9LK/extrapolations-um-futuro-inquietante-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/vVa3DqokZZH41Yk/extrapolations-um-futuro-inquietante-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/KyDbOyLVrJH0Rxr/extrapolations-um-futuro-inquietante-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/cBUS1OijCX2jzirgajIWt4TOgTK.jpg"
   }
 ]
