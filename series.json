@@ -110,13 +110,23 @@
     "capa": "https://image.tmdb.org/t/p/w500/jVLqM6g5vF63Zq650lNSgtDx6hW.jpg"
   },
   {
-    "nome": "Amor Platônico",
+    "nome": "Amor Platï¿½nico",
     "id": "112211",
     "temporada": "1",
     "totaleps": "10",
     "players": "{   \"1\": \"https://streamtape.com/v/DQQGGZ6DqYCkZaj/amor-platonico-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/bzg2OQaZDWTKLw/amor-platonico-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/6okqd6GXBvf9kAk/amor-platonico-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/yGDwbkvg8mF1M31/amor-platonico-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/kvobjaXRWoSrxM/amor-platonico-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/1zAVBmA10JfJKz/amor-platonico-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/opOZ7eKoZXcJmkl/amor-platonico-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/Q3XgVxYOl2U0oV3/amor-platonico-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/bKyQJRlGxLFPMyR/amor-platonico-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/yDVPYkKxzdH1rjg/amor-platonico-1x10-dublado-www.encontrei.tv\" }",
-    "categoria": "Comédia",
+    "categoria": "Comï¿½dia",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/4rmFpvBw8kNuI15CrDlGVFSU7zc.jpg"
+  },
+  {
+    "nome": "Anatomy of a Scandal",
+    "id": "113984",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/WXMPOAOjAgSQ2a/anatomia-de-um-escandalo-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/YwdgqA2RwwfvlB7/anatomia-de-um-escandalo-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/3O4PLvPbVoCdmjo/anatomia-de-um-escandalo-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/1pYO9aoKloFeZmb/anatomia-de-um-escandalo-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/wzRkDPw0yPHJwk2/anatomia-de-um-escandalo-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/yAQgvxAZ4AH1Mwl/anatomia-de-um-escandalo-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/e1pUQkXbFNI6xH4oDuHnyJoOSib.jpg"
   }
 ]
