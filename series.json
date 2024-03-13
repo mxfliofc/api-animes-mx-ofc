@@ -185,8 +185,18 @@
     "temporada": "1",
     "totaleps": "6",
     "players": "{   \"1\": \"https://streamtape.com/v/wGR86VyQDXCJd9g/assassinato-no-fim-do-mundo-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/MZVZmoagYlIB2V/assassinato-no-fim-do-mundo-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/AX4oDj48RPsXoM8/A.Murder.At.The.End.Of.The.World.S01E03.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX.DUAL-DKS_%281%29.mkv.mp4\",   \"4\": \"https://streamtape.com/v/DawyBM7edmUkyG3/A.Murder.at.the.End.of.the.World.S01E04.Chapter.4.Family.Secrets.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX.DUAL-DKS_%281%29.mkv.mp4\",   \"5\": \"https://streamtape.com/v/O11R0veodqUZQbR/A.Murder.at.the.End.of.the.World.S01E05.Chapter.5.Crypt.1080p.DSNP.WEB-DL.DDP5.1.H.264-CMRG.DUAL-DKS_%281%29.mkv.mp4\",   \"6\": \"https://streamtape.com/v/2kOVBr3y13HZ2G3/A.Murder.at.the.End.of.the.World.S01E06.1080P.WEB.H264-WAYNE.DUAL-DKS_%281%29.mkv.mp4\" }",
-    "categoria": "Mistério",
+    "categoria": "Mistï¿½rio",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/mF8inYyAQ9pNs9c8nMxznjUUZMa.jpg"
+  },
+  {
+    "nome": "Baymax!",
+    "id": "114466",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/ZxRVgPx3bZHq8k9/baymax-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/gLyM8bKxYpHJVp/baymax-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Wy3GA0QdMzFb31J/baymax-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/b3OAdo3akyCPMX8/baymax-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/WQ7mWgAVv0tbP6J/baymax-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/wOQQGB8ow6Sxek/baymax-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Animação",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/muzgYvvFniQnwiTdAvfMCEkHsT4.jpg"
   }
 ]
