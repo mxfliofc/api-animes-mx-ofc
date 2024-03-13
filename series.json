@@ -105,8 +105,18 @@
     "temporada": "4",
     "totaleps": "7",
     "players": "{   \"1\": \"https://streamtape.com/v/BjxBbl8KPAuyp0z/alexa-e-katie-4x2-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/1qlDKR39OWUeOR3/alexa-e-katie-4x3-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/9bJvmV7dxGuaJvm/alexa-e-katie-4x4-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/ykVg3D4Rz4i14vv/alexa-e-katie-4x5-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/066vMoke9GHbORg/alexa-e-katie-4x6-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/2abK3Lj20gTQMO/alexa-e-katie-4x7-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/orWyYMYBrlTJr2Y/alexa-e-katie-4x8-dublado-www.encontrei.tv\" }",
-    "categoria": "Comédia",
+    "categoria": "Comï¿½dia",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/jVLqM6g5vF63Zq650lNSgtDx6hW.jpg"
+  },
+  {
+    "nome": "Amor Platônico",
+    "id": "112211",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/DQQGGZ6DqYCkZaj/amor-platonico-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/bzg2OQaZDWTKLw/amor-platonico-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/6okqd6GXBvf9kAk/amor-platonico-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/yGDwbkvg8mF1M31/amor-platonico-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/kvobjaXRWoSrxM/amor-platonico-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/1zAVBmA10JfJKz/amor-platonico-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/opOZ7eKoZXcJmkl/amor-platonico-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/Q3XgVxYOl2U0oV3/amor-platonico-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/bKyQJRlGxLFPMyR/amor-platonico-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/yDVPYkKxzdH1rjg/amor-platonico-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Comédia",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/4rmFpvBw8kNuI15CrDlGVFSU7zc.jpg"
   }
 ]
