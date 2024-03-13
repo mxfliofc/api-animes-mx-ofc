@@ -378,5 +378,15 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
+  },
+  {
+    "nome": "For All Mankind",
+    "id": "87917",
+    "temporada": "3",
+    "totaleps": "9",
+    "players": "{   \"1\": \"https://streamtape.com/v/1OPvqXgK72IJVp/for-all-mankind-3x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/PyzwVjDO7Pu0zXZ/for-all-mankind-3x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/J27o9BGyqaSjdMj/for-all-mankind-3x4-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/1ayMVRWByoueQDV/for-all-mankind-3x5-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/0zwdKmZRJyFbrxl/for-all-mankind-3x6-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/Jp46Ovev09Ur7A/for-all-mankind-3x7-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/vVzLO0zd4gT4d3D/for-all-mankind-3x8-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/BAkxdxGV3bSyyr8/for-all-mankind-3x9-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/r9PXYpdk1AHbPRy/for-all-mankind-3x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
   }
 ]
