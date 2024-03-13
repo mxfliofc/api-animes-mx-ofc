@@ -338,5 +338,15 @@
     "categoria": "Crime",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/sDh60bk0gh4VQKtvfWPOW9YsTcu.jpg"
+  },
+  {
+    "nome": "The Flash",
+    "id": "60735",
+    "temporada": "1",
+    "totaleps": "23",
+    "players": "{   \"1\": \"https://streamtape.com/v/0DOrKY86gkHb8o0/flash-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/7q8vDOxXy2TAAmq/flash-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Je62KM3gVXC6d4/flash-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/q8JO0mMRB0cz9w7/flash-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/remZ2JKDbeub6LQ/flash-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/wyP91PagPGHPLr/flash-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/2kXRqQXl4BUZb4D/flash-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/Gw9Pg0keXwt9KP/flash-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/3xkWYa0zmoC6rK/flash-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/6PpMv9ZXr0tOWR/flash-1x10-dublado-www.encontrei.tv\",   \"11\": \"https://streamtape.com/v/02VVG31KKRimlO/flash-1x11-dublado-www.encontrei.tv\",   \"12\": \"https://streamtape.com/v/JbV2LzZxgZte88/flash-1x12-dublado-www.encontrei.tv\",   \"13\": \"https://streamtape.com/v/2P61bxvD7YsZyzL/flash-1x13-dublado-www.encontrei.tv\",   \"14\": \"https://streamtape.com/v/1xDw3OvoG6telPe/flash-1x14-dublado-www.encontrei.tv\",   \"15\": \"https://streamtape.com/v/zJRdDKDP7MSYDvy/flash-1x15-dublado-www.encontrei.tv\",   \"16\": \"https://streamtape.com/v/17JaoR2Ok9ie2jD/flash-1x16-dublado-www.encontrei.tv\",   \"17\": \"https://streamtape.com/v/Ge30j3K7alt1xQZ/flash-1x17-dublado-www.encontrei.tv\",   \"18\": \"https://streamtape.com/v/ybbbPZ3zRghm8A/flash-1x18-dublado-www.encontrei.tv\",   \"19\": \"https://streamtape.com/v/BQ3Azol0dDTVPy/flash-1x19-dublado-www.encontrei.tv\",   \"20\": \"https://streamtape.com/v/Bvbvly4zWzhypyw/flash-1x20-dublado-www.encontrei.tv\",   \"21\": \"https://streamtape.com/v/or2yQ7pp01TOVR/flash-1x21-dublado-www.encontrei.tv\",   \"22\": \"https://streamtape.com/v/GJWPRq447lFVXG/flash-1x22-dublado-www.encontrei.tv\",   \"23\": \"https://streamtape.com/v/r824Mkp3GjcaWq/flash-1x23-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg"
   }
 ]
