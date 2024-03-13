@@ -318,5 +318,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/cBUS1OijCX2jzirgajIWt4TOgTK.jpg"
+  },
+  {
+    "nome": "Falcão e o Soldado Invernal",
+    "id": "88396",
+    "temporada": "1",
+    "totaleps": "5",
+    "players": "{   \"1\": \"https://streamtape.com/v/RyOa0zY8AmtdWrg/falcao-e-o-soldado-invernal-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/8RYmkLPKm6CokKQ/falcao-e-o-soldado-invernal-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/9BGyxRO66ouaa3Q/falcao-e-o-soldado-invernal-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/kqv2PDZRJeIOOmP/falcao-e-o-soldado-invernal-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/QajxVoBXdMhkRP/falcao-e-o-soldado-invernal-1x5-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/6kbAMLteGO8yyewYau6bJ683sw7.jpg"
   }
 ]
