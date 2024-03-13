@@ -355,8 +355,18 @@
     "temporada": "1",
     "totaleps": "7",
     "players": "{   \"1\": \"https://streamtape.com/v/QD2laqrJzxU0YjZ/flordelis-questiona-ou-adora-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/ayk8m99WwjHxv1q/flordelis-questiona-ou-adora-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/bK9azwmezKTxeM/flordelis-questiona-ou-adora-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/DXoeoxG4jgCDm3/flordelis-questiona-ou-adora-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/gqBdoeOG2Ki99K/flordelis-questiona-ou-adora-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/WgJewoj3BxCbbVD/flordelis-questiona-ou-adora-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/OPyxBRxpejIZyok/flordelis-questiona-ou-adora-1x7-dublado-www.encontrei.tv\" }",
-    "categoria": "Documentário",
+    "categoria": "Documentï¿½rio",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/msSUnJv4msF2FmC1fwhxgJ2G3pi.jpg"
+  },
+  {
+    "nome": "For All Mankind",
+    "id": "87917",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/bzabaA8zXvFQ0D/for-all-mankind-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/jrk0ZYMKgkuzpxQ/for-all-mankind-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/0dV0RlQOOvibzYJ/for-all-mankind-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/1DBZDVrgQmUev0a/for-all-mankind-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/qgrz61QO8wUyXr/for-all-mankind-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/AqQo7vZvDotXpa0/for-all-mankind-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/DMgxyMvYRVFkM2D/for-all-mankind-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/MjBkPPr30ksma3W/for-all-mankind-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/xMY6q6rwpWck4z8/for-all-mankind-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/LvpkWm8YKpu7eY/for-all-mankind-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg"
   }
 ]
