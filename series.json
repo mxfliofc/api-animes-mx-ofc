@@ -248,5 +248,15 @@
     "categoria": "Crime",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/qWX71nLvoLsBNPEjddZMC75lq6I.jpg"
+  },
+  {
+    "nome": "Desejo Obsessivo (2023)",
+    "id": "223313",
+    "temporada": "1",
+    "totaleps": "4",
+    "players": "{   \"1\": \"https://streamtape.com/v/3p8GRK3GegI3v7/desejo-obsessivo-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/W8oJrgZgY1TA8W/desejo-obsessivo-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/RpOLod70wXSd431/desejo-obsessivo-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/b3QOAD0AbOuPyGl/desejo-obsessivo-1x4-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/8nQmxCYvidrCMxYCPdhuls94cl9.jpg"
   }
 ]
