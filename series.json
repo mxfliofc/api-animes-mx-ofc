@@ -135,8 +135,18 @@
     "temporada": "1",
     "totaleps": "5",
     "players": "{   \"1\": \"https://streamtape.com/v/z6zxyJy1brSk9J/arcane-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/d8AoW4va3vtk8YA/arcane-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/xloYym96p8Tk2pw/arcane-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/AwPwAZgyJlHXk1X/arcane-1x5-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/pxo3k8Gjd7SrgRZ/arcane-1x6-dublado-www.encontrei.tv\" }",
-    "categoria": "Animação",
+    "categoria": "Animaï¿½ï¿½o",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"
+  },
+  {
+    "nome": "Arcanjo Renegado",
+    "id": "99125",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/rJyx4X4OgLCbpyK/arcanjo-renegado-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/1bbqoMY9WwHrq2/arcanjo-renegado-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/p12pBWGolQcrYv7/arcanjo-renegado-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/qarD3Wdldgtwbj/arcanjo-renegado-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/PqXm39bdegi0vb8/arcanjo-renegado-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/P3eBvo0p61u0dpR/arcanjo-renegado-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/KPbkJPmrx0IALr/arcanjo-renegado-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/3WOVOeXel2hdPxO/arcanjo-renegado-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/26wR0oOajQiZr6J/arcanjo-renegado-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/1LY8Jrd61VHb2z/arcanjo-renegado-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/5pENOolBDpGtGI9MqIIiFj2Dtwt.jpg"
   }
 ]
