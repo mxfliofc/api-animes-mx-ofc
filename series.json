@@ -348,5 +348,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg"
+  },
+  {
+    "nome": "Flordelis: Questiona ou Adora",
+    "id": "213462",
+    "temporada": "1",
+    "totaleps": "7",
+    "players": "{   \"1\": \"https://streamtape.com/v/QD2laqrJzxU0YjZ/flordelis-questiona-ou-adora-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/ayk8m99WwjHxv1q/flordelis-questiona-ou-adora-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/bK9azwmezKTxeM/flordelis-questiona-ou-adora-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/DXoeoxG4jgCDm3/flordelis-questiona-ou-adora-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/gqBdoeOG2Ki99K/flordelis-questiona-ou-adora-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/WgJewoj3BxCbbVD/flordelis-questiona-ou-adora-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/OPyxBRxpejIZyok/flordelis-questiona-ou-adora-1x7-dublado-www.encontrei.tv\" }",
+    "categoria": "Documentário",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/msSUnJv4msF2FmC1fwhxgJ2G3pi.jpg"
   }
 ]
