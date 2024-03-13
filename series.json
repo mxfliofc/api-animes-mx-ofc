@@ -238,5 +238,15 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/89Asq5Gx1YvmfJ4YhygTT9rFvtl.jpg"
+  },
+  {
+    "nome": "Corpos (2023)",
+    "id": "233629",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/4wOxqzGWr4HK0OA/corpos-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/O1B1jklBaYs7om/corpos-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/mQv7mWZZP1Fbaer/corpos-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/o9ojVoZkQgix4L/corpos-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/ZxMpVYgOOQhqvKa/corpos-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/3GlO73kGlpTdkaw/corpos-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/akDJva3GjMhx8DV/corpos-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/l01wrAvPJgS7YPG/corpos-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/qWX71nLvoLsBNPEjddZMC75lq6I.jpg"
   }
 ]
