@@ -405,8 +405,18 @@
     "temporada": "1",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/lx3XADpr4MF7JdL/gen-v-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/3xQ2zM16oPSdywk/gen-v-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/zpRev7vKWYhY3Yb/gen-v-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/3q79lvyleKtdqw1/gen-v-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/ok0D2GBo9VCJQQg/gen-v-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/O61VvXg1JQfZRXe/gen-v-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/OqOmqJZQmKsZQKV/gen-v-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/DZmew4jvxKhDyz/gen-v-1x8-dublado-www.encontrei.tv\" }",
-    "categoria": "Ação",
+    "categoria": "Aï¿½ï¿½o",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"
+  },
+  {
+    "nome": "Goosebumps",
+    "id": "157004",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/pYmkRBWay8srplR/goosebumps-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/XPmJqRA06Js3zl/goosebumps-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/zMRjjJXMVkCoOO/goosebumps-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/0dAWGLBLmRfb38D/goosebumps-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/ydeAr2vD40t36R/goosebumps-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/gYgWkG43gKCgmz/goosebumps-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/Zb33y3m8dBhqeg1/goosebumps-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/dZLw2PZWK8u0Bm/goosebumps-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/wPXzdDYwbjsJ9A6/goosebumps-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/kP27GyYyVrTD1B/goosebumps-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/pMrMPlEJAGAKBUWJzeacIwjRU2C.jpg"
   }
 ]
