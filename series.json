@@ -208,5 +208,15 @@
     "categoria": "Drama",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/84fIwd3uL6AIs4PcvBFCqI2noV0.jpg"
+  },
+  {
+    "nome": "Bem-Vindos à Austrália",
+    "id": "204999",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/74rGgA1r16cAjQ6/bem-vindos-a-australia-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/k0G8Wb4bJyTOXPP/bem-vindos-a-australia-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/wP8ez8wWPBCJ1M4/bem-vindos-a-australia-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/voo36P6eB6t4zgw/bem-vindos-a-australia-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/VYzZKB4Gm8FKvql/bem-vindos-a-australia-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/xmleDrGOZyukM4p/bem-vindos-a-australia-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/pdD1STyfzRMo9xp1Nvt957K5sA9.jpg"
   }
 ]
