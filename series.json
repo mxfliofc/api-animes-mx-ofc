@@ -278,5 +278,15 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/vFyJH630cF68LohVYjQW49074Sy.jpg"
+  },
+  {
+    "nome": "Station Eleven",
+    "id": "90972",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/kWkqY1Bb8QU6yd/estacao-onze-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/9BrXA1BwmRfaeba/estacao-onze-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/ylAvMmly8jukrv/estacao-onze-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/AkGWozZDMLcXlgb/estacao-onze-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/AA2w6dGyvJCmMd/estacao-onze-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/O62DDAWbMjc7Dk/estacao-onze-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/beZzaMJwZYCPymy/estacao-onze-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/kLpbo36W70cOV2a/estacao-onze-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/2PpdjqobA9IZ3AZ/estacao-onze-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/MrwqvdMjP9SmjPO/estacao-onze-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/xWlhMOzRxUpu4uzkWcDQOaESCE.jpg"
   }
 ]
