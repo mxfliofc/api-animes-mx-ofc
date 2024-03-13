@@ -265,8 +265,18 @@
     "temporada": "1",
     "totaleps": "7",
     "players": "{   \"1\": \"https://streamtape.com/v/QXkb6pQ391uAyO/desjuntados-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/m19y2qGovrCXpo/desjuntados-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/WyxQZyLd18ib3bl/desjuntados-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/l41X8ZM0geh7r2k/desjuntados-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/kwr1omvkj6TOom8/desjuntados-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/wGQ22JbAVeiJb42/desjuntados-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/ajZb01O0XqSxrDD/desjuntados-1x7-dublado-www.encontrei.tv\" }",
-    "categoria": "Comédia",
+    "categoria": "Comï¿½dia",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/79J57FjKOFWmN9cWHDg7qjs6aqm.jpg"
+  },
+  {
+    "nome": "Echo 2024",
+    "id": "122226",
+    "temporada": "1",
+    "totaleps": "5",
+    "players": "{   \"1\": \"https://streamtape.com/v/r0Lye84jLQSbRR4/Echo.S01E01\",   \"2\": \"https://streamtape.com/v/p80ymMlejPhrydV/Echo.S01E02\",   \"3\": \"https://streamtape.com/v/4G6okGRyypuK0K7/Echo.S01E03.Tuklo.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb.DUAL-Eri.mp4_405.79_MB.mp4\",   \"4\": \"https://streamtape.com/v/Ry9461bbLAtdbjO/Echo.S01E04.Taloa.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb.DUAL-Eri.mp4_321.39_MB.mp4\",   \"5\": \"https://streamtape.com/v/3VAekkK8mKfdV0z/Echo.S01E05.Maya.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb.DUAL-Eri.mp4_337.75_MB.mp4\" }",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/vFyJH630cF68LohVYjQW49074Sy.jpg"
   }
 ]
