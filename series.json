@@ -298,5 +298,15 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg"
+  },
+  {
+    "nome": "Euphoria",
+    "id": "85552",
+    "temporada": "2",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/lGMpyGGLkzu7e7O/euphoria-2x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/P8z3XpO3mLs07Gd/euphoria-2x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/yxR4OWOyXJH16VZ/euphoria-2x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/lDoPRXdxa7s7kbP/euphoria-2x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/2qRePypmZyIAgW/euphoria-2x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/jO2wZgpLzOiD3M/euphoria-2x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/vDMOpl1808S4331/euphoria-2x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/wPyJzpva4Dixjz/euphoria-2x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg"
   }
 ]
