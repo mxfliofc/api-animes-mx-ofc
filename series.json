@@ -210,13 +210,23 @@
     "capa": "https://image.tmdb.org/t/p/w500/84fIwd3uL6AIs4PcvBFCqI2noV0.jpg"
   },
   {
-    "nome": "Bem-Vindos à Austrália",
+    "nome": "Bem-Vindos ï¿½ Austrï¿½lia",
     "id": "204999",
     "temporada": "1",
     "totaleps": "6",
     "players": "{   \"1\": \"https://streamtape.com/v/74rGgA1r16cAjQ6/bem-vindos-a-australia-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/k0G8Wb4bJyTOXPP/bem-vindos-a-australia-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/wP8ez8wWPBCJ1M4/bem-vindos-a-australia-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/voo36P6eB6t4zgw/bem-vindos-a-australia-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/VYzZKB4Gm8FKvql/bem-vindos-a-australia-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/xmleDrGOZyukM4p/bem-vindos-a-australia-1x6-dublado-www.encontrei.tv\" }",
-    "categoria": "Ação",
+    "categoria": "Aï¿½ï¿½o",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/pdD1STyfzRMo9xp1Nvt957K5sA9.jpg"
+  },
+  {
+    "nome": "Brincando com Fogo: Brasil",
+    "id": "128251",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/GPXj4vvyo2s1rv3/brincando-com-fogo-brasil-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/DZVBX4qlkYTk7OZ/brincando-com-fogo-brasil-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/BQ33pW9r3quy1RW/brincando-com-fogo-brasil-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/OoQXBkbMMjtZAyr/brincando-com-fogo-brasil-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/dvGgV3mzmqskODo/brincando-com-fogo-brasil-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/pl8rXqM6WJurPWM/brincando-com-fogo-brasil-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/7Xdb3l4OwdCMX8/brincando-com-fogo-brasil-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/2rG4WVjXZMsZMa9/brincando-com-fogo-brasil-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "TV",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/hd2MbR2JVXmnfQvmuN5mf1SxZiO.jpg"
   }
 ]
