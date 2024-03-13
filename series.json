@@ -15,12 +15,12 @@
     "temporada": "1",
     "totaleps": "7",
     "players": "{   \"1\": \"https://streamtape.com/v/KWyvKra9ydC0XeL/a-mais-pura-verdade-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/wPJZ2zwzrWfJykj/a-mais-pura-verdade-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/m63QYA3zoLuVOL/a-mais-pura-verdade-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/gP9dPdjJgzsq8oW/a-mais-pura-verdade-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/J9WqL4mk1DUrYG/a-mais-pura-verdade-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/AQQ18p0BqlTXAQW/a-mais-pura-verdade-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/DMDKMZYQB1ik7yL/a-mais-pura-verdade-1x7-dublado-www.encontrei.tv\" }",
-    "categoria": "Ação",
+    "categoria": "AÃ§Ã£o",
     "idade": "14",
     "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg"
   },
   {
-    "nome": "A M�o do Eurico",
+    "nome": "A Mão do Eurico",
     "id": "239465",
     "temporada": "1",
     "totaleps": "5",
@@ -28,5 +28,15 @@
     "categoria": "Cinema",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/j8fwWjlsZB0nFH7yJxpyRgcPZg9.jpg"
+  },
+  {
+    "nome": "Abbott Elementary ",
+    "id": "125935",
+    "temporada": "1",
+    "totaleps": "13",
+    "players": "{   \"1\": \"https://streamtape.com/v/Xdyk21M1y6tD6wR/abbott-elementary-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/RjQxDGReJmHdvrL/abbott-elementary-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/PJ2BXXJXW6S00wo/abbott-elementary-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/1PaVw0dRZPSeROB/abbott-elementary-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/mgQP1wxVAMHbm0j/abbott-elementary-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/MjmRA9kVaOtmjq8/abbott-elementary-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/Z3bBKkO3gJFqLjd/abbott-elementary-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/plm2M7ye9ahr89d/abbott-elementary-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/ZxdDdz9a0RsqQ8y/abbott-elementary-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/XARQR10ZxYFDjdX/abbott-elementary-1x10-dublado-www.encontrei.tv\",   \"11\": \"https://streamtape.com/v/ZDxGV46AjMFq9Py/abbott-elementary-1x11-dublado-www.encontrei.tv\",   \"12\": \"https://streamtape.com/v/BPKORLBpDmFyyY1/abbott-elementary-1x12-dublado-www.encontrei.tv\",   \"13\": \"https://streamtape.com/v/PX9gV4YXzyh0Z20/abbott-elementary-1x13-dublado-www.encontrei.tv\" }",
+    "categoria": "Com�dia",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/2olNk9hjnrIzoBDFF58GaxgmzKG.jpg"
   }
 ]
