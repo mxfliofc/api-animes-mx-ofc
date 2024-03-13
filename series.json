@@ -395,8 +395,18 @@
     "temporada": "1",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/DqGwvLwPBafkMKl/fubar-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/dgQAe12DXYtkvoX/fubar-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/DM4Yz3DJvBck92g/fubar-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/2ayB11eDg7cZLZD/fubar-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/xbdLaxP4gQfkMbW/fubar-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/X2ZXoe7JglfDO8q/fubar-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/QJkkD2W4rqc0l04/fubar-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/8Xdo1Oj8PmCobWe/fubar-1x8-dublado-www.encontrei.tv\" }",
-    "categoria": "Ação",
+    "categoria": "Aï¿½ï¿½o",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/ryqcPZCEnEahBW4X06QZBUmtavp.jpg"
+  },
+  {
+    "nome": "Gen V",
+    "id": "205715",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/lx3XADpr4MF7JdL/gen-v-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/3xQ2zM16oPSdywk/gen-v-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/zpRev7vKWYhY3Yb/gen-v-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/3q79lvyleKtdqw1/gen-v-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/ok0D2GBo9VCJQQg/gen-v-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/O61VvXg1JQfZRXe/gen-v-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/OqOmqJZQmKsZQKV/gen-v-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/DZmew4jvxKhDyz/gen-v-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"
   }
 ]
