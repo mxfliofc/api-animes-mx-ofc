@@ -195,8 +195,18 @@
     "temporada": "1",
     "totaleps": "6",
     "players": "{   \"1\": \"https://streamtape.com/v/ZxRVgPx3bZHq8k9/baymax-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/gLyM8bKxYpHJVp/baymax-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Wy3GA0QdMzFb31J/baymax-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/b3OAdo3akyCPMX8/baymax-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/WQ7mWgAVv0tbP6J/baymax-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/wOQQGB8ow6Sxek/baymax-1x6-dublado-www.encontrei.tv\" }",
-    "categoria": "Animação",
+    "categoria": "Animaï¿½ï¿½o",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/muzgYvvFniQnwiTdAvfMCEkHsT4.jpg"
+  },
+  {
+    "nome": "Becoming Elizabeth",
+    "id": "198085",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/G9JjLjRX9wu11k1/becoming-elizabeth-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/Q13kkLaK10H0Z7r/becoming-elizabeth-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/LeMJ1x834Ls4o2/becoming-elizabeth-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/k3X7QmXD3wHOoP7/becoming-elizabeth-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/BajWdm9rGZHyBak/becoming-elizabeth-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/7mv1vZpoXGCArLA/becoming-elizabeth-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/MyZy67B24ahmkQg/becoming-elizabeth-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/3OPPRRRoDOSdbv1/becoming-elizabeth-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/84fIwd3uL6AIs4PcvBFCqI2noV0.jpg"
   }
 ]
