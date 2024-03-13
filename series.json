@@ -168,5 +168,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/l1jeSEm6a88GFcLzlHQr60D0dOi.jpg"
+  },
+  {
+    "nome": "As Seguidoras",
+    "id": "157361",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/glmvBoypvliqrmz/as-seguidoras-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/DkQGZKGJYjIw8z/as-seguidoras-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/JYYvG6dp07Ujjm6/as-seguidoras-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Jw28ABxA4jIj89R/as-seguidoras-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/27KBKJql4jiZOj7/as-seguidoras-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/4yz8vrkrveiKMJB/as-seguidoras-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Comédia",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/5omrc3opHh48eLgcH0iklCzi1J0.jpg"
   }
 ]
