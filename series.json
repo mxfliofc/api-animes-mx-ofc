@@ -680,7 +680,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg"
   },
   {
-    "nome": "O Mistério de Chapelwaite",
+    "nome": "O Mistï¿½rio de Chapelwaite",
     "id": "126118",
     "temporada": "1",
     "totaleps": "10",
@@ -688,5 +688,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/v7Oix3Zkhg3ftRxmLmyDBJc9ycp.jpg"
+  },
+  {
+    "nome": "The Gold",
+    "id": "218351",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/p1m3jYboW6IrggB/o-ouro-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/LMB6PozPPxTRqk7/o-ouro-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/yg87X1yL4Zh1V6d/o-ouro-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/7jk9vrXKxJTAg3b/o-ouro-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/9boVegBJebCa4d9/o-ouro-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/94BQLvR3dDUDar/o-ouro-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg"
   }
 ]
