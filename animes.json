@@ -22,7 +22,17 @@
     "id": 1429,
     "totaleps": "5",
     "players": "null.com",
-    "categorias": "Ação",
+    "categorias": "AÃ§Ã£o",
     "capa": "https://image.tmdb.org/t/p/w500//hNEG0e6aPq0EwrugX5A5rCc9TGg.jpg"
+  },
+  {
+    "nome": "Objeto 1",
+    "temporada": "1",
+    "id": 1,
+    "totaleps": "5",
+    "players": "null",
+    "categorias": "Ação",
+    "capa": "capa.com",
+    "linguagem": "dublado"
   }
 ]
