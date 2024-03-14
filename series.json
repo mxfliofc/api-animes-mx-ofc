@@ -528,5 +528,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/jyHK7qFX2HvaAULSAO7aztdanyr.jpg"
+  },
+  {
+    "nome": "La Brea",
+    "id": "128839",
+    "temporada": "2",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/y7L17VLXgWt1WR4/la-brea-a-terra-perdida-2x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/3p3bk7LAgrUDxB/la-brea-a-terra-perdida-2x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/M7dYAzz2bKud9Z/la-brea-a-terra-perdida-2x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/xvB4eqZB3vtkWyz/la-brea-a-terra-perdida-2x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/wZ2Ao3O8PvFJrBy/la-brea-a-terra-perdida-2x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/BOjQQG0JxqTyOgl/la-brea-a-terra-perdida-2x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/RLYAZYMPb3fd4bV/la-brea-a-terra-perdida-2x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/A1xkeodQyrcm9A/la-brea-a-terra-perdida-2x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/0zlvjYbGKzCb1e3/la-brea-a-terra-perdida-2x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/LOlo7mBL8QU4bB/la-brea-a-terra-perdida-2x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/jyHK7qFX2HvaAULSAO7aztdanyr.jpg"
   }
 ]
