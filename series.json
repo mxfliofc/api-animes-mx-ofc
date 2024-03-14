@@ -438,5 +438,15 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg"
+  },
+  {
+    "nome": "Ilhados com a Sogra (2023)",
+    "id": "224330",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/WDW3Y6G3wjCWL3/Ilhados.com.a.Sogra.S01E01.1080p.MP4.DUB.BaixarSeriesMP4.eu.mp4\",   \"2\": \"https://streamtape.com/v/eq4ym9486pUYlRb/ilhados-com-a-sogra-1x3-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/J2wLYoZ8AgTjM1o/ilhados-com-a-sogra-1x4-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/p46OpYpWwwTVLM/Stranded.with.my.Mother-in-Law.S01E02.1080p.WEB.h264-EDITH-PORPOR.mp4\",   \"5\": \"https://streamtape.com/v/0JzyxPlXbAsZxp/Stranded.with.my.Mother-in-Law.S01E05.1080p.WEB.h264-EDITH-PORPOR.mp4\",   \"6\": \"https://streamtape.com/v/aZVY87Mz6kibDy/Stranded.with.my.Mother-in-Law.S01E07.1080p.WEB.h264-EDITH-PORPOR.mp4\",   \"7\": \"https://streamtape.com/v/kk2JPyGoGgS81M/ilhados-com-a-sogra-1x6-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/vzZ36D4LMJS4zwA/ilhados-com-a-sogra-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "TV",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/10nBicYqOHwHx36OeiWuWlVsqkA.jpg"
   }
 ]
