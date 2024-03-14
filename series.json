@@ -678,5 +678,15 @@
     "categoria": "Aï¿½ï¿½o",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg"
+  },
+  {
+    "nome": "O Mistério de Chapelwaite",
+    "id": "126118",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/3x91kLqZ02HdY9B/o-misterio-de-chapelwaite-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/03BMQQqd9etbqLA/o-misterio-de-chapelwaite-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/KZBV7DwOQkh0QXR/o-misterio-de-chapelwaite-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/w7R9eLVD8ZCVjk/o-misterio-de-chapelwaite-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/oMGyOwl36vHJz3y/o-misterio-de-chapelwaite-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/R73joByL9XSdwra/o-misterio-de-chapelwaite-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/xOPLx0LyXahkAmX/o-misterio-de-chapelwaite-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/rovOJ6pb0dUYQ7/o-misterio-de-chapelwaite-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/m9Z7BMJJkPcbrGG/o-misterio-de-chapelwaite-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/Doob3O9LYOfk97P/o-misterio-de-chapelwaite-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/v7Oix3Zkhg3ftRxmLmyDBJc9ycp.jpg"
   }
 ]
