@@ -908,5 +908,15 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
+  },
+  {
+    "nome": "Slow Horses 2022",
+    "id": "95480",
+    "temporada": "2",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/xPQgRDG7drFkPO8/slow-horses-2x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/QWZYA96JA0F0oGP/slow-horses-2x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/oDPkYJdK2KTxax/slow-horses-2x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/8q1e7ky8pbsobVv/slow-horses-2x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/aoyvjD1MD0SxR8B/slow-horses-2x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/b7Bov34bepUPPod/slow-horses-2x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
   }
 ]
