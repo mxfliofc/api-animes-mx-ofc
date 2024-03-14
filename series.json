@@ -1158,5 +1158,15 @@
     "categoria": "Guerra",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg"
+  },
+  {
+    "nome": "Vikings: Valhalla (2022)",
+    "id": "116135",
+    "temporada": "2",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/dq4bO8wwpjikapG/vikings-valhalla-2x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/VORJr0oAM2FKJp2/vikings-valhalla-2x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Ywz3OjqB7Viv0v6/vikings-valhalla-2x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/BPO3xOGgAACyO7Z/vikings-valhalla-2x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/ZbJdeZD1MMFqlQL/vikings-valhalla-2x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/bq0m2Xk2y0tPzmm/vikings-valhalla-2x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/OoaYxY04K2tZPqp/vikings-valhalla-2x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/oLww2Kg1JKS3vA/vikings-valhalla-2x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Guerra",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg"
   }
 ]
