@@ -745,8 +745,18 @@
     "temporada": "1",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/KLAryDB1lOU0eoQ/pacificador-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/z7pMQv8pZDtYRP4/pacificador-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/r6pLaxjBVrFbZ2A/pacificador-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Dk9regYXXQCk7bw/pacificador-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/Ywg234PV4aHvDYl/pacificador-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/0zaxQr4bGkibPbd/pacificador-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/bg2qbQeXeJtPrmw/pacificador-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/1Jxz0r17z4Cp4B/pacificador-1x8-dublado-www.encontrei.tv\" }",
-    "categoria": "Ação",
+    "categoria": "Aï¿½ï¿½o",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/hE3LRZAY84fG19a18pzpkZERjTE.jpg"
+  },
+  {
+    "nome": "Paper Girls",
+    "id": "106431",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/jgBKY6RkBlFzZlX/paper-girls-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/e2JX4zWRz8hYMrM/paper-girls-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/1Dy07wQWWZFyGx/paper-girls-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/djlRYLDp22fkROR/paper-girls-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/GXzwrZwQj3U1XJV/paper-girls-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/9bb84XAqJXhag3g/paper-girls-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/GpO1gOGk8ZS1D4v/paper-girls-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/rg7OklV3MmibbJR/paper-girls-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/6eaySyOW29li0CgXHqy7pgb0IUT.jpg"
   }
 ]
