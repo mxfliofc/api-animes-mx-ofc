@@ -538,5 +538,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/jyHK7qFX2HvaAULSAO7aztdanyr.jpg"
+  },
+  {
+    "nome": "Berlin",
+    "id": "146176",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/a07mkQQgdwfxq92/Berlim.S01E01.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"2\": \"https://streamtape.com/v/AXYXyXmXzeFXOwz/Berlim.S01E02.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"3\": \"https://streamtape.com/v/Zz4M9d98vksqGp6/Berlim.S01E03.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"4\": \"https://streamtape.com/v/lxbY3dabZeh7QYr/Berlim.S01E04.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"5\": \"https://streamtape.com/v/xmXagYOjGWfk6vk/Berlim.S01E05.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"6\": \"https://streamtape.com/v/G2Rg2a1KLXI13Ve/Berlim.S01E06.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"7\": \"https://streamtape.com/v/29V8Z9xy8LhZXvZ/Berlim.S01E07.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"8\": \"https://streamtape.com/v/Lvrx1Y8LqgIR23d/Berlim.S01E08.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\" }",
+    "categoria": "Ação",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg"
   }
 ]
