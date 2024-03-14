@@ -638,5 +638,15 @@
     "categoria": "Crime",
     "idade": "18",
     "capa": "https://image.tmdb.org/t/p/w500/8ivM3YptVuFgumcZMjCMi28k2EF.jpg"
+  },
+  {
+    "nome": "Nosso Destino (2023)",
+    "id": "215001",
+    "temporada": "1",
+    "totaleps": "16",
+    "players": "{   \"1\": \"https://streamtape.com/v/wJAWyBxgRpfJOdZ/nosso-destino-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/pYBd97d7eQtrrZ9/nosso-destino-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Y8eOrm8baGTvXAr/nosso-destino-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/4ya78dyjMjfKjPa/nosso-destino-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/bRl8b32OVGuKDL/nosso-destino-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/be3xGOWJqrc2Yk/nosso-destino-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/79zX6GaGakTRwv/nosso-destino-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/A1XLJebKJAiXK01/nosso-destino-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/ZxoRwPop1XIqxd8/nosso-destino-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/oG27MmMbr1hJ0A3/nosso-destino-1x10-dublado-www.encontrei.tv\",   \"11\": \"https://streamtape.com/v/yPR4PzlYx2H1l7o/nosso-destino-1x11-dublado-www.encontrei.tv\",   \"12\": \"https://streamtape.com/v/8ZLxJGpRywSoAqX/nosso-destino-1x12-dublado-www.encontrei.tv\",   \"13\": \"https://streamtape.com/v/qy6LxoGgX9hzXgB/nosso-destino-1x13-dublado-www.encontrei.tv\",   \"14\": \"https://streamtape.com/v/wDdrxpWV2msJw2v/nosso-destino-1x14-dublado-www.encontrei.tv\",   \"15\": \"https://streamtape.com/v/rklo8o2KgRhGKQ/Nosso.Destino.S01E15.1080p.Dublado.mp4\",   \"16\": \"https://streamtape.com/v/WpVMe3k7GKibKeP/Nosso.Destino.S01E16.1080p.Dublado.mp4\" }",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/fMiLKTIFB7YCBQSYoTJ7NCrPcD6.jpg"
   }
 ]
