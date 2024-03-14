@@ -428,5 +428,15 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg"
+  },
+  {
+    "nome": "Lawmen: Bass Reeves",
+    "id": "157732",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/P8Wz6jdo3VI01Yq/homens-da-lei-bass-reeves-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/P8RMlrmDPkI01KD/homens-da-lei-bass-reeves-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/bg3v2rOZwdFPVJd/homens-da-lei-bass-reeves-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/DkbZopK2vXUk73Z/homens-da-lei-bass-reeves-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/opYL7GJJxkfK1l/homens-da-lei-bass-reeves-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/q8QBQkm3D9hzVAQ/homens-da-lei-bass-reeves-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/ywoq0dkDe4TKO2/homens-da-lei-bass-reeves-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/ewRz8RAL9dTYrM1/Lawmen.Bass.Reeves.S01E08.1080p.PMTP.WEB-DL.DDP5.1.x264-Fogueteiro_%281%29.mkv.mp4\" }",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg"
   }
 ]
