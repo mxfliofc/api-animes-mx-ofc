@@ -720,7 +720,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg"
   },
   {
-    "nome": "ONE PIECE: A Série (2023)",
+    "nome": "ONE PIECE: A Sï¿½rie (2023)",
     "id": "111110",
     "temporada": "1",
     "totaleps": "8",
@@ -728,5 +728,15 @@
     "categoria": "Aventura",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
+  },
+  {
+    "nome": "Os Caminhos de Jesus",
+    "id": "215836",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/W3Oydg4PwwUbw8K/os-caminhos-de-jesus-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/8Jq292RJaeS2bl/os-caminhos-de-jesus-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/aV3Jbr0RO8Sx6qW/os-caminhos-de-jesus-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Qg0jpKBw43c0jod/os-caminhos-de-jesus-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/dkARQDOrmYCkk8l/os-caminhos-de-jesus-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/Kyp4ZJXwk1c06oz/os-caminhos-de-jesus-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Documentário",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/ndKhTdXTm6HKlI9G1eC75Oy7soJ.jpg"
   }
 ]
