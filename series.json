@@ -958,5 +958,15 @@
     "categoria": "Romance",
     "idade": "16",
     "capa": "capa.com"
+  },
+  {
+    "nome": "The Old Man",
+    "id": "111800",
+    "temporada": "1",
+    "totaleps": "7",
+    "players": "{   \"1\": \"https://streamtape.com/v/j4paLD7VOKczwgL/the-old-man-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/MzvYK74XZyImOmZ/the-old-man-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/V0dDqAGowpI9yJ/the-old-man-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Qby4QJ3bBpi0Qxl/the-old-man-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/A0QobjbM2GfX0Vz/the-old-man-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/b7kAwWYeLDhParq/the-old-man-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/XWwLovGRBjSDO3V/the-old-man-1x7-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/euYz4adiSHH0GE3YnTeh3uLfBvL.jpg"
   }
 ]
