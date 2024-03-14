@@ -1038,5 +1038,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg"
+  },
+  {
+    "nome": "Todo Dia a Mesma Noite (2023)",
+    "id": "139396",
+    "temporada": "1",
+    "totaleps": "4",
+    "players": "{   \"1\": \"https://streamtape.com/v/rJvL7bvm1BiG2R/todo-dia-a-mesma-noite-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/KkyPmwjvGqIJaP/todo-dia-a-mesma-noite-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/G3qXLQrwxZT16oP/todo-dia-a-mesma-noite-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Vo8Jjk83g3iKR48/todo-dia-a-mesma-noite-1x4-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/wbCt8M0wDQxhhCa85yLgBvd5wMw.jpg"
   }
 ]
