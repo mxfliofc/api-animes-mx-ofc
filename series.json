@@ -770,13 +770,23 @@
     "capa": "https://image.tmdb.org/t/p/w500/cR0ursLXoT0zfX9XDGAzQRAnK0W.jpg"
   },
   {
-    "nome": "Quem é Erin Carter? (2023)",
+    "nome": "Quem ï¿½ Erin Carter? (2023)",
     "id": "227318",
     "temporada": "1",
     "totaleps": "7",
     "players": "{   \"1\": \"https://streamtape.com/v/wl6K17aAL7IJObd/quem-e-erin-carter-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/A3PXGGBZaxfwmd/quem-e-erin-carter-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/yAeL0dR3jZu1ZgY/quem-e-erin-carter-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/6jvK3AM7e2slKr/quem-e-erin-carter-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/JYkLa443O4ujlLA/quem-e-erin-carter-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/BeB8GvOLqvfyoa6/quem-e-erin-carter-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/kKePM0gzylUOjOK/quem-e-erin-carter-1x7-dublado-www.encontrei.tv\" }",
-    "categoria": "Ação",
+    "categoria": "Aï¿½ï¿½o",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/1FCsjYtEtuine1TUssIFjy6vmJW.jpg"
+  },
+  {
+    "nome": "Raised by Wolves",
+    "id": "85723",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/VxA2v6YbYgIKKaQ/raised-by-wolves-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/K4XQ9o2mD4C0d4D/raised-by-wolves-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/jAAXj03JpJc2K7/raised-by-wolves-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/addmdpJXzWHxVdb/raised-by-wolves-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/zXqOYKYoWzSYLO6/raised-by-wolves-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/rkWRrw8QQ7IbqoP/raised-by-wolves-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/B4zKVvq7k0fyJ1P/raised-by-wolves-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/R4VOaV3Q4YC03Y/raised-by-wolves-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/V7ayqdMyJ1u3RX/raised-by-wolves-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/grAKzX2L4JCqopo/raised-by-wolves-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Ficção científica",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/f6Xg4mTARZi2YDqAh3WwZuebcHO.jpg"
   }
 ]
