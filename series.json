@@ -890,7 +890,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg"
   },
   {
-    "nome": "Sentença (2022)",
+    "nome": "Sentenï¿½a (2022)",
     "id": "123378",
     "temporada": "1",
     "totaleps": "6",
@@ -898,5 +898,15 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/7ds9h8aZCvoIUrBj979VElZDJhN.jpg"
+  },
+  {
+    "nome": "Slow Horses 2022",
+    "id": "95480",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/z7v1kLpLw8fYM3v/slow-horses-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/jZBMG1KBDRUaJy/slow-horses-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/PkbMmpYk1dT02Om/slow-horses-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/plpZMmADAQCrM26/slow-horses-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/xZ3GqeobLvtkGo0/slow-horses-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/og3jJA02aOhJVBO/slow-horses-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg"
   }
 ]
