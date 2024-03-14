@@ -16,7 +16,16 @@
     "id": 600,
     "totaleps": "5",
     "players": "io",
-    "categorias": "Ação",
+    "categorias": "AÃ§Ã£o",
+    "capa": "https://image.tmdb.org/t/p/w500//xdpsXW6uAJDWOA0xsWX6tJACQmF.jpg"
+  },
+  {
+    "nome": "O Renegado3434",
+    "temporada": "1",
+    "id": 600,
+    "totaleps": "5",
+    "players": "io",
+    "categorias": "Romance",
     "capa": "https://image.tmdb.org/t/p/w500//xdpsXW6uAJDWOA0xsWX6tJACQmF.jpg"
   }
 ]
