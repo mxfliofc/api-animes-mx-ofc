@@ -655,8 +655,18 @@
     "temporada": "1",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/qJZ4QYW1RxhzPbk/novela-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/16AlXg8y16teRmq/novela-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/ak681ZmX9rhxYYP/novela-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/0BVrrZLXJjIA3A/novela-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/rreBmmMw7btbLr6/novela-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/e2j2VLgX1ztZ7g/novela-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/mqmzYa1GzKFbq7B/novela-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/m767Oel2yVCd8x/novela-1x8-dublado-www.encontrei.tv\" }",
-    "categoria": "Comédia",
+    "categoria": "Comï¿½dia",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/lTA0tnrl59sItGox44ZvdMLbFo5.jpg"
+  },
+  {
+    "nome": "O Dono de Kingstown (2021)",
+    "id": "97951",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/YVjmBx8yd1cvvz4/O_Dono_de_Kingstown_T1_EP1\",   \"2\": \"https://streamtape.com/v/AwK2V1WmdPHXdKq/O_Dono_de_Kingstown_T1_EP2\",   \"3\": \"https://streamtape.com/v/kvw92krLvjHOGAz/O_Dono_de_Kingstown_T1_EP3\",   \"4\": \"https://streamtape.com/v/vp6a8LVrMbu43Wo/O_Dono_de_Kingstown_T1_EP4\",   \"5\": \"https://streamtape.com/v/pMd4QYWzqQcroGz/O_Dono_de_Kingstown_T1_EP5\",   \"6\": \"https://streamtape.com/v/yr88jLr3v8C1LZl/O_Dono_de_Kingstown_T1_EP6\",   \"7\": \"https://streamtape.com/v/p7AKqRLDKMSzVq/O_Dono_de_Kingstown_T1_EP7\",   \"8\": \"https://streamtape.com/v/0zQWom4K6MTLJl/O_Dono_de_Kingstown_T1_EP8\",   \"9\": \"https://streamtape.com/v/DzAwG6ej6XTk2Wl/O_Dono_de_Kingstown_T1_EP9\",   \"10\": \"https://streamtape.com/v/m7zG2Gxxrdhbrp0/O_Dono_de_Kingstown_T1_EP10\" }",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/86OUOPulMiM8rjrQSt4KMev7UAa.jpg"
   }
 ]
