@@ -668,5 +668,15 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/86OUOPulMiM8rjrQSt4KMev7UAa.jpg"
+  },
+  {
+    "nome": "O Livro de Boba Fett (2021)",
+    "id": "115036",
+    "temporada": "1",
+    "totaleps": "7",
+    "players": "{   \"1\": \"https://streamtape.com/v/kL6v0blVWQHOj22/o-livro-de-boba-fett-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/LYoDe8G1RlSRdYG/o-livro-de-boba-fett-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/LOyW11xmx1fR0BR/o-livro-de-boba-fett-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/DWrBRDw2jGcke0W/o-livro-de-boba-fett-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/XgKOQQQpoySDqye/o-livro-de-boba-fett-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/3VLXX2yQm9T2e8/o-livro-de-boba-fett-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/ZkR9eeJlMpIqpR9/o-livro-de-boba-fett-1x7-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg"
   }
 ]
