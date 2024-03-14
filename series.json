@@ -605,8 +605,18 @@
     "temporada": "1",
     "totaleps": "7",
     "players": "{   \"1\": \"https://streamtape.com/v/kWvLZ79XvlsOj2g/missa-da-meia-noite-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/3Dw1VJJ1WoUaMk/missa-da-meia-noite-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/y2oZMrvVoMF1MGq/missa-da-meia-noite-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/KqQQjgjQy6H00YB/missa-da-meia-noite-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/12jR1kwWVLc1P8/missa-da-meia-noite-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/KyXBw4q0O0T0qYe/missa-da-meia-noite-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/wVZBeG7y8eiV62/missa-da-meia-noite-1x7-dublado-www.encontrei.tv\" }",
-    "categoria": "Mistério",
+    "categoria": "Mistï¿½rio",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg"
+  },
+  {
+    "nome": "Mr. Robot",
+    "id": "62560",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/wkXL88Ykl9cJZLY/mr-robot-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/zVm1a6zZ8WTvK3/mr-robot-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/X2G4o7VOjvFDvyZ/mr-robot-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/PkA9Ob3xdaI0pQz/mr-robot-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/6b4kPwrqq9C9m2J/mr-robot-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/6jQGxJ7r2Vc97Op/mr-robot-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/wVMjxXP3rkuPvW/mr-robot-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/XoOM064D9qSDVOp/mr-robot-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/kg1eBr4ljOuO1GK/mr-robot-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/Mjqy0p06aou0PK/mr-robot-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
   }
 ]
