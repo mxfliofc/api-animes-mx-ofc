@@ -598,5 +598,15 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/pNdYJdE1sSACnjgWjnIJAm7lfiV.jpg"
+  },
+  {
+    "nome": "Missa da Meia-Noite (2021)",
+    "id": "97400",
+    "temporada": "1",
+    "totaleps": "7",
+    "players": "{   \"1\": \"https://streamtape.com/v/kWvLZ79XvlsOj2g/missa-da-meia-noite-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/3Dw1VJJ1WoUaMk/missa-da-meia-noite-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/y2oZMrvVoMF1MGq/missa-da-meia-noite-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/KqQQjgjQy6H00YB/missa-da-meia-noite-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/12jR1kwWVLc1P8/missa-da-meia-noite-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/KyXBw4q0O0T0qYe/missa-da-meia-noite-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/wVZBeG7y8eiV62/missa-da-meia-noite-1x7-dublado-www.encontrei.tv\" }",
+    "categoria": "Mistério",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg"
   }
 ]
