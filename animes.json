@@ -18,12 +18,9 @@
     "capa": "capa.com"
   },
   {
-    "nome": "Attack on Titan",
-    "temporada": "1",
-    "id": 1429,
+    "nome": "Attack on Titan2",
+    "categorias": "outro",
     "totaleps": "5",
-    "players": "null.com",
-    "categorias": "Ação",
     "capa": "https://image.tmdb.org/t/p/w500//hNEG0e6aPq0EwrugX5A5rCc9TGg.jpg"
   }
 ]
