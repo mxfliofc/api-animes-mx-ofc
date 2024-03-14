@@ -578,5 +578,15 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg"
+  },
+  {
+    "nome": "Lov3",
+    "id": "154910",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/yb3Y4Q9GD3f1Xoj/lov3-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/DPMZbMLoZYIkpJz/lov3-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/VPZ4B0RAexsPaP/lov3-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/ylQyZ1z48bUOja/lov3-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/Q27GBKV6BZt0aLO/lov3-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/DXRA2LVy7oh6dy/lov3-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Comédia",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/5vEnasSUxuhV8WvsnuDCasuavAx.jpg"
   }
 ]
