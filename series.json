@@ -478,5 +478,15 @@
     "categoria": "Crime",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/t6Io2THhCujEKnzaHEt9oiTCzMM.jpg"
+  },
+  {
+    "nome": "Inferno Sobre Rodas (2011)",
+    "id": "1401",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/j4lzD32YqQuQd3/Hell.On.Wheels.S01E01.\",   \"2\": \"https://streamtape.com/v/MeQ01by00jImvyx/Hell.On.Wheels.S01E02.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"3\": \"https://streamtape.com/v/OxwmG43dmeuZ3wr/Hell.On.Wheels.S01E03.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"4\": \"https://streamtape.com/v/z6mdjQZ39PfYAqD/Hell.On.Wheels.S01E04.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"5\": \"https://streamtape.com/v/op74Qx4LLeFJwXg/Hell.On.Wheels.S01E05.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"6\": \"https://streamtape.com/v/apVD9aPdGPsxjed/Hell.On.Wheels.S01E06.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"7\": \"https://streamtape.com/v/ZjOVjjgXwGudwo/Hell.On.Wheels.S01E07.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"8\": \"https://streamtape.com/v/0AqP4MW89xFeRw/Hell.On.Wheels.S01E08.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"9\": \"https://streamtape.com/v/r8X8MKByllhxO6/Hell.On.Wheels.S01E09.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"10\": \"https://streamtape.com/v/dZzGwzdJmkikpvL/Hell.On.Wheels.S01E10.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/hK6C1Iimyw52ToE3d8WFFUh9Vn1.jpg"
   }
 ]
