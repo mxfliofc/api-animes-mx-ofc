@@ -648,5 +648,15 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/fMiLKTIFB7YCBQSYoTJ7NCrPcD6.jpg"
+  },
+  {
+    "nome": "Novela (2023)",
+    "id": "130845",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/qJZ4QYW1RxhzPbk/novela-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/16AlXg8y16teRmq/novela-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/ak681ZmX9rhxYYP/novela-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/0BVrrZLXJjIA3A/novela-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/rreBmmMw7btbLr6/novela-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/e2j2VLgX1ztZ7g/novela-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/mqmzYa1GzKFbq7B/novela-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/m767Oel2yVCd8x/novela-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Comédia",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/lTA0tnrl59sItGox44ZvdMLbFo5.jpg"
   }
 ]
