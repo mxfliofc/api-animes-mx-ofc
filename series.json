@@ -1028,5 +1028,15 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg"
+  },
+  {
+    "nome": "The Society",
+    "id": "84647",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/03vZroxVrWsbOZr/the-society-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/ajMdPQWY7BUxYVP/the-society-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/yDj0JGvOe2fyOO/the-society-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/MYljGb86rMI0rx/the-society-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/xOWWbpRpwzHqQD/the-society-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/8BpxljAwQySoqya/the-society-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/ZzJrYPpOzgUo79/the-society-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/1PQ9QlmLQqFemGQ/the-society-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/BAaMXkVXVzsyXQ3/the-society-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/My9mJpKyA7Tmq4z/the-society-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg"
   }
 ]
