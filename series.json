@@ -998,5 +998,15 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg"
+  },
+  {
+    "nome": "The Rookie",
+    "id": "79744",
+    "temporada": "3",
+    "totaleps": "14",
+    "players": "{   \"1\": \"https://streamtape.com/v/Vo8yLoKYRDSyWZ/the-rookie-3x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/ZagzO9qdO0SPRO/the-rookie-3x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/277X1J2R2PUZ8gp/the-rookie-3x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/1j6bw1Gvo8SeZVg/the-rookie-3x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/yVKxjOZDDlF16Oj/the-rookie-3x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/aZmdZV2g9VCx6r4/the-rookie-3x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/mYJL1bKPJ1Hb1DJ/the-rookie-3x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/o132wLYDWpUjm4/the-rookie-3x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/Dq72QQjkXzHdVP/the-rookie-3x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/OdB78ejqRQfeB6/the-rookie-3x10-dublado-www.encontrei.tv\",   \"11\": \"https://streamtape.com/v/YWv7AV8dGqcvMoo/the-rookie-3x11-dublado-www.encontrei.tv\",   \"12\": \"https://streamtape.com/v/0RaoqeaLaZCb3Xz/the-rookie-3x12-dublado-www.encontrei.tv\",   \"13\": \"https://streamtape.com/v/QPYGWxYGVxu0xDK/the-rookie-3x13-dublado-www.encontrei.tv\",   \"14\": \"https://streamtape.com/v/QJX8BYKRL6C07bL/the-rookie-3x14-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg"
   }
 ]
