@@ -698,5 +698,15 @@
     "categoria": "Crime",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg"
+  },
+  {
+    "nome": "Zorro",
+    "id": "228477",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/B42wo0P34yfQ7r/o-zorro-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/Wr29X8ewXdfbwdw/o-zorro-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Ly7xjPZLJeIR0MB/o-zorro-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/P86yvr8lAmc0PL4/o-zorro-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/mwBQOyloalsBq8/o-zorro-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/oMA3XB2MW1fJgBj/o-zorro-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/zPxWPvb2gRhYl3J/o-zorro-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/r49gm0DyWdcbW6A/o-zorro-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/KGL2Bjx767s06gX/o-zorro-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/KJljyV4wx8i0MxD/o-zorro-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg"
   }
 ]
