@@ -485,8 +485,18 @@
     "temporada": "1",
     "totaleps": "10",
     "players": "{   \"1\": \"https://streamtape.com/v/j4lzD32YqQuQd3/Hell.On.Wheels.S01E01.\",   \"2\": \"https://streamtape.com/v/MeQ01by00jImvyx/Hell.On.Wheels.S01E02.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"3\": \"https://streamtape.com/v/OxwmG43dmeuZ3wr/Hell.On.Wheels.S01E03.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"4\": \"https://streamtape.com/v/z6mdjQZ39PfYAqD/Hell.On.Wheels.S01E04.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"5\": \"https://streamtape.com/v/op74Qx4LLeFJwXg/Hell.On.Wheels.S01E05.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"6\": \"https://streamtape.com/v/apVD9aPdGPsxjed/Hell.On.Wheels.S01E06.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"7\": \"https://streamtape.com/v/ZjOVjjgXwGudwo/Hell.On.Wheels.S01E07.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"8\": \"https://streamtape.com/v/0AqP4MW89xFeRw/Hell.On.Wheels.S01E08.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"9\": \"https://streamtape.com/v/r8X8MKByllhxO6/Hell.On.Wheels.S01E09.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\",   \"10\": \"https://streamtape.com/v/dZzGwzdJmkikpvL/Hell.On.Wheels.S01E10.1080p.BluRay.x264-p0w4hd.DUAL.BAD.mkv.mp4\" }",
-    "categoria": "Ação",
+    "categoria": "Aï¿½ï¿½o",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/hK6C1Iimyw52ToE3d8WFFUh9Vn1.jpg"
+  },
+  {
+    "nome": "Invencível (2021)",
+    "id": "95557",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/pjR6pPVrozUlbl/invencivel-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/g2za7ePmX9iq8KW/invencivel-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/8wXQmGy0JguoazX/invencivel-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/o1OZ2Oddz6IJXLr/invencivel-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/7wabgwyk6giA1W3/invencivel-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/2BRb4wQ1PJcZ8bG/invencivel-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/kwloW7epGwSYDd/invencivel-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/2qeob9Vp1qSAr2/invencivel-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Animação",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
   }
 ]
