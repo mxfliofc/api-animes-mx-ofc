@@ -500,13 +500,23 @@
     "capa": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
   },
   {
-    "nome": "Invencível (2021)",
+    "nome": "Invencï¿½vel (2021)",
     "id": "95557",
     "temporada": "2",
     "totaleps": "4",
     "players": "{   \"1\": \"https://streamtape.com/v/MZLBplzL4DI6eg/invencivel-2x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/bPkG66Ko6AuLqj/invencivel-2x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Zab1B4xMa1tqbZL/invencivel-2x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/JAdWD418p3iZMp/invencivel-2x4-dublado-www.encontrei.tv\" }",
-    "categoria": "Animação",
+    "categoria": "Animaï¿½ï¿½o",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
+  },
+  {
+    "nome": "Irmãos Sun (2024)",
+    "id": "227004",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/6RVqZzwepMh9Y3X/Irmaos.Sun.S01E01.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"2\": \"https://streamtape.com/v/Xo7KrdjQweSAxP/Irmaos.Sun.S01E02.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"3\": \"https://streamtape.com/v/2BdJqQpxlAsZLpo/Irmaos.Sun.S01E03.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"4\": \"https://streamtape.com/v/X1qKAdyrm6tBKO/Irmaos.Sun.S01E04.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"5\": \"https://streamtape.com/v/PvzRKKm3xzc0qvW/Irmaos.Sun.S01E05.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"6\": \"https://streamtape.com/v/lqkmA6RpqyT73qd/Irmaos.Sun.S01E06.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"7\": \"https://streamtape.com/v/02w4pPO7YGtbPJO/Irmaos.Sun.S01E07.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"8\": \"https://streamtape.com/v/k0RmAVy9GBfOJyr/Irmaos.Sun.S01E08.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\" }",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/aTPMj3Bqb0WfHsIv8zUOROSjb7S.jpg"
   }
 ]
