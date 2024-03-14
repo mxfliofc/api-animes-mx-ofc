@@ -735,8 +735,18 @@
     "temporada": "1",
     "totaleps": "6",
     "players": "{   \"1\": \"https://streamtape.com/v/W3Oydg4PwwUbw8K/os-caminhos-de-jesus-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/8Jq292RJaeS2bl/os-caminhos-de-jesus-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/aV3Jbr0RO8Sx6qW/os-caminhos-de-jesus-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Qg0jpKBw43c0jod/os-caminhos-de-jesus-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/dkARQDOrmYCkk8l/os-caminhos-de-jesus-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/Kyp4ZJXwk1c06oz/os-caminhos-de-jesus-1x6-dublado-www.encontrei.tv\" }",
-    "categoria": "Documentário",
+    "categoria": "Documentï¿½rio",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/ndKhTdXTm6HKlI9G1eC75Oy7soJ.jpg"
+  },
+  {
+    "nome": "Pacificador (2022)",
+    "id": "110492",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/KLAryDB1lOU0eoQ/pacificador-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/z7pMQv8pZDtYRP4/pacificador-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/r6pLaxjBVrFbZ2A/pacificador-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Dk9regYXXQCk7bw/pacificador-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/Ywg234PV4aHvDYl/pacificador-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/0zaxQr4bGkibPbd/pacificador-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/bg2qbQeXeJtPrmw/pacificador-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/1Jxz0r17z4Cp4B/pacificador-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Ação",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/hE3LRZAY84fG19a18pzpkZERjTE.jpg"
   }
 ]
