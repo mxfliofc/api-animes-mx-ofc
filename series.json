@@ -510,7 +510,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
   },
   {
-    "nome": "Irmãos Sun (2024)",
+    "nome": "Irmï¿½os Sun (2024)",
     "id": "227004",
     "temporada": "1",
     "totaleps": "8",
@@ -518,5 +518,15 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/aTPMj3Bqb0WfHsIv8zUOROSjb7S.jpg"
+  },
+  {
+    "nome": "La Brea",
+    "id": "128839",
+    "temporada": "1",
+    "totaleps": "9",
+    "players": "{   \"1\": \"https://streamtape.com/v/6QZxxGk8yVcpza/la-brea-a-terra-perdida-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/VxL2JJd9DPUKv0q/la-brea-a-terra-perdida-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/MklQmwQA97IBWv/la-brea-a-terra-perdida-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/W39PQ48ZMWub48r/la-brea-a-terra-perdida-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/j6j1oYJ1L4uzPwo/la-brea-a-terra-perdida-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/yxGxVxbyOvS198Y/la-brea-a-terra-perdida-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/g1qKx8vdzQTqppy/la-brea-a-terra-perdida-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/LXGq3mBpMZcZ2Z/la-brea-a-terra-perdida-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/Gk1WgMdQJ6T1bvy/la-brea-a-terra-perdida-1x9-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/jyHK7qFX2HvaAULSAO7aztdanyr.jpg"
   }
 ]
