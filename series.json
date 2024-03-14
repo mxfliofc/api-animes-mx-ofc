@@ -448,5 +448,15 @@
     "categoria": "TV",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/10nBicYqOHwHx36OeiWuWlVsqkA.jpg"
+  },
+  {
+    "nome": "Impuros",
+    "id": "83295",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/JqdKjkjD18ijLAk/impuros-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/RwXdeZBLwwIdrL6/impuros-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/zQ93JKBePVUyzp/impuros-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/9bKRVaxw28T6DX/impuros-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/KQG482a3jXf0V8K/impuros-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/XPgOR1Pjo8S33a/impuros-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/jvm3q1bWLGTzpaA/impuros-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/XjOmY6yMPkSDMMd/impuros-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/LJ0RORpPJLhe6a/impuros-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/7RralqlZdVHA30D/impuros-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/t6Io2THhCujEKnzaHEt9oiTCzMM.jpg"
   }
 ]
