@@ -1108,5 +1108,15 @@
     "categoria": "Guerra",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
+  },
+  {
+    "nome": "Vikings (2013)",
+    "id": "44217",
+    "temporada": "3",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/VdvdDKeQYrIK6Mb/vikings-3x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/YGx8Y4o2zLSvb0b/vikings-3x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/z34mGjrmQmty7O/vikings-3x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/Kgj8Dzda8ac02P6/vikings-3x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/6a8Ymr2XaOU9M8Y/vikings-3x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/dZ6x7jP6ZACkyJK/vikings-3x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/y0Z4AJBVrYU1AqV/vikings-3x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/ylOkVA6lgGS1GQM/vikings-3x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/BG4k9DxZGzfGLw/vikings-3x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/GpALJD7bx2I1g4r/vikings-3x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Guerra",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
   }
 ]
