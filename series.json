@@ -718,5 +718,15 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg"
+  },
+  {
+    "nome": "ONE PIECE: A Série (2023)",
+    "id": "111110",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/RwY86L7lR9cdgG1/one-piece-a-serie-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/Jv9b1kOexRfgyK/one-piece-a-serie-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/X2xo9oXvaOuXwj/one-piece-a-serie-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/BeMmZ34q7zsygvW/ONE.PIECE.A.Serie.S01E04.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"5\": \"https://streamtape.com/v/LYGR48oQqbFRkka/ONE.PIECE.A.Serie.S01E05.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"6\": \"https://streamtape.com/v/xmaK0XQVYYHjeD/ONE.PIECE.A.Serie.S01E06.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"7\": \"https://streamtape.com/v/GXldgyM6o4soB1/ONE.PIECE.A.Serie.S01E07.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\",   \"8\": \"https://streamtape.com/v/koxyRQKG0BTOljv/ONE.PIECE.A.Serie.S01E08.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA_%281%29.mkv.mp4\" }",
+    "categoria": "Aventura",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
   }
 ]
