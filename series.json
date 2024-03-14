@@ -928,5 +928,15 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg"
+  },
+  {
+    "nome": "Sweet Home",
+    "id": "96648",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/kZR3xQ2oJDfOoy1/Sweet.Home.S01E01.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"2\": \"https://streamtape.com/v/klplkAdM86IO1Bg/Sweet.Home.S01E02.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"3\": \"https://streamtape.com/v/96yDoddQKBT9bR/Sweet.Home.S01E03.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"4\": \"https://streamtape.com/v/k23dzX9A98uDYR/Sweet.Home.S01E04.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"5\": \"https://streamtape.com/v/B736VGqAQwhyb7p/Sweet.Home.S01E05.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"6\": \"https://streamtape.com/v/LdQaYr3J0QIRVLL/Sweet.Home.S01E06.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"7\": \"https://streamtape.com/v/Rj94a3Qq0PUdbaP/Sweet.Home.S01E07.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"8\": \"https://streamtape.com/v/O17rb3M7DzUZJkk/Sweet.Home.S01E08.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"9\": \"https://streamtape.com/v/yb4P9ql6mMhw1a/Sweet.Home.S01E09.MP4.DUB.BaixarSeriesMP4.Net.mp4\",   \"10\": \"https://streamtape.com/v/1WaXvW981liy1w/Sweet.Home.S01E10.MP4.DUB.BaixarSeriesMP4.Net.mp4\" }",
+    "categoria": "Dorama",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/u8sLAJUvY9yzWqtVfKRQz5yin3D.jpg"
   }
 ]
