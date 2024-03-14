@@ -490,11 +490,21 @@
     "capa": "https://image.tmdb.org/t/p/w500/hK6C1Iimyw52ToE3d8WFFUh9Vn1.jpg"
   },
   {
-    "nome": "Invencível (2021)",
+    "nome": "Invencï¿½vel (2021)",
     "id": "95557",
     "temporada": "1",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/pjR6pPVrozUlbl/invencivel-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/g2za7ePmX9iq8KW/invencivel-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/8wXQmGy0JguoazX/invencivel-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/o1OZ2Oddz6IJXLr/invencivel-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/7wabgwyk6giA1W3/invencivel-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/2BRb4wQ1PJcZ8bG/invencivel-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/kwloW7epGwSYDd/invencivel-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/2qeob9Vp1qSAr2/invencivel-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Animaï¿½ï¿½o",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
+  },
+  {
+    "nome": "Invencível (2021)",
+    "id": "95557",
+    "temporada": "2",
+    "totaleps": "4",
+    "players": "{   \"1\": \"https://streamtape.com/v/MZLBplzL4DI6eg/invencivel-2x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/bPkG66Ko6AuLqj/invencivel-2x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Zab1B4xMa1tqbZL/invencivel-2x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/JAdWD418p3iZMp/invencivel-2x4-dublado-www.encontrei.tv\" }",
     "categoria": "Animação",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg"
