@@ -1058,5 +1058,15 @@
     "categoria": "Drama",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg"
+  },
+  {
+    "nome": "Upload: Realidade Virtual (2020)",
+    "id": "86248",
+    "temporada": "1",
+    "totaleps": "10",
+    "players": "{   \"1\": \"https://streamtape.com/v/612B7gD1MRf9m6z/Upload.S01E01.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"2\": \"https://streamtape.com/v/DQJj46obyvUkJzo/Upload.S01E02.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"3\": \"https://streamtape.com/v/B7a9Al76KlU22V/Upload.S01E03.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"4\": \"https://streamtape.com/v/b7M4mBYkJvfLWr/Upload.S01E04.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"5\": \"https://streamtape.com/v/Dl03ogqJ04Ck2BL/upload-realidade-virtual-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/0rx26B4VkaiLbg/Upload.S01E06.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"7\": \"https://streamtape.com/v/MkkLvRwVdJFwbA/Upload.S01E07.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"8\": \"https://streamtape.com/v/g1VZGX0jAPuqrVp/Upload.S01E08.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"9\": \"https://streamtape.com/v/mvg0OxYbJvUbwM3/Upload.S01E09.720p.MP4.DUB.BaixarSeriesMP4.Org.mp4\",   \"10\": \"https://streamtape.com/v/0egovDAQoRi0M4/upload-realidade-virtual-1x10-dublado-www.encontrei.tv\" }",
+    "categoria": "Comédia",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/6TPGDrU9MyWbn2TpggJphVAVXiq.jpg"
   }
 ]
