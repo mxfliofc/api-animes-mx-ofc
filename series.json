@@ -885,8 +885,18 @@
     "temporada": "1",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/7qZgGyO6mBI4Qm/Scott.Pilgrim.Takes.Off.S01E01.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\",   \"2\": \"https://streamtape.com/v/k3V79bQpQmCOLQ8/Scott.Pilgrim.Takes.Off.S01E02.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\",   \"3\": \"https://streamtape.com/v/7bVLLALwLgSAz0m/Scott.Pilgrim.Takes.Off.S01E03.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\",   \"4\": \"https://streamtape.com/v/xoD200VlzRUkaXw/Scott.Pilgrim.Takes.Off.S01E04.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\",   \"5\": \"https://streamtape.com/v/vrqlQlGLeyu4XgL/Scott.Pilgrim.Takes.Off.S01E05.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\",   \"6\": \"https://streamtape.com/v/2keGAMKmXZiZgdY/Scott.Pilgrim.Takes.Off.S01E06.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\",   \"7\": \"https://streamtape.com/v/gvVMXb8Wj7iqbAr/Scott.Pilgrim.Takes.Off.S01E07.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\",   \"8\": \"https://streamtape.com/v/xrQaBYQeZ0c0jK/Scott.Pilgrim.Takes.Off.S01E08.1080p.NF.WEB-DL.DDP5.1.H.264-SuccessfulCrab.DUAL-iNTENSE_%281%29.mkv.mp4\" }",
-    "categoria": "Animação",
+    "categoria": "Animaï¿½ï¿½o",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg"
+  },
+  {
+    "nome": "Sentença (2022)",
+    "id": "123378",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/kPj03Kmz0ZiOgbq/sentenca-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/26OVAWVlbzuZyl6/sentenca-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/pkegGAJx9WfXv8/sentenca-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/qraqZMMd9JUz0Ga/sentenca-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/XY4XbQXommuDewo/sentenca-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/bGLLBDVDZKTPVbY/sentenca-1x6-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/7ds9h8aZCvoIUrBj979VElZDJhN.jpg"
   }
 ]
