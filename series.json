@@ -938,5 +938,15 @@
     "categoria": "Dorama",
     "idade": "18",
     "capa": "https://image.tmdb.org/t/p/w500/u8sLAJUvY9yzWqtVfKRQz5yin3D.jpg"
+  },
+  {
+    "nome": "Objeto 1",
+    "id": "74577",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/jpmKQpm3lrczlPB/the-end-of-the-fing-world-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/qKwVMgdM0WSzp19/the-end-of-the-fing-world-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/MPP60eQy2OiDGw/the-end-of-the-fing-world-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/xyVaWWbxwXCkABG/the-end-of-the-fing-world-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/Moq1OOkybJcm72V/the-end-of-the-fing-world-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/P3a1v4PLwquWKd/the-end-of-the-fing-world-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/4vzJGab80bfK6x4/the-end-of-the-fing-world-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/jjXAoPAVA8czpo1/the-end-of-the-fing-world-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Romance",
+    "idade": "16",
+    "capa": "capa.com"
   }
 ]
