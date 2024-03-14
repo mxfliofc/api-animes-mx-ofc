@@ -618,5 +618,15 @@
     "categoria": "Crime",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
+  },
+  {
+    "nome": "My Runway",
+    "id": "69850",
+    "temporada": "1",
+    "totaleps": "6",
+    "players": "{   \"1\": \"https://streamtape.com/v/4D0G4y0dx8tK0qb/My.Runway.S01E01.720p.MP4.DUB.BaixarSeriesMP4.Club.mp4\",   \"2\": \"https://streamtape.com/v/agM2MZjebltxL3Y/My.Runway.S01E02.720p.MP4.DUB.BaixarSeriesMP4.Club.mp4\",   \"3\": \"https://streamtape.com/v/v2Qlgl4PjWU4qbO/My.Runway.S01E03.720p.MP4.DUB.BaixarSeriesMP4.Club.mp4\",   \"4\": \"https://streamtape.com/v/vDRkmM13lpS4VB0/My.Runway.S01E04.720p.MP4.DUB.BaixarSeriesMP4.Club.mp4\",   \"5\": \"https://streamtape.com/v/XWgGDPzMRgtDDqy/My.Runway.S01E05.720p.MP4.DUB.BaixarSeriesMP4.Club.mp4\",   \"6\": \"https://streamtape.com/v/0RYRK2P8M9hbP67/My.Runway.S01E06.720p.MP4.DUB.BaixarSeriesMP4.Club.mp4\" }",
+    "categoria": "Comédia",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/tCKwuuTZr5Yx8rTt1FWvQKDrXnw.jpg"
   }
 ]
