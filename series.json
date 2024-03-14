@@ -978,5 +978,15 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/pg1jhu8jtue4PQjUtkT4UUXf0XW.jpg"
+  },
+  {
+    "nome": "The Rookie",
+    "id": "79744",
+    "temporada": "1",
+    "totaleps": "20",
+    "players": "{   \"1\": \"https://streamtape.com/v/e34lW8x87MHYdrp/the-rookie-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/XqL8yPrw2YHzwo/the-rookie-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/4R4qyXYpPVFK3DD/the-rookie-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/K40yMgK2agT0Rbr/the-rookie-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/dvjO8QZe9RtkvbD/the-rookie-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/JobK40QrPZtj87G/the-rookie-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/A2OePzP0p2TwY7/the-rookie-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/4wqaDeQ2mLipZy/the-rookie-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/dRePwGWeXxSkxyq/the-rookie-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/vYD9ZVwVD4C49LG/the-rookie-1x10-dublado-www.encontrei.tv\",   \"11\": \"https://streamtape.com/v/4BrpQZKkrLFKor4/the-rookie-1x11-dublado-www.encontrei.tv\",   \"12\": \"https://streamtape.com/v/mOVRDPYxM4ibj0z/the-rookie-1x12-dublado-www.encontrei.tv\",   \"13\": \"https://streamtape.com/v/k9r0vYL072Sryr/the-rookie-1x13-dublado-www.encontrei.tv\",   \"14\": \"https://streamtape.com/v/XqeKoOlxQ2hA27/the-rookie-1x14-dublado-www.encontrei.tv\",   \"15\": \"https://streamtape.com/v/7Drlv81QQPIVOW/the-rookie-1x15-dublado-www.encontrei.tv\",   \"16\": \"https://streamtape.com/v/YGrwO3jRVaCvY7L/the-rookie-1x16-dublado-www.encontrei.tv\",   \"17\": \"https://streamtape.com/v/z7PK1p4VWwsY0QD/the-rookie-1x17-dublado-www.encontrei.tv\",   \"18\": \"https://streamtape.com/v/G3lMkJAmjOT1z4y/the-rookie-1x18-dublado-www.encontrei.tv\",   \"19\": \"https://streamtape.com/v/7zpvp2QmpWSA6aL/the-rookie-1x19-dublado-www.encontrei.tv\",   \"20\": \"https://streamtape.com/v/LO2GAa0XZRtRRDD/the-rookie-1x20-dublado-www.encontrei.tv\" }",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg"
   }
 ]
