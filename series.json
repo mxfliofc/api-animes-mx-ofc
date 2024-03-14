@@ -1048,5 +1048,15 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/wbCt8M0wDQxhhCa85yLgBvd5wMw.jpg"
+  },
+  {
+    "nome": "True Detective",
+    "id": "46648",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/xlzOBGbdyrTkJ6g/true-detective-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/8WOZADGRp7FozJ7/true-detective-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/RgGVKAPJVgsdlwX/true-detective-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/LkGZgG2qvmsRKMG/true-detective-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/4PX8Vo316yhVaL/true-detective-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/D4MpLqrzMGikpma/true-detective-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/DM0eoD13G6UkPVg/true-detective-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/LyLww2LMdXFRkBj/true-detective-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Drama",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg"
   }
 ]
