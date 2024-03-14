@@ -1,8 +1,7 @@
 [
   {
     "nome": "Dungeon Meshi",
-    "temporada": "1",
-    "id": 207784,
+    "temporada": "2",
     "totaleps": "10",
     "players": "https://s2.lightspeedst.net/s2/mp4/dungeon-meshi/hd/",
     "categorias": "animes - ",
@@ -18,9 +17,12 @@
     "capa": "capa.com"
   },
   {
-    "nome": "Attack on Titan2",
-    "categorias": "outro",
+    "nome": "Attack on Titan",
+    "temporada": "1",
+    "id": 1429,
     "totaleps": "5",
+    "players": "null.com",
+    "categorias": "Ação",
     "capa": "https://image.tmdb.org/t/p/w500//hNEG0e6aPq0EwrugX5A5rCc9TGg.jpg"
   }
 ]
