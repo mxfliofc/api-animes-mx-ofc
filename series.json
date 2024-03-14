@@ -1085,8 +1085,18 @@
     "temporada": "3",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/OggK9baDvLSZBR8/upload-realidade-virtual-3x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/1BJDL4OPekUrzp/upload-realidade-virtual-3x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/0e1dqMDKpvibjLK/upload-realidade-virtual-3x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/283bjMGlyDiZ3v1/upload-realidade-virtual-3x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/0V7MW92PwOsb1Kk/upload-realidade-virtual-3x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/MzqJAr4oZpU1am/upload-realidade-virtual-3x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/AJL2rVOgpgtXdPa/upload-realidade-virtual-3x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/MXmMkpr6Dotm8dx/upload-realidade-virtual-3x8-dublado-www.encontrei.tv\" }",
-    "categoria": "Comédia",
+    "categoria": "Comï¿½dia",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/6TPGDrU9MyWbn2TpggJphVAVXiq.jpg"
+  },
+  {
+    "nome": "Vikings (2013)",
+    "id": "44217",
+    "temporada": "1",
+    "totaleps": "9",
+    "players": "{   \"1\": \"https://streamtape.com/v/LMGz6kooowIa72/vikings-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/3wPAyDpzd3S6Pq/vikings-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/j7Zdp7DvwmILK7/vikings-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/90mwV2j8OGHakv4/vikings-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/vLqPdRyvjJT49jX/vikings-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/BYpK29bvYKfVRG/vikings-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/lqpp29AjdOf71q9/vikings-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/PW2wk3Lq1JF0pM3/vikings-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/LpyP3WeQ2qHR1Aq/vikings-1x9-dublado-www.encontrei.tv\" }",
+    "categoria": "Guerra",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg"
   }
 ]
