@@ -41,7 +41,7 @@
     "id": 7448,
     "totaleps": "197",
     "players": "https://03.nflixcdn.me/NOV/AFAV/AFAVzJ8ZbkUekz24eeeVxdBUi",
-    "categorias": "MistÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©rio",
+    "categorias": "MistÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©rio",
     "capa": "https://image.tmdb.org/t/p/w500//9P1bP4G6t8A3BCoscADJV2Rpsi1.jpg"
   },
   {
@@ -54,7 +54,7 @@
     "capa": "https://image.tmdb.org/t/p/w500//iLjqdtSIMiodUlcSqRJ4JEW5gG1.jpg"
   },
   {
-    "nome": "A ForÃÂÃÂÃÂÃÂ§a do Querer",
+    "nome": "A ForÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§a do Querer",
     "temporada": "1",
     "id": 73752,
     "totaleps": "172",
@@ -68,7 +68,7 @@
     "id": 95544,
     "totaleps": "160",
     "players": "https://05.nflixcdn.me/NOV/AGC/AGC-",
-    "categorias": "ComÃÂÃÂ©dia",
+    "categorias": "ComÃÂÃÂÃÂÃÂ©dia",
     "capa": "https://image.tmdb.org/t/p/w500//2FYvTH3UXyPwxM6RKdI72q12Vfd.jpg"
   },
   {
@@ -97,5 +97,14 @@
     "players": "https://07.nflixcdn.me/NOV/ALMD/ALMD-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//kVFCSXAIvVv5SwHcXkoGApWuwPR.jpg"
+  },
+  {
+    "nome": "A Regra do Jogo",
+    "temporada": "1",
+    "id": 63817,
+    "totaleps": "167",
+    "players": "https://04.nflixcdn.me/NOV/ARDJ/ARDJzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//kyBZHO0hxYjiv0LEDphEf6gxEbd.jpg"
   }
 ]
