@@ -41,7 +41,7 @@
     "id": 7448,
     "totaleps": "197",
     "players": "https://03.nflixcdn.me/NOV/AFAV/AFAVzJ8ZbkUekz24eeeVxdBUi",
-    "categorias": "MistÃÂÃÂ©rio",
+    "categorias": "MistÃÂÃÂÃÂÃÂ©rio",
     "capa": "https://image.tmdb.org/t/p/w500//9P1bP4G6t8A3BCoscADJV2Rpsi1.jpg"
   },
   {
@@ -54,7 +54,7 @@
     "capa": "https://image.tmdb.org/t/p/w500//iLjqdtSIMiodUlcSqRJ4JEW5gG1.jpg"
   },
   {
-    "nome": "A ForÃ§a do Querer",
+    "nome": "A ForÃÂ§a do Querer",
     "temporada": "1",
     "id": 73752,
     "totaleps": "172",
@@ -68,7 +68,16 @@
     "id": 95544,
     "totaleps": "160",
     "players": "https://05.nflixcdn.me/NOV/AGC/AGC-",
-    "categorias": "Comédia",
+    "categorias": "ComÃ©dia",
     "capa": "https://image.tmdb.org/t/p/w500//2FYvTH3UXyPwxM6RKdI72q12Vfd.jpg"
+  },
+  {
+    "nome": "A Indomada",
+    "temporada": "1",
+    "id": 41811,
+    "totaleps": "203",
+    "players": "https://05.nflixcdn.me/NOV/INDO/INDO-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//kHom4ZZIKMI7xIngi1vjN0YkWAH.jpg"
   }
 ]
