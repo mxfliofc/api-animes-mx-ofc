@@ -25,5 +25,14 @@
     "players": "https://05.nflixcdn.me/NOV/DONA/DONA-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//844UCbjAiJyeVvHZxJDljEGjiU4.jpg"
+  },
+  {
+    "nome": "A Escrava Isaura",
+    "temporada": "1",
+    "id": 13179,
+    "totaleps": "167",
+    "players": "https://06.nflixcdn.me/NOV/ESC/ESC-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//k7mAReVoGtDYfHGt5OVqNhwIUTI.jpg"
   }
 ]
