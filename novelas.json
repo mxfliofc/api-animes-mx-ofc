@@ -1,6 +1,6 @@
 [
   {
-    "nome": "SinhÃ¡ MoÃ§a (1986)",
+    "nome": "SinhÃÂ¡ MoÃÂ§a (1986)",
     "temporada": "1",
     "id": 42915,
     "totaleps": "172",
@@ -16,5 +16,14 @@
     "players": "https://05.nflixcdn.me/NOV/SETEV/SETEV-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//bKPrqFS8H0vhbojRKdyzbvHDiIm.jpg"
+  },
+  {
+    "nome": "Sete Pecados",
+    "temporada": "1",
+    "id": 13979,
+    "totaleps": "174",
+    "players": "https://06.nflixcdn.me/NOV/SETEP/SETEP-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//gKa1lU1OPq7v4n65cmDf64Byvv4.jpg"
   }
 ]
