@@ -1,11 +1,11 @@
 [
   {
-    "nome": "YargÃÂ±: Segredos de FamÃÂ­lia",
+    "nome": "YargÃÂÃÂ±: Segredos de FamÃÂÃÂ­lia",
     "temporada": "1",
     "id": 133490,
     "totaleps": "111",
     "players": "https://08.nflixcdn.me/TURCAS-D/YARGI/YARGI-",
-    "categorias": "AÃÂ§ÃÂ£o",
+    "categorias": "AÃÂÃÂ§ÃÂÃÂ£o",
     "capa": "https://image.tmdb.org/t/p/w500//2oMk0CFflhAodqPJD1Kua9RKpDD.jpg"
   },
   {
@@ -25,5 +25,14 @@
     "players": "https://05.nflixcdn.me/NOV/VO/VO-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//yF2RNLzjnwhUVWqRYD7OqgDoY3K.jpg"
+  },
+  {
+    "nome": "Vidas em Jogo",
+    "temporada": "1",
+    "id": 158229,
+    "totaleps": "251",
+    "players": "https://03.nflixcdn.me/NOV/VEJ/VEJzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//yrq6TTcaBtR5FlW7PknTpCFeQ1k.jpg"
   }
 ]
