@@ -41,7 +41,7 @@
     "id": 7448,
     "totaleps": "197",
     "players": "https://03.nflixcdn.me/NOV/AFAV/AFAVzJ8ZbkUekz24eeeVxdBUi",
-    "categorias": "MistÃ©rio",
+    "categorias": "MistÃÂ©rio",
     "capa": "https://image.tmdb.org/t/p/w500//9P1bP4G6t8A3BCoscADJV2Rpsi1.jpg"
   },
   {
@@ -52,5 +52,14 @@
     "players": "https://06.nflixcdn.me/NOV/AFMB/AFMB-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//iLjqdtSIMiodUlcSqRJ4JEW5gG1.jpg"
+  },
+  {
+    "nome": "A Força do Querer",
+    "temporada": "1",
+    "id": 73752,
+    "totaleps": "172",
+    "players": "https://03.nflixcdn.me/NOV/AFDQ/AFDQzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//4y7OiZU8qKTAfAas6imvk0AfPXt.jpg"
   }
 ]
