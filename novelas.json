@@ -1,11 +1,20 @@
 [
   {
-    "nome": "Três Irmãs",
+    "nome": "TrÃªs IrmÃ£s",
     "temporada": "1",
     "id": 46155,
     "totaleps": "179",
     "players": "https://07.nflixcdn.me/NOV/TRES/TRES-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//kPe3MpozbZVBK08ZvNtCR1xhDEp.jpg"
+  },
+  {
+    "nome": "Travessia",
+    "temporada": "1",
+    "id": 204370,
+    "totaleps": "179",
+    "players": "https://02.nflixcdn.me/NOV/TRAV/TRAVzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//jFZJEoPzt2RKSsZG8QEWptX5Xyw.jpg"
   }
 ]
