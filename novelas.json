@@ -1,7 +1,7 @@
 [
   "",
   {
-    "nome": "Amor ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  Vida",
+    "nome": "Amor ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  Vida",
     "temporada": "1",
     "id": 59599,
     "totaleps": "221",
@@ -10,7 +10,7 @@
     "capa": "https://image.tmdb.org/t/p/w500//h5iqaMTy4x9wgASIWe9kHB5VBdP.jpg"
   },
   {
-    "nome": "Amor de MÃÂÃÂÃÂÃÂ£e",
+    "nome": "Amor de MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£e",
     "temporada": "1",
     "id": 95885,
     "totaleps": "125",
@@ -53,5 +53,14 @@
     "players": "https://01.nflixcdn.me/NOV/AILHA/AILHAzJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//6JCAXWGyHhBesEdaO6emCejA0Ib.jpg"
+  },
+  {
+    "nome": "Amores Verdadeiros",
+    "temporada": "1",
+    "id": 46901,
+    "totaleps": "167",
+    "players": "https://04.nflixcdn.me/NOV/AMOVER/AMOVERzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//klZCn9W8lzS1AuNZunIEm7spg5Z.jpg"
   }
 ]
