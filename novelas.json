@@ -34,5 +34,14 @@
     "players": "https://06.nflixcdn.me/NOV/ESC/ESC-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//k7mAReVoGtDYfHGt5OVqNhwIUTI.jpg"
+  },
+  {
+    "nome": "A Favorita",
+    "temporada": "1",
+    "id": 7448,
+    "totaleps": "197",
+    "players": "https://03.nflixcdn.me/NOV/AFAV/AFAVzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Mistério",
+    "capa": "https://image.tmdb.org/t/p/w500//9P1bP4G6t8A3BCoscADJV2Rpsi1.jpg"
   }
 ]
