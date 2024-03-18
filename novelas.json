@@ -1,11 +1,20 @@
 [
   {
-    "nome": "Yargı: Segredos de Família",
+    "nome": "YargÄ±: Segredos de FamÃ­lia",
     "temporada": "1",
     "id": 133490,
     "totaleps": "111",
     "players": "https://08.nflixcdn.me/TURCAS-D/YARGI/YARGI-",
-    "categorias": "Ação",
+    "categorias": "AÃ§Ã£o",
     "capa": "https://image.tmdb.org/t/p/w500//2oMk0CFflhAodqPJD1Kua9RKpDD.jpg"
+  },
+  {
+    "nome": "Violetta",
+    "temporada": "1",
+    "id": 61720,
+    "totaleps": "240",
+    "players": "https://07.nflixcdn.me/NOV/VIOLETTA/VIOLETTA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//b3MUGJeKakAZwQa7lNJxTP1pJmD.jpg"
   }
 ]
