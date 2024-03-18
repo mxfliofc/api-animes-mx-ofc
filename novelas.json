@@ -1,7 +1,7 @@
 [
   "",
   {
-    "nome": "Amor ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  Vida",
+    "nome": "Amor ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  Vida",
     "temporada": "1",
     "id": 59599,
     "totaleps": "221",
@@ -10,7 +10,7 @@
     "capa": "https://image.tmdb.org/t/p/w500//h5iqaMTy4x9wgASIWe9kHB5VBdP.jpg"
   },
   {
-    "nome": "Amor de MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£e",
+    "nome": "Amor de MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£e",
     "temporada": "1",
     "id": 95885,
     "totaleps": "125",
@@ -62,5 +62,14 @@
     "players": "https://04.nflixcdn.me/NOV/AMOVER/AMOVERzJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//klZCn9W8lzS1AuNZunIEm7spg5Z.jpg"
+  },
+  {
+    "nome": "Amy, a Menina da Mochila Azul",
+    "temporada": "1",
+    "id": 58565,
+    "totaleps": "115",
+    "players": "https://07.nflixcdn.me/NOV/AMY/AMY-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//n5cKXFBnzdMnVdBrwpNhtn0TISM.jpg"
   }
 ]
