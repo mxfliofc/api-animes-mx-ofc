@@ -1,11 +1,20 @@
 [
   {
-    "nome": "Sinhá Moça (1986)",
+    "nome": "SinhÃ¡ MoÃ§a (1986)",
     "temporada": "1",
     "id": 42915,
     "totaleps": "172",
     "players": "https://04.nflixcdn.me/NOV/SINHA86/SINHA86zJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//5YbK2Ql64f1aoeRSKOgP5hM1Txa.jpg"
+  },
+  {
+    "nome": "Sete Vidas",
+    "temporada": "1",
+    "id": 84381,
+    "totaleps": "106",
+    "players": "https://05.nflixcdn.me/NOV/SETEV/SETEV-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//bKPrqFS8H0vhbojRKdyzbvHDiIm.jpg"
   }
 ]
