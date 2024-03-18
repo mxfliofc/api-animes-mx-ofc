@@ -1,6 +1,6 @@
 [
   {
-    "nome": "SinhÃÂ¡ MoÃÂ§a (1986)",
+    "nome": "SinhÃÂÃÂ¡ MoÃÂÃÂ§a (1986)",
     "temporada": "1",
     "id": 42915,
     "totaleps": "172",
@@ -25,5 +25,14 @@
     "players": "https://06.nflixcdn.me/NOV/SETEP/SETEP-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//gKa1lU1OPq7v4n65cmDf64Byvv4.jpg"
+  },
+  {
+    "nome": "Será Isso Amor?",
+    "temporada": "1",
+    "id": 104877,
+    "totaleps": "161",
+    "players": "https://06.nflixcdn.me/NOV/SIA/SIA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//cccW8YiPphlbcbOzj84imtDSPZN.jpg"
   }
 ]
