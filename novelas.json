@@ -16,5 +16,14 @@
     "players": "https://04.nflixcdn.me/NOV/ADSLMD/ADSLMDzJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//f7s3EsUtq0ZBH2pEhqxLa446IkQ.jpg"
+  },
+  {
+    "nome": "A Dona",
+    "temporada": "1",
+    "id": 32218,
+    "totaleps": "142",
+    "players": "https://05.nflixcdn.me/NOV/DONA/DONA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//844UCbjAiJyeVvHZxJDljEGjiU4.jpg"
   }
 ]
