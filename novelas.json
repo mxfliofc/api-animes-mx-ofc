@@ -1,12 +1,21 @@
 [
   "",
   {
-    "nome": "Amor à Vida",
+    "nome": "Amor Ã  Vida",
     "temporada": "1",
     "id": 59599,
     "totaleps": "221",
     "players": "https://02.nflixcdn.me/NOV/AAV/AAVzJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Romance",
     "capa": "https://image.tmdb.org/t/p/w500//h5iqaMTy4x9wgASIWe9kHB5VBdP.jpg"
+  },
+  {
+    "nome": "Amor de Mãe",
+    "temporada": "1",
+    "id": 95885,
+    "totaleps": "125",
+    "players": "https://02.nflixcdn.me/NOV/ADM/ADMzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//k6J6s7vc7iW4kH8U6JJR8QZ9csh.jpg"
   }
 ]
