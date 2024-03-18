@@ -1,7 +1,7 @@
 [
   "",
   {
-    "nome": "Amor ÃÂ  Vida",
+    "nome": "Amor ÃÂÃÂ  Vida",
     "temporada": "1",
     "id": 59599,
     "totaleps": "221",
@@ -10,7 +10,7 @@
     "capa": "https://image.tmdb.org/t/p/w500//h5iqaMTy4x9wgASIWe9kHB5VBdP.jpg"
   },
   {
-    "nome": "Amor de MÃ£e",
+    "nome": "Amor de MÃÂ£e",
     "temporada": "1",
     "id": 95885,
     "totaleps": "125",
@@ -26,5 +26,14 @@
     "players": "https://03.nflixcdn.me/NOV/AH/AHzJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//jVl5QlioeaZirB7WCbnWrEri7S5.jpg"
+  },
+  {
+    "nome": "Amor Perfeito",
+    "temporada": "1",
+    "id": 209085,
+    "totaleps": "161",
+    "players": "https://07.nflixcdn.me/NOV/AMOR/AMOR-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//aOPhyvHDauWFuc3rthpHArCNyrm.jpg"
   }
 ]
