@@ -1,6 +1,6 @@
 [
   {
-    "nome": "TrÃÂÃÂªs IrmÃÂÃÂ£s",
+    "nome": "TrÃÂÃÂÃÂÃÂªs IrmÃÂÃÂÃÂÃÂ£s",
     "temporada": "1",
     "id": 46155,
     "totaleps": "179",
@@ -32,7 +32,16 @@
     "id": 106355,
     "totaleps": "203",
     "players": "https://06.nflixcdn.me/NOV/TDB/TDB-",
-    "categorias": "Mistério",
+    "categorias": "MistÃ©rio",
     "capa": "https://image.tmdb.org/t/p/w500//u7SApfTS3vS6qoKwEMPP4ncqYsN.jpg"
+  },
+  {
+    "nome": "Topíssima",
+    "temporada": "1",
+    "id": 119036,
+    "totaleps": "145",
+    "players": "https://04.nflixcdn.me/NOV/TOP/TOPzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Romance",
+    "capa": "https://image.tmdb.org/t/p/w500//ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg"
   }
 ]
