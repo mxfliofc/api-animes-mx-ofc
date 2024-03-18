@@ -7,5 +7,14 @@
     "players": "https://05.nflixcdn.me/NOV/ACAND/ACAND-",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//6PRMRP01jpnC7HcyA1Yj93GRE6a.jpg"
+  },
+  {
+    "nome": "A Desalmada",
+    "temporada": "1",
+    "id": 128794,
+    "totaleps": "79",
+    "players": "https://04.nflixcdn.me/NOV/ADSLMD/ADSLMDzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//f7s3EsUtq0ZBH2pEhqxLa446IkQ.jpg"
   }
 ]
