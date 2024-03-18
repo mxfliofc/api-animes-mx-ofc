@@ -1,11 +1,11 @@
 [
   {
-    "nome": "YargÃÂÃÂÃÂÃÂ±: Segredos de FamÃÂÃÂÃÂÃÂ­lia",
+    "nome": "YargÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±: Segredos de FamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­lia",
     "temporada": "1",
     "id": 133490,
     "totaleps": "111",
     "players": "https://08.nflixcdn.me/TURCAS-D/YARGI/YARGI-",
-    "categorias": "AÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o",
+    "categorias": "AÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "capa": "https://image.tmdb.org/t/p/w500//2oMk0CFflhAodqPJD1Kua9RKpDD.jpg"
   },
   {
@@ -43,5 +43,14 @@
     "players": "https://04.nflixcdn.me/NOV/VS2/VS2zJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//kM32hmDGTxmqNeT1x8zJExJdDCM.jpg"
+  },
+  {
+    "nome": "Verdades Secretas",
+    "temporada": "1",
+    "id": 62917,
+    "totaleps": "64",
+    "players": "https://04.nflixcdn.me/NOV/VS/VSzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//js4ME0psGSLwJQs3zbiYN2fhlEE.jpg"
   }
 ]
