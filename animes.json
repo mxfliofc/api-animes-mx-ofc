@@ -10,7 +10,7 @@
     "linguagem": "legendado"
   },
   {
-    "nome": "DiÃÂÃÂ¡rios de uma ApotecÃÂÃÂ¡ria",
+    "nome": "DiÃÂÃÂÃÂÃÂ¡rios de uma ApotecÃÂÃÂÃÂÃÂ¡ria",
     "temporada": "1",
     "id": 220542,
     "totaleps": "12",
@@ -47,6 +47,16 @@
     "players": "https://s2.lightspeedst.net/s1/mp4/shinigami-bocchan-to-kuro-maid-2nd-season-dublado/sd/",
     "categorias": "Comedia",
     "capa": "https://image.tmdb.org/t/p/w500//l61yXOVHyGhhB8LIxwjawy5Zbxg.jpg",
+    "linguagem": "dublado"
+  },
+  {
+    "nome": "Onmyoji",
+    "temporada": "1",
+    "id": 210946,
+    "totaleps": "13",
+    "players": "https://s2.lightspeedst.net/s1/mp4/onmyouji-dublado/sd/",
+    "categorias": "Acao",
+    "capa": "https://image.tmdb.org/t/p/w500//2tFbeZRrSnP3pUBmXU9MxAtQpLk.jpg",
     "linguagem": "dublado"
   }
 ]
