@@ -10,7 +10,7 @@
     "linguagem": "legendado"
   },
   {
-    "nome": "DiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rios de uma ApotecÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ria",
+    "nome": "DiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rios de uma ApotecÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ria",
     "temporada": "1",
     "id": 220542,
     "totaleps": "12",
@@ -67,6 +67,16 @@
     "players": "https://s2.lightspeedst.net/s1/mp4/akuma-kun-ona-dublado/sd/",
     "categorias": "Sci-Fi",
     "capa": "https://image.tmdb.org/t/p/w500//3frWTreENCV0ZQfLnNRYnCBwRUC.jpg",
+    "linguagem": "dublado"
+  },
+  {
+    "nome": "The Iceblade Sorcerer Shall Rule the World",
+    "temporada": "1",
+    "id": 200777,
+    "totaleps": "12",
+    "players": "https://s2.lightspeedst.net/s1/mp4/hyouken-no-majutsushi-ga-sekai-wo-suberu-dublado/sd/",
+    "categorias": "Acao",
+    "capa": "https://image.tmdb.org/t/p/w500//aiJd0oGkBhf98uEH3F3yC7O48vr.jpg",
     "linguagem": "dublado"
   }
 ]
