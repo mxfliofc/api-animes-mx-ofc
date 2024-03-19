@@ -10,13 +10,23 @@
     "linguagem": "legendado"
   },
   {
-    "nome": "Diários de uma Apotecária",
+    "nome": "DiÃ¡rios de uma ApotecÃ¡ria",
     "temporada": "1",
     "id": 220542,
     "totaleps": "12",
     "players": "https://s2.lightspeedst.net/s2/mp4/kusuriya-no-hitorigoto-dublado/sd/",
     "categorias": "Acao",
     "capa": "https://image.tmdb.org/t/p/w500//4Xk4wXCwNlPBUEmmtxa8eIoqZtU.jpg",
+    "linguagem": "dublado"
+  },
+  {
+    "nome": "Os Sete Pecados Capitais: Os Quatro Cavaleiros do Apocalipse",
+    "temporada": "1",
+    "id": 218843,
+    "totaleps": "11",
+    "players": "https://s2.lightspeedst.net/s2/mp4/nanatsu-no-taizai-mokushiroku-no-yonkishi-dublado/sd/",
+    "categorias": "Acao",
+    "capa": "https://image.tmdb.org/t/p/w500//aJnmS9S3m6BsSnzMNEnF0KPl9PC.jpg",
     "linguagem": "dublado"
   }
 ]
