@@ -1,7 +1,7 @@
 [
   {
    "nome": "Yargi",
-   "capa": "https://image.tmdb.org/t/p/w500/2oMk0CFflhAodqPJD1Kua9RKpDD.jpg"
+   "capa": "https://image.tmdb.org/t/p/w500/2oMk0CFflhAodqPJD1Kua9RKpDD.jpg",
   "temporada": "1",
   "id": 133490,
   "totaleps": "111",
@@ -635,7 +635,7 @@
     "id": 75209,
     "totaleps": "155",
     "players": "https://02.nflixcdn.me/NOV/APO/APOzJ8ZbkUekz24eeeVxdBUi",
-    "categorias": "MistÃÂÃÂÃÂÃÂ©rio",
+    "categorias": "Misterio",
     "capa": "https://image.tmdb.org/t/p/w500//yPqg2d7b24Nh1p7KLbySIvj2lRW.jpg"
   },
   {
@@ -657,7 +657,7 @@
     "capa": "https://image.tmdb.org/t/p/w500//ifAfc4zxYuhZuOKk0Xuyp0mutuL.jpg"
   },
   {
-    "nome": "BambolÃª",
+    "nome": "Bambole",
     "temporada": "1",
     "id": 82173,
     "totaleps": "173",
