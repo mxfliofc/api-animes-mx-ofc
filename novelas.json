@@ -1,6 +1,303 @@
 [
   {
-    "nome": "SinhÃÂÃÂÃÂÃÂ¡ MoÃÂÃÂÃÂÃÂ§a (1986)",
+   "nome": "Yargi",
+   "capa": "https://image.tmdb.org/t/p/w500/2oMk0CFflhAodqPJD1Kua9RKpDD.jpg"
+  "temporada": "1",
+  "id": 133490,
+  "totaleps": "111",
+  "players": "https://08.nflixcdn.me/TURCAS-D/YARGI/YARGI-",
+  "categorias": "acao"
+  },
+  {
+    "nome": "Violetta",
+    "temporada": "1",
+    "id": 61720,
+    "totaleps": "240",
+    "players": "https://07.nflixcdn.me/NOV/VIOLETTA/VIOLETTA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//b3MUGJeKakAZwQa7lNJxTP1pJmD.jpg"
+  },
+  {
+    "nome": "Vidas Opostas",
+    "temporada": "1",
+    "id": 19673,
+    "totaleps": "240",
+    "players": "https://05.nflixcdn.me/NOV/VO/VO-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//yF2RNLzjnwhUVWqRYD7OqgDoY3K.jpg"
+  },
+  {
+    "nome": "Vidas em Jogo",
+    "temporada": "1",
+    "id": 158229,
+    "totaleps": "251",
+    "players": "https://03.nflixcdn.me/NOV/VEJ/VEJzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//yrq6TTcaBtR5FlW7PknTpCFeQ1k.jpg"
+  },
+  {
+    "nome": "Verdades Secretas 2",
+    "temporada": "1",
+    "id": 136295,
+    "totaleps": "51",
+    "players": "https://04.nflixcdn.me/NOV/VS2/VS2zJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//kM32hmDGTxmqNeT1x8zJExJdDCM.jpg"
+  },
+  {
+    "nome": "Verdades Secretas",
+    "temporada": "1",
+    "id": 62917,
+    "totaleps": "64",
+    "players": "https://04.nflixcdn.me/NOV/VS/VSzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//js4ME0psGSLwJQs3zbiYN2fhlEE.jpg"
+  },
+  {
+    "nome": "verao 90",
+    "temporada": "1",
+    "id": 92077,
+    "totaleps": "154",
+    "players": "https://05.nflixcdn.me/NOV/V90/V90-",
+    "categorias": "comedia",
+    "capa": "https://image.tmdb.org/t/p/w500//zdmdrn3EqDGcjZVTPa2tHs1If0c.jpg"
+  },
+  {
+    "nome": "Vencer o Desamor",
+    "temporada": "1",
+    "id": 110637,
+    "totaleps": "97",
+    "players": "https://05.nflixcdn.me/NOV/VD/VD-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//xaGSnkK4qDB8l9SIM9N5mKeU3eM.jpg"
+  },
+  {
+    "nome": "Velho Chico",
+    "temporada": "1",
+    "id": 84580,
+    "totaleps": "172",
+    "players": "https://05.nflixcdn.me/NOV/VELHO/VELHO-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//kYReG9ukBkIcHTYGjnTuyxICNsk.jpg"
+  },
+  {
+    "nome": "Vamp",
+    "temporada": "1",
+    "id": 36951,
+    "totaleps": "179",
+    "players": "https://04.nflixcdn.me/NOV/VAMP/VAMPzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "comedia",
+    "capa": "https://image.tmdb.org/t/p/w500//uIU87AvtHQI8tr3kNvO8aegtQRI.jpg"
+  },
+  {
+    "nome": "Vale Tudo",
+    "temporada": "1",
+    "id": 46161,
+    "totaleps": "204",
+    "players": "https://03.nflixcdn.me/NOV/VALE/VALEzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//mDcRbUmRtri8ibccK19C9vYslxF.jpg"
+  },
+  {
+    "nome": "Vai na fe",
+    "temporada": "1",
+    "id": 209117,
+    "totaleps": "179",
+    "players": "https://05.nflixcdn.me/NOV/VNF/VNF-",
+    "categorias": "comedia",
+    "capa": "https://image.tmdb.org/t/p/w500//6QNohzb7YUJ6eWZkXAYU8KGIq.jpg"
+  },
+  {
+    "nome": "Um Lugar ao Sol",
+    "temporada": "1",
+    "id": 132375,
+    "totaleps": "119",
+    "players": "https://04.nflixcdn.me/NOV/ULAS/ULASzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//63qlVcvlVzOvMaFO8tFA2VG64Yc.jpg"
+  },
+  {
+    "nome": "Um Anjo Caiu do ceu",
+    "temporada": "1",
+    "id": 42684,
+    "totaleps": "185",
+    "players": "https://05.nflixcdn.me/NOV/UACC/UACC-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//4RKgANm2VSolKBzhf4yJ2jx91W7.jpg"
+  },
+  {
+    "nome": "Uga-Uga",
+    "temporada": "1",
+    "id": 42679,
+    "totaleps": "150",
+    "players": "https://05.nflixcdn.me/NOV/UGA/UGA-",
+    "categorias": "comedia",
+    "capa": "https://image.tmdb.org/t/p/w500//hQPTjWKZnvyz6FpMSCIzlJa8DGT.jpg"
+  },
+  {
+    "nome": "Tropicaliente",
+    "temporada": "1",
+    "id": 41815,
+    "totaleps": "194",
+    "players": "https://05.nflixcdn.me/NOV/TROPI/TROPI-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//hJtAsTXyDiPE9Ao6Kw28Z3glYDa.jpg"
+  },
+  {
+    "nome": "Triunfo do Amor",
+    "temporada": "1",
+    "id": 33761,
+    "totaleps": "172",
+    "players": "https://05.nflixcdn.me/NOV/TRIUNFO/TRIUNFO-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//qjuI9tYDJikLcomkFLwkKoOAagm.jpg"
+  },
+  {
+    "nome": "Tres vezes Ana",
+    "temporada": "1",
+    "id": 66579,
+    "totaleps": "123",
+    "players": "https://04.nflixcdn.me/NOV/TVA/TVAzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//nHURRha9cvKI6LaFVl7gbfEaGjt.jpg"
+  },
+  {
+    "nome": "belissima",
+    "temporada": "1",
+    "id": 119036,
+    "totaleps": "145",
+    "players": "https://04.nflixcdn.me/NOV/TOP/TOPzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Romance",
+    "capa": "https://image.tmdb.org/t/p/w500//ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg"
+  },
+  {
+    "nome": "Top Model",
+    "temporada": "1",
+    "id": 27657,
+    "totaleps": "197",
+    "players": "https://05.nflixcdn.me/NOV/TOPMO/TOPMO-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//mAwOytckrHecTc73V0wPALdFC3m.jpg"
+  },
+  {
+    "nome": "Todas as Flores",
+    "temporada": "1",
+    "id": 196429,
+    "totaleps": "85",
+    "players": "https://02.nflixcdn.me/NOV/TAF/TAFzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//yrLEjNsptSv8rfHFygsPunREHZd.jpg"
+  },
+  {
+    "nome": "Tieta",
+    "temporada": "1",
+    "id": 46018,
+    "totaleps": "197",
+    "players": "https://04.nflixcdn.me/NOV/TIE/TIEzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//F7itjwhgkRs9nCdYA8PZ1W2ZUY.jpg"
+  },
+  {
+    "nome": "Ti Ti Ti",
+    "temporada": "1",
+    "id": 46182,
+    "totaleps": "209",
+    "players": "https://04.nflixcdn.me/NOV/TTT/TTTzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//hWT4jF2Z45kET7AALnOhWyOXP9A.jpg"
+  },
+  {
+    "nome": "Terra Nostra",
+    "temporada": "1",
+    "id": 12895,
+    "totaleps": "150",
+    "players": "https://07.nflixcdn.me/NOV/TERRA/TERRA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//4ZZtbAS10McaqhKAuxH4ZjOOacK.jpg"
+  },
+  {
+    "nome": "Terra e paixao",
+    "temporada": "1",
+    "id": 209265,
+    "totaleps": "221",
+    "players": "https://07.nflixcdn.me/NOV/TEP/TEP-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//5kCMJ0vVzN9PsoamKctNnUz68Q2.jpg"
+  },
+  {
+    "nome": "Terra Amarga",
+    "temporada": "1",
+    "id": 82328,
+    "totaleps": "113",
+    "players": "https://05.nflixcdn.me/NOV/TA/TA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//6wp1xBZRJFXhJn3AFAm8E0yQK6E.jpg"
+  },
+  {
+    "nome": "Te Dou a Vida",
+    "temporada": "1",
+    "id": 139001,
+    "totaleps": "93",
+    "players": "https://03.nflixcdn.me/NOV/TDV/TDVzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//jyZD48yf8P3j8QOY9MMRFf5qiDB.jpg"
+  },
+  {
+    "nome": "Suave Veneno",
+    "temporada": "1",
+    "id": 58531,
+    "totaleps": "140",
+    "players": "https://04.nflixcdn.me/NOV/SV/SVzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//A2C6gTwJ4FnSOuPoisIxm5b1yLl.jpg"
+  },
+  {
+    "nome": "Sr. Errado",
+    "temporada": "1",
+    "id": 105052,
+    "totaleps": "43",
+    "players": "https://05.nflixcdn.me/NOV/SRER/SRER-",
+    "categorias": "comedia",
+    "capa": "https://image.tmdb.org/t/p/w500//uu7L7eNIoymPmRJdODf9fN6dW8.jpg"
+  },
+  {
+    "nome": "Sou Luna",
+    "temporada": "1",
+    "id": 66203,
+    "totaleps": "220",
+    "players": "https://07.nflixcdn.me/NOV/LUNA/LUNA-",
+    "categorias": "Aventura",
+    "capa": "https://image.tmdb.org/t/p/w500//k7qfaBv0T2vBsylupIswT9G7ZQD.jpg"
+  },
+  {
+    "nome": "Sonho Meu",
+    "temporada": "1",
+    "id": 4895,
+    "totaleps": "197",
+    "players": "https://03.nflixcdn.me/NOV/SM/SMzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//rHtCgszGmxgHBzf1e7eLF1Lfcph.jpg"
+  },
+  {
+    "nome": "Sol Nascente",
+    "temporada": "1",
+    "id": 80283,
+    "totaleps": "175",
+    "players": "https://05.nflixcdn.me/NOV/SN/SN-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//lBfrVRr6IQN72D079EdcH8I41dK.jpg"
+  },
+  {
+    "nome": "Sinha Moca",
+    "temporada": "1",
+    "id": 117815,
+    "totaleps": "185",
+    "players": "https://03.nflixcdn.me/NOV/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//yJt0hmZ5tmJ7N30TW2Knopm6GLf.jpg"
+  },
+  {
+    "nome": "Sinha moca (1986)",
     "temporada": "1",
     "id": 42915,
     "totaleps": "172",
@@ -27,7 +324,7 @@
     "capa": "https://image.tmdb.org/t/p/w500//gKa1lU1OPq7v4n65cmDf64Byvv4.jpg"
   },
   {
-    "nome": "SerÃ¡ Isso Amor?",
+    "nome": "Sera Isso Amor?",
     "temporada": "1",
     "id": 104877,
     "totaleps": "161",
@@ -43,5 +340,338 @@
     "players": "https://04.nflixcdn.me/NOV/SDD/SDDzJ8ZbkUekz24eeeVxdBUi",
     "categorias": "Drama",
     "capa": "https://image.tmdb.org/t/p/w500//x74oguhQltDFw8rUZX5C0Li9N56.jpg"
+  },
+  {
+    "nome": "A Candidata",
+    "temporada": "1",
+    "id": 75627,
+    "totaleps": "62",
+    "players": "https://05.nflixcdn.me/NOV/ACAND/ACAND-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//6PRMRP01jpnC7HcyA1Yj93GRE6a.jpg"
+  },
+  {
+    "nome": "A Desalmada",
+    "temporada": "1",
+    "id": 128794,
+    "totaleps": "79",
+    "players": "https://04.nflixcdn.me/NOV/ADSLMD/ADSLMDzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//f7s3EsUtq0ZBH2pEhqxLa446IkQ.jpg"
+  },
+  {
+    "nome": "A Dona",
+    "temporada": "1",
+    "id": 32218,
+    "totaleps": "142",
+    "players": "https://05.nflixcdn.me/NOV/DONA/DONA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//844UCbjAiJyeVvHZxJDljEGjiU4.jpg"
+  },
+  {
+    "nome": "A Escrava Isaura",
+    "temporada": "1",
+    "id": 13179,
+    "totaleps": "167",
+    "players": "https://06.nflixcdn.me/NOV/ESC/ESC-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//k7mAReVoGtDYfHGt5OVqNhwIUTI.jpg"
+  },
+  {
+    "nome": "a forca do querer",
+    "temporada": "1",
+    "id": 73752,
+    "totaleps": "172",
+    "players": "https://03.nflixcdn.me/NOV/AFDQ/AFDQzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//4y7OiZU8qKTAfAas6imvk0AfPXt.jpg"
+  },
+  {
+    "nome": "A Gata Comeu",
+    "temporada": "1",
+    "id": 95544,
+    "totaleps": "160",
+    "players": "https://05.nflixcdn.me/NOV/AGC/AGC-",
+    "categorias": "comedia",
+    "capa": "https://image.tmdb.org/t/p/w500//2FYvTH3UXyPwxM6RKdI72q12Vfd.jpg"
+  },
+  {
+    "nome": "A Indomada",
+    "temporada": "1",
+    "id": 41811,
+    "totaleps": "203",
+    "players": "https://05.nflixcdn.me/NOV/INDO/INDO-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//kHom4ZZIKMI7xIngi1vjN0YkWAH.jpg"
+  },
+  {
+    "nome": "A Intrusa",
+    "temporada": "1",
+    "id": 19615,
+    "totaleps": "135",
+    "players": "https://th.nflixcdn.me/NOV/INTRUSA/INTRUSA",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//g8UmENGDQfqJ7fT8AHlpTdmG3zU.jpg"
+  },
+  {
+    "nome": "A Lua Me Disse",
+    "temporada": "1",
+    "id": 46173,
+    "totaleps": "143",
+    "players": "https://07.nflixcdn.me/NOV/ALMD/ALMD-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//kVFCSXAIvVv5SwHcXkoGApWuwPR.jpg"
+  },
+  {
+    "nome": "A Regra do Jogo",
+    "temporada": "1",
+    "id": 63817,
+    "totaleps": "167",
+    "players": "https://04.nflixcdn.me/NOV/ARDJ/ARDJzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//kyBZHO0hxYjiv0LEDphEf6gxEbd.jpg"
+  },
+  {
+    "nome": "A Sucessora",
+    "temporada": "1",
+    "id": 216803,
+    "totaleps": "126",
+    "players": "https://07.nflixcdn.me/NOV/ASUC/ASUC-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//6vZihUjSrNDr44EDWwoGngbqgLx.jpg"
+  },
+  {
+    "nome": "A Terra Prometida",
+    "temporada": "1",
+    "id": 66825,
+    "totaleps": "179",
+    "players": "https://02.nflixcdn.me/NOV/ATP/ATPzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "historia",
+    "capa": "https://image.tmdb.org/t/p/w500//ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg"
+  },
+  {
+    "nome": "A Usurpadora",
+    "temporada": "1",
+    "id": 4184,
+    "totaleps": "102",
+    "players": "https://02.nflixcdn.me/NOV/AUS/AUSzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//pcslXe33yoUsEu97U5ekrS5qzip.jpg"
+  },
+  {
+    "nome": "A Viagem",
+    "temporada": "1",
+    "id": 20613,
+    "totaleps": "167",
+    "players": "https://02.nflixcdn.me/NOV/AV/AVzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//hTDtCvsedHzWdECuBs0YgSIewlY.jpg"
+  },
+  {
+    "nome": "A Vida da Gente",
+    "temporada": "1",
+    "id": 59092,
+    "totaleps": "137",
+    "players": "https://02.nflixcdn.me/NOV/AVDG/AVDGzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//bAMEDxY7mE7nR4hjABcApS5j4q8.jpg"
+  },
+  {
+    "nome": "alem da ilusao",
+    "temporada": "1",
+    "id": 154911,
+    "totaleps": "167",
+    "players": "https://02.nflixcdn.me/NOV/ADI/ADIzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Romance",
+    "capa": "https://image.tmdb.org/t/p/w500//8BzuwDAMamf5TX4TepbDDEq7ima.jpg"
+  },
+  {
+    "nome": "Alem do Horizonte",
+    "temporada": "1",
+    "id": 98960,
+    "totaleps": "155",
+    "players": "https://05.nflixcdn.me/NOV/ADH/ADH-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//g5KV62drJxMKTf5ofKRiGjesCsN.jpg"
+  },
+  {
+    "nome": "Alem do Tempo",
+    "temporada": "1",
+    "id": 83595,
+    "totaleps": "161",
+    "players": "https://03.nflixcdn.me/NOV/ADT/ADTzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//5NqXlahXMZcf6lgNZddsijv7KVn.jpg"
+  },
+  {
+    "nome": "Alma Gemea",
+    "temporada": "1",
+    "id": 16120,
+    "totaleps": "227",
+    "players": "https://03.nflixcdn.me/NOV/AG/AGzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "ComÃÂÃÂ©dia",
+    "capa": "https://image.tmdb.org/t/p/w500//eiWxoPVgHGZEDbRDql8r76kfmqh.jpg"
+  },
+  {
+    "nome": "Alto Astral",
+    "temporada": "1",
+    "id": 86198,
+    "totaleps": "161",
+    "players": "https://02.nflixcdn.me/NOV/AA/AAzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//fgZPPbgj8Hi8khacacCi7Jp4ReD.jpg"
+  },
+  {
+    "nome": "Amar a Morte",
+    "temporada": "1",
+    "id": 83596,
+    "totaleps": "87",
+    "players": "https://02.nflixcdn.me/NOV/AAM/AAMzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//9uw4PT3IOYmFervJSUhvpE009lu.jpg"
+  },
+  {
+    "nome": "America",
+    "temporada": "1",
+    "id": 12387,
+    "totaleps": "203",
+    "players": "https://02.nflixcdn.me/NOV/AME/AMEzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//hSMaND7FiiwkpLafET7pUeiME7a.jpg"
+  },
+  {
+    "nome": "amor a vida",
+    "temporada": "1",
+    "id": 59599,
+    "totaleps": "221",
+    "players": "https://02.nflixcdn.me/NOV/AAV/AAVzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Romance",
+    "capa": "https://image.tmdb.org/t/p/w500//h5iqaMTy4x9wgASIWe9kHB5VBdP.jpg"
+  },
+{
+    "nome": "Amor de mae",
+    "temporada": "1",
+    "id": 95885,
+    "totaleps": "125",
+    "players": "https://02.nflixcdn.me/NOV/ADM/ADMzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//k6J6s7vc7iW4kH8U6JJR8QZ9csh.jpg"
+  },
+  {
+    "nome": "Amor e Honra",
+    "temporada": "1",
+    "id": 88521,
+    "totaleps": "30",
+    "players": "https://03.nflixcdn.me/NOV/AH/AHzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//jVl5QlioeaZirB7WCbnWrEri7S5.jpg"
+  },
+  {
+    "nome": "Amor Perfeito",
+    "temporada": "1",
+    "id": 209085,
+    "totaleps": "161",
+    "players": "https://07.nflixcdn.me/NOV/AMOR/AMOR-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//aOPhyvHDauWFuc3rthpHArCNyrm.jpg"
+  },
+  {
+    "nome": "Amor sem Igual",
+    "temporada": "1",
+    "id": 99791,
+    "totaleps": "148",
+    "players": "https://04.nflixcdn.me/NOV/ASI/ASIzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Romance",
+    "capa": "https://image.tmdb.org/t/p/w500//vxhPG3mCcQ2n5z7aPslQrwpbQUW.jpg"
+  },
+  {
+    "nome": "Amor na Ilha",
+    "temporada": "1",
+    "id": 126255,
+    "totaleps": "83",
+    "players": "https://01.nflixcdn.me/NOV/AILHA/AILHAzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//6JCAXWGyHhBesEdaO6emCejA0Ib.jpg"
+  },
+  {
+    "nome": "Amores Verdadeiros",
+    "temporada": "1",
+    "id": 46901,
+    "totaleps": "167",
+    "players": "https://04.nflixcdn.me/NOV/AMOVER/AMOVERzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//klZCn9W8lzS1AuNZunIEm7spg5Z.jpg"
+  },
+  {
+    "nome": "Amy, a Menina da Mochila Azul",
+    "temporada": "1",
+    "id": 58565,
+    "totaleps": "115",
+    "players": "https://07.nflixcdn.me/NOV/AMY/AMY-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//n5cKXFBnzdMnVdBrwpNhtn0TISM.jpg"
+  },
+  {
+    "nome": "Andando nas Nuvens",
+    "temporada": "1",
+    "id": 45761,
+    "totaleps": "42",
+    "players": "https://01.nflixcdn.me/NOV/ANN/ANN-",
+    "categorias": "ComÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©dia",
+    "capa": "https://image.tmdb.org/t/p/w500//oMVqTU8N7n4OCJLdpRJkZuCYl5c.jpg"
+  },
+  {
+    "nome": "Anjo Mau",
+    "temporada": "1",
+    "id": 207399,
+    "totaleps": "173",
+    "players": "https://04.nflixcdn.me/NOV/AM76/AM76zJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//wfbqfv9Ub8fIO553c09ytZpP6P2.jpg"
+  },
+  {
+    "nome": "Apocalipse",
+    "temporada": "1",
+    "id": 75209,
+    "totaleps": "155",
+    "players": "https://02.nflixcdn.me/NOV/APO/APOzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "MistÃÂÃÂÃÂÃÂ©rio",
+    "capa": "https://image.tmdb.org/t/p/w500//yPqg2d7b24Nh1p7KLbySIvj2lRW.jpg"
+  },
+  {
+    "nome": "Avenida Brasil",
+    "temporada": "1",
+    "id": 45815,
+    "totaleps": "179",
+    "players": "https://03.nflixcdn.me/NOV/AVBR/AVBRzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//fLtwgSeFKtyVDCJ9SefLrIt6ZWn.jpg"
+  },
+  {
+    "nome": "Baila Comigo",
+    "temporada": "1",
+    "id": 95498,
+    "totaleps": "165",
+    "players": "https://07.nflixcdn.me/NOV/BAILA/BAILA-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//ifAfc4zxYuhZuOKk0Xuyp0mutuL.jpg"
+  },
+  {
+    "nome": "BambolÃª",
+    "temporada": "1",
+    "id": 82173,
+    "totaleps": "173",
+    "players": "https://05.nflixcdn.me/NOV/BAM/BAM-",
+    "categorias": "Drama",
+    "capa": "https://image.tmdb.org/t/p/w500//jA6dfcSqoLOby1wOFKHC4qOIy5B.jpg"
+  },
+  {
+    "nome": "Bebê a Bordo",
+    "temporada": "1",
+    "id": 43937,
+    "totaleps": "209",
+    "players": "https://04.nflixcdn.me/NOV/BAB/BABzJ8ZbkUekz24eeeVxdBUi",
+    "categorias": "Comédia",
+    "capa": "https://image.tmdb.org/t/p/w500//8Xdr9hGEdePshxOuJE85CL3QOpl.jpg"
   }
 ]
