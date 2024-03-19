@@ -10,7 +10,7 @@
     "linguagem": "legendado"
   },
   {
-    "nome": "DiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rios de uma ApotecÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ria",
+    "nome": "DiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rios de uma ApotecÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ria",
     "temporada": "1",
     "id": 220542,
     "totaleps": "12",
@@ -77,6 +77,16 @@
     "players": "https://s2.lightspeedst.net/s1/mp4/hyouken-no-majutsushi-ga-sekai-wo-suberu-dublado/sd/",
     "categorias": "Acao",
     "capa": "https://image.tmdb.org/t/p/w500//aiJd0oGkBhf98uEH3F3yC7O48vr.jpg",
+    "linguagem": "dublado"
+  },
+  {
+    "nome": "Onimusha",
+    "temporada": "1",
+    "id": 210945,
+    "totaleps": "8",
+    "players": "https://s2.lightspeedst.net/s1/mp4/onimusha-dublado/sd/",
+    "categorias": "Acao",
+    "capa": "https://image.tmdb.org/t/p/w500//rDjR4tInAxqPGuBEg6IxkEzYSdI.jpg",
     "linguagem": "dublado"
   }
 ]
