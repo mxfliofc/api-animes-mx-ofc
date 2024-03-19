@@ -8,5 +8,15 @@
     "categorias": "animes - ",
     "capa": "https://static.wikia.nocookie.net/dublagem/images/f/f3/Dungeon_Meshi.jpg/revision/latest?cb=20240104154306&path-prefix=pt-br",
     "linguagem": "legendado"
- }
+  },
+  {
+    "nome": "Diários de uma Apotecária",
+    "temporada": "1",
+    "id": 220542,
+    "totaleps": "12",
+    "players": "https://s2.lightspeedst.net/s2/mp4/kusuriya-no-hitorigoto-dublado/sd/",
+    "categorias": "Acao",
+    "capa": "https://image.tmdb.org/t/p/w500//4Xk4wXCwNlPBUEmmtxa8eIoqZtU.jpg",
+    "linguagem": "dublado"
+  }
 ]
