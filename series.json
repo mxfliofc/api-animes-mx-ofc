@@ -1205,8 +1205,18 @@
     "temporada": "1",
     "totaleps": "8",
     "players": "{   \"1\": \"https://streamtape.com/v/g1yM6oV4J1FYy7/wandinha-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/a7bJ7glxZ6CxBBo/wandinha-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/2qM67mD302HROO/wandinha-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/gwWMObjblaH926/wandinha-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/aRwLkDjGpBtMeO/wandinha-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/RePxd7MqQrSdyVv/wandinha-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/gY36KjRe2YtxMB/wandinha-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/3rPXBDLAX1s2Dr/wandinha-1x8-dublado-www.encontrei.tv\" }",
-    "categoria": "Ficção científica",
+    "categoria": "Ficï¿½ï¿½o cientï¿½fica",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
+  },
+  {
+    "nome": "Avatar: O Último Mestre do Ar",
+    "id": "82452",
+    "temporada": "1",
+    "totaleps": "8",
+    "players": "{   \"1\": \"https://streamtape.com/v/e37WrOPzBWcY1aQ/avatar-o-ultimo-mestre-do-ar-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/Bq3pJGQGzXSyqoM/avatar-o-ultimo-mestre-do-ar-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/2rw6J9q4vvtZy6d/avatar-o-ultimo-mestre-do-ar-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/yr846zk6Ams1q1d/avatar-o-ultimo-mestre-do-ar-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/MABmyzOBDqimqpR/avatar-o-ultimo-mestre-do-ar-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/wGG7AzKDRWtGaP/avatar-o-ultimo-mestre-do-ar-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/wGwXqyQDojSJwjA/avatar-o-ultimo-mestre-do-ar-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/kwKeoP4LkBIr2r/avatar-o-ultimo-mestre-do-ar-1x8-dublado-www.encontrei.tv\" }",
+    "categoria": "Aventura",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/zCz483fU94RxRt1gdGW1rxQkcID.jpg"
   }
 ]
