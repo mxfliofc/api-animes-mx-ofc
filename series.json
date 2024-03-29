@@ -1230,7 +1230,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/kP5ymRF6kFvox4CFJCEBK0NnSLq.jpg"
   },
   {
-    "nome": "Ben 10: Supremacia Alienígena",
+    "nome": "Ben 10: Supremacia Alienï¿½gena",
     "id": "31109",
     "temporada": "1",
     "totaleps": "32",
@@ -1238,5 +1238,15 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/kP5ymRF6kFvox4CFJCEBK0NnSLq.jpg"
+  },
+  {
+    "nome": "Dragões de Wonderhatch",
+    "id": "236520",
+    "temporada": "1",
+    "totaleps": "4",
+    "players": "{   \"1\": \"https://streamtape.com/v/AQYd0bbpAoCm19/dragons-of-wonderhatch-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/1mwZOow2O1HekPV/dragons-of-wonderhatch-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/kg23DXMr8ateaL/dragons-of-wonderhatch-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/g9wxK1K2Mehq7DX/dragoes-de-wonderhatch-1x4-dublado-www.encontrei.tv\" }",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/5DBQgY7nqJeTudCeRH2oEZk6Av1.jpg"
   }
 ]
