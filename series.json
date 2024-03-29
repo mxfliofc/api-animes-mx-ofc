@@ -1260,7 +1260,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/AdTh5kAXYwo0dwHONqCFO7y8Jmf.jpg"
   },
   {
-    "nome": "Liga da Justiça Ação",
+    "nome": "Liga da Justiï¿½a Aï¿½ï¿½o",
     "id": "68837",
     "temporada": "2",
     "totaleps": "13",
@@ -1268,5 +1268,15 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/AdTh5kAXYwo0dwHONqCFO7y8Jmf.jpg"
+  },
+  {
+    "nome": "O Pior do Mal",
+    "id": "210704",
+    "temporada": "1",
+    "totaleps": "12",
+    "players": "https://streamtape.com/v/RkeL274rGDfdrjx/o-pior-do-mal-1x1-legendado-www.encontrei.tv https://streamtape.com/v/XkpW83bbe3HDkJm/o-pior-do-mal-1x2-legendado-www.encontrei.tv https://streamtape.com/v/0dP1xypLPLcgez/o-pior-do-mal-1x3-legendado-www.encontrei.tv https://streamtape.com/v/0J7lwopJP6FLxx/o-pior-do-mal-1x4-legendado-www.encontrei.tv https://streamtape.com/v/My3xdpa9BpCdRb/o-pior-do-mal-1x5-legendado-www.encontrei.tv https://streamtape.com/v/xMRmj3rWXXH9RW/o-pior-do-mal-1x6-legendado-www.encontrei.tv https://streamtape.com/v/koaak80GoxcOx2r/o-pior-do-mal-1x7-legendado-www.encontrei.tv https://streamtape.com/v/rkWWQg7oQVFbrZz/o-pior-do-mal-1x8-legendado-www.encontrei.tv https://streamtape.com/v/q9zJjbyJXWHwKP/o-pior-do-mal-1x9-legendado-www.encontrei.tv https://streamtape.com/v/rdLvY1WYxvCeWB/o-pior-do-mal-1x10-legendado-www.encontrei.tv https://streamtape.com/v/3BdQQpv2dMIdvbV/o-pior-do-mal-1x11-legendado-www.encontrei.tv https://streamtape.com/v/2V8M17YAyjiZwmw/The.Worst.of.Evil.S01E12.1080p.MP4.LEG.BaixarSeriesMP4.eu.mp4",
+    "categoria": "Dorama",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/tJMZsRLmJXMdInEXk7ol72E639n.jpg"
   }
 ]
