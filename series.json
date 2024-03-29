@@ -1278,5 +1278,15 @@
     "categoria": "Dorama",
     "idade": "18",
     "capa": "https://image.tmdb.org/t/p/w500/tJMZsRLmJXMdInEXk7ol72E639n.jpg"
+  },
+  {
+    "nome": "Projeto Lázaro",
+    "id": "194567",
+    "temporada": "1",
+    "totaleps": "4",
+    "players": "{   \"1\": \"https://streamtape.com/v/PWZvplOjvoTLeV/The.Lazarus.Project.S01E01.The.Lazarus.Project.1.1080p.NOW.WEB-DL.DDP5.1.H.264-SMURF.DUAL-JHOM.mkv.mp4\",   \"2\": \"https://streamtape.com/v/1JKrWV4XpYTJO7/The.Lazarus.Project.S01E02.The.Lazarus.Project.2.1080p.NOW.WEB-DL.DDP5.1.H.264-SMURF.DUAL-JHOM.mkv.mp4\",   \"3\": \"https://streamtape.com/v/1JYLLzod1OHel1D/projeto-lazaro-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/1xZBLdKod1ie2d2/projeto-lazaro-1x4-dublado-www.encontrei.tv\" }",
+    "categoria": "Ficção cientifica",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/xw7GkWtmPQDU8qzfKshFEN038sj.jpg"
   }
 ]
