@@ -1210,7 +1210,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
   },
   {
-    "nome": "Avatar: O Último Mestre do Ar",
+    "nome": "Avatar: O ï¿½ltimo Mestre do Ar",
     "id": "82452",
     "temporada": "1",
     "totaleps": "8",
@@ -1218,5 +1218,15 @@
     "categoria": "Aventura",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/zCz483fU94RxRt1gdGW1rxQkcID.jpg"
+  },
+  {
+    "nome": "Ben 10: Supremacia Alienígena",
+    "id": "31109",
+    "temporada": "1",
+    "totaleps": "20",
+    "players": "{   \"1\": \"https://streamtape.com/v/kDW41WJ7WoIOL8j/ben-10-supremacia-alienigena-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/Lkegaz8VwQhRX0Y/ben-10-supremacia-alienigena-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/Zb7xg04rYdtqqqP/ben-10-supremacia-alienigena-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/jYAXlewv02fz3Wk/ben-10-supremacia-alienigena-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/aPK6w63vQkHxVqZ/ben-10-supremacia-alienigena-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/dVjRvqgdD0ikVo1/ben-10-supremacia-alienigena-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/dvp7rOYXq3IgP9/ben-10-supremacia-alienigena-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/6W0VzpLX4Ru927q/ben-10-supremacia-alienigena-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/vk3grwAyKZFL2v/ben-10-supremacia-alienigena-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/RQRQx7xre7idMbA/ben-10-supremacia-alienigena-1x10-dublado-www.encontrei.tv\",   \"11\": \"https://streamtape.com/v/Q0MeKwywB2tkeD/ben-10-supremacia-alienigena-1x11-dublado-www.encontrei.tv\",   \"12\": \"https://streamtape.com/v/LarrjGj20msRjRV/ben-10-supremacia-alienigena-1x12-dublado-www.encontrei.tv\",   \"13\": \"https://streamtape.com/v/g0a8Zo2O08TqrXB/ben-10-supremacia-alienigena-1x13-dublado-www.encontrei.tv\",   \"14\": \"https://streamtape.com/v/KQXJRpakaXfDW7/ben-10-supremacia-alienigena-1x14-dublado-www.encontrei.tv\",   \"15\": \"https://streamtape.com/v/ZVLw372LlMF7Vr/ben-10-supremacia-alienigena-1x15-dublado-www.encontrei.tv\",   \"16\": \"https://streamtape.com/v/Odby37DeYMi7MB/ben-10-supremacia-alienigena-1x16-dublado-www.encontrei.tv\",   \"17\": \"https://streamtape.com/v/2kOxa7mq1wfzbM/ben-10-supremacia-alienigena-1x17-dublado-www.encontrei.tv\",   \"18\": \"https://streamtape.com/v/plyoeb6ovXHrYez/ben-10-supremacia-alienigena-1x18-dublado-www.encontrei.tv\",   \"19\": \"https://streamtape.com/v/K7OZdqWKYrH0YbR/ben-10-supremacia-alienigena-1x19-dublado-www.encontrei.tv\",   \"20\": \"https://streamtape.com/v/RjXyBYwPBJUdvbl/ben-10-supremacia-alienigena-1x20-dublado-www.encontrei.tv\" }",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/kP5ymRF6kFvox4CFJCEBK0NnSLq.jpg"
   }
 ]
