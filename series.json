@@ -1240,7 +1240,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/kP5ymRF6kFvox4CFJCEBK0NnSLq.jpg"
   },
   {
-    "nome": "Dragões de Wonderhatch",
+    "nome": "Dragï¿½es de Wonderhatch",
     "id": "236520",
     "temporada": "1",
     "totaleps": "4",
@@ -1248,5 +1248,15 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/5DBQgY7nqJeTudCeRH2oEZk6Av1.jpg"
+  },
+  {
+    "nome": "Liga da Justiça Ação",
+    "id": "68837",
+    "temporada": "1",
+    "totaleps": "13",
+    "players": "{   \"1\": \"https://streamtape.com/v/AqJ274qzyDFX83Y/liga-da-justica-sem-limites-1x1-dublado-www.encontrei.tv\",   \"2\": \"https://streamtape.com/v/4dRjOkQbvwtpGD/liga-da-justica-sem-limites-1x2-dublado-www.encontrei.tv\",   \"3\": \"https://streamtape.com/v/KXYMp9XvbXS0Y7O/liga-da-justica-sem-limites-1x3-dublado-www.encontrei.tv\",   \"4\": \"https://streamtape.com/v/BbeJY2XoZQHyX9M/liga-da-justica-sem-limites-1x4-dublado-www.encontrei.tv\",   \"5\": \"https://streamtape.com/v/JYW1BlJogVcjKqa/liga-da-justica-sem-limites-1x5-dublado-www.encontrei.tv\",   \"6\": \"https://streamtape.com/v/Ma2deWR02ytmk9M/liga-da-justica-sem-limites-1x6-dublado-www.encontrei.tv\",   \"7\": \"https://streamtape.com/v/vwK8DQrD2Gt4Oxq/liga-da-justica-sem-limites-1x7-dublado-www.encontrei.tv\",   \"8\": \"https://streamtape.com/v/DQVyv2oMrAFkPLZ/liga-da-justica-sem-limites-1x8-dublado-www.encontrei.tv\",   \"9\": \"https://streamtape.com/v/6XGqyeRr4wc9k9l/liga-da-justica-sem-limites-1x9-dublado-www.encontrei.tv\",   \"10\": \"https://streamtape.com/v/0VMBe7Wv07IZ1D/liga-da-justica-sem-limites-1x10-dublado-www.encontrei.tv\",   \"11\": \"https://streamtape.com/v/gVMlJ3Rq0rFq8yp/liga-da-justica-sem-limites-1x11-dublado-www.encontrei.tv\",   \"12\": \"https://streamtape.com/v/qvRVmOjglgszJo3/liga-da-justica-sem-limites-1x12-dublado-www.encontrei.tv\",   \"13\": \"https://streamtape.com/v/2W4JOY46mkSKLx/liga-da-justica-sem-limites-1x13-dublado-www.encontrei.tv\" }",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/AdTh5kAXYwo0dwHONqCFO7y8Jmf.jpg"
   }
 ]
