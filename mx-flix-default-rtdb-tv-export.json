@@ -1,0 +1,1793 @@
+{
+  "011 News | Brasil": {
+    "capa": "https://i.imgur.com/ZO2qtTH.png",
+    "nome": "011 News | Brasil",
+    "player": "https://011news.akamaized.net/011news/011news/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "3"
+  },
+  "A Feiticeira | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png",
+    "nome": "A Feiticeira | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "https://www.sbt.com.br/jogos/programacao",
+    "tipo": "1"
+  },
+  "A Feiticeira | link 2 | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png",
+    "nome": "A Feiticeira | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "A culpa é do cabral | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png",
+    "nome": "A culpa é do cabral | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "A culpa é do cabral | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png",
+    "nome": "A culpa é do cabral | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "A vida moderna de Rocko | Pluto TV Brasil": {
+    "capa": "https://i.imgur.com/iu4Xbjd.png",
+    "nome": "A vida moderna de Rocko | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Acumuladores Obsessivos | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png",
+    "nome": "Acumuladores Obsessivos | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Acumuladores Obsessivos | Pluto TV Brasil ~ link 2": {
+    "capa": "https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png",
+    "nome": "Acumuladores Obsessivos | Pluto TV Brasil ~ link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Acumuladores Obsessivos | Pluto TV Brasil ~ link 3": {
+    "capa": "https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png",
+    "nome": "Acumuladores Obsessivos | Pluto TV Brasil ~ link 3",
+    "player": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Adrenalina Freezone": {
+    "capa": "https://imgur.com/TRhivEt.png",
+    "nome": "Adrenalina Freezone",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Adrenalina Freezone | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png",
+    "nome": "Adrenalina Freezone | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Adrenalina Freezone | link 2": {
+    "capa": "https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png",
+    "nome": "Adrenalina Freezone | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "All Sports | Brasil": {
+    "capa": "https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg",
+    "nome": "All Sports | Brasil",
+    "player": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Allied Esports": {
+    "capa": "https://i.imgur.com/wCH5z2J.png",
+    "nome": "Allied Esports",
+    "player": "https://d1lvmtqnqngsrn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AlliedESports-SportsTribal/213.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Allied Esports | EUA": {
+    "capa": "https://i.imgur.com/wCH5z2J.png",
+    "nome": "Allied Esports | EUA",
+    "player": "https://muxip-alliedesports-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-allied-e-sports/CDN/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Allied Esports | Local Now": {
+    "capa": "https://i.imgur.com/wCH5z2J.png",
+    "nome": "Allied Esports | Local Now",
+    "player": "https://alliedesports-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6126abc2de5e6b7182567705_alliedesports-live/213.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Animais | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+    "nome": "Animais | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Animais | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+    "nome": "Animais | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Anime Ação | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
+    "nome": "Anime Ação | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Anime TV | Brasil": {
+    "capa": "https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",
+    "nome": "Anime TV | Brasil",
+    "player": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Anime | Pluto TV Brasil": {
+    "capa": "https://i.imgur.com/hPUry0Y.png",
+    "nome": "Anime | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Arnold | Diff'rent Strokes | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png",
+    "nome": "Arnold | Diff'rent Strokes | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "As Aventuras de Jackie Chan | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png",
+    "nome": "As Aventuras de Jackie Chan | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "As Panteras | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png",
+    "nome": "As Panteras | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "As Panteras | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/648776bf536e0c0008b49aef/colorLogoPNG.png",
+    "nome": "As Panteras | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "As Pistas de Blue | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png",
+    "nome": "As Pistas de Blue | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Assombrações | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png",
+    "nome": "Assombrações | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Assombrações | link 2 | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png",
+    "nome": "Assombrações | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BET | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png",
+    "nome": "BET | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BET | link 2": {
+    "capa": "http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png",
+    "nome": "BET | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Baby Shark | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png",
+    "nome": "Baby Shark | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Baby Shark | link 2 | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png",
+    "nome": "Baby Shark | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Band FM | Campinas SP": {
+    "capa": "https://i.imgur.com/ruCJs06.png",
+    "nome": "Band FM | Campinas SP",
+    "player": "https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Band News | Brasil": {
+    "capa": "https://i.imgur.com/WwSAtkh.png",
+    "nome": "Band News | Brasil",
+    "player": "https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Band | RBA TV | PA Brasil": {
+    "capa": "https://i.imgur.com/b92nQTD.png",
+    "nome": "Band | RBA TV | PA Brasil",
+    "player": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Belo Horizonte": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Belo Horizonte",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_bh/master.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Brasília": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Brasília",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_bsb/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Curitiba": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Curitiba",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Fortaleza": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Fortaleza",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_for/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Goiânia": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Goiânia",
+    "player": "https://5a57bda70564a.streamlock.net/bandnewsgo/bandnewsgo.stream/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | João Pessoa": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | João Pessoa",
+    "player": "https://5b7f3c45ab7c2.streamlock.net/bandnews/bandnews/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Manaus": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Manaus",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_mao/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Porto Alegre": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Porto Alegre",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_poa/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Rio de Janeiro": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Rio de Janeiro",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_rj/master.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Salvador": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Salvador",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_sal/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | São Paulo": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | São Paulo",
+    "player": "https://27423.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/666eb4fd-bec8-44cb-a1f8-b35a5535f030/0/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "BandNews FM | Vitória": {
+    "capa": "https://i.imgur.com/fPeO9hi.png",
+    "nome": "BandNews FM | Vitória",
+    "player": "https://evpp.mm.uol.com.br/band/bandnewsfm_vit/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Being Mary Jane | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png",
+    "nome": "Being Mary Jane | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Blast Channel TV | Brasil": {
+    "capa": "https://i.imgur.com/ZHIKmOZ.png",
+    "nome": "Blast Channel TV | Brasil",
+    "player": "https://video01.logicahost.com.br/blast/blast/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "CSI Miami | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+    "nome": "CSI Miami | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "CSI Miami | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+    "nome": "CSI Miami | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Canal 29 | séries antigas | Brasil": {
+    "capa": "http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg",
+    "nome": "Canal 29 | séries antigas | Brasil",
+    "player": "https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Canal Educação | Brasil": {
+    "capa": "https://i.imgur.com/bZGO7xc.png",
+    "nome": "Canal Educação | Brasil",
+    "player": "https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Canal Gov | Brasil": {
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png",
+    "nome": "Canal Gov | Brasil",
+    "player": "https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Canal Saúde | Brasil": {
+    "capa": "https://i.imgur.com/iWPpWzW.png",
+    "nome": "Canal Saúde | Brasil",
+    "player": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/master.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Canal UOL | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
+    "nome": "Canal UOL | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Canal UOL | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
+    "nome": "Canal UOL | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Canção Nova | Portugal": {
+    "capa": "https://i.imgur.com/wacTreN.png",
+    "nome": "Canção Nova | Portugal",
+    "player": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cars | Pluto TV EUA": {
+    "capa": "http://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png",
+    "nome": "Cars | Pluto TV EUA",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cazador de Homicidas | Pluto TV Argentina": {
+    "capa": "https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png",
+    "nome": "Cazador de Homicidas | Pluto TV Argentina",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Cazador de Homicidas | Pluto TV Espanha": {
+    "capa": "https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png",
+    "nome": "Cazador de Homicidas | Pluto TV Espanha",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Caçadores de OVNIs | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png",
+    "nome": "Caçadores de OVNIs | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Caçadores de OVNIs | Pluto TV Brasil ~ link 2": {
+    "capa": "https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png",
+    "nome": "Caçadores de OVNIs | Pluto TV Brasil ~ link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Caçadores de OVNIs | Pluto TV Brasil ~ link 3": {
+    "capa": "https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png",
+    "nome": "Caçadores de OVNIs | Pluto TV Brasil ~ link 3",
+    "player": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Chassy | Pluto TV EUA": {
+    "capa": "http://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png",
+    "nome": "Chassy | Pluto TV EUA",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Clássicos | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png",
+    "nome": "Cine Clássicos | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Clássicos | link 2": {
+    "capa": "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png",
+    "nome": "Cine Clássicos | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Comédia Romântica | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png",
+    "nome": "Cine Comédia Romântica | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Comédia Romântica | link 2": {
+    "capa": "https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png",
+    "nome": "Cine Comédia Romântica | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Comédia | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png",
+    "nome": "Cine Comédia | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Comédia | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png",
+    "nome": "Cine Comédia | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Crime | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
+    "nome": "Cine Crime | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Crime | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
+    "nome": "Cine Crime | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Drama | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
+    "nome": "Cine Drama | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Drama | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
+    "nome": "Cine Drama | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Família | Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png",
+    "nome": "Cine Família | Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Família | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png",
+    "nome": "Cine Família | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Inspiração | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png",
+    "nome": "Cine Inspiração | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Inspiração | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png",
+    "nome": "Cine Inspiração | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Premiere | Pluto TV EUA": {
+    "capa": "http://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png",
+    "nome": "Cine Premiere | Pluto TV EUA",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Romance | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png",
+    "nome": "Cine Romance | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Romance | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png",
+    "nome": "Cine Romance | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Sucessos | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",
+    "nome": "Cine Sucessos | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Sucessos | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",
+    "nome": "Cine Sucessos | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Terror | Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
+    "nome": "Cine Terror | Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cine Terror | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
+    "nome": "Cine Terror | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "CineMonde | Soul TV Brasil": {
+    "capa": "https://i.imgur.com/dpat1CH.png",
+    "nome": "CineMonde | Soul TV Brasil",
+    "player": "https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Classic Rock Network": {
+    "capa": "https://i.imgur.com/YseBxh6.png",
+    "nome": "Classic Rock Network",
+    "player": "https://cdn17.fntvchannel.com/index.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Classic Rock Network | link 2": {
+    "capa": "https://i.imgur.com/YseBxh6.png",
+    "nome": "Classic Rock Network | link 2",
+    "player": "https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Classic Rock Network | link 3": {
+    "capa": "https://i.imgur.com/YseBxh6.png",
+    "nome": "Classic Rock Network | link 3",
+    "player": "https://cdn17.fntvchannel.com/index.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Clubbing TV | Brasil": {
+    "capa": "https://i.imgur.com/a4YXzGU.png",
+    "nome": "Clubbing TV | Brasil",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=609\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Clubbing TV | Samsung Brasil": {
+    "capa": "https://i.imgur.com/a4YXzGU.png",
+    "nome": "Clubbing TV | Samsung Brasil",
+    "player": "https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Combate Global": {
+    "capa": "https://i.imgur.com/7jxA4O4.png",
+    "nome": "Combate Global",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Comedy Central | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+    "nome": "Comedy Central | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Comedy Central | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+    "nome": "Comedy Central | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Comédia | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png",
+    "nome": "Comédia | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Comédia | link 2": {
+    "capa": "https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png",
+    "nome": "Comédia | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Cultura do Pará | Brasil": {
+    "capa": "https://i.imgur.com/vfYMS0k.png",
+    "nome": "Cultura do Pará | Brasil",
+    "player": "https://br7.ciclano.io:1443/fundacao-12109/fundacao-12109/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "DAZN Women's Football | em inglês | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png",
+    "nome": "DAZN Women's Football | em inglês | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "DAZN Women's Football | em inglês | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png",
+    "nome": "DAZN Women's Football | em inglês | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "DarkFlix HD | Soul TV Brasil": {
+    "capa": "https://i.imgur.com/XKMFQRl.png",
+    "nome": "DarkFlix HD | Soul TV Brasil",
+    "player": "https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Death Note | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png",
+    "nome": "Death Note | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Detetives Médicos | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
+    "nome": "Detetives Médicos | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Detetives Médicos | link 2 | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
+    "nome": "Detetives Médicos | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Documentários | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",
+    "nome": "Documentários | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Documentários | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",
+    "nome": "Documentários | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Dog el cazarrecompensas | Pluto TV Argentina": {
+    "capa": "https://i.imgur.com/2At2CiW.png",
+    "nome": "Dog el cazarrecompensas | Pluto TV Argentina",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Dora Aventureira | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png",
+    "nome": "Dora Aventureira | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Dora Aventureira | Pluto TV Brasil ~ link 2": {
+    "capa": "https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png",
+    "nome": "Dora Aventureira | Pluto TV Brasil ~ link 2",
+    "player": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Dora Aventureira | Pluto TV Brasil ~ link 3": {
+    "capa": "https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png",
+    "nome": "Dora Aventureira | Pluto TV Brasil ~ link 3",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Esportes | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png",
+    "nome": "Esportes | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Esportes | link 2 | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png",
+    "nome": "Esportes | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Estado Paranormal | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png",
+    "nome": "Estado Paranormal | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Estado Paranormal | Pluto TV Brasil ~ link 2": {
+    "capa": "https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png",
+    "nome": "Estado Paranormal | Pluto TV Brasil ~ link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Estado Paranormal | Pluto TV Brasil ~ link 3": {
+    "capa": "https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png",
+    "nome": "Estado Paranormal | Pluto TV Brasil ~ link 3",
+    "player": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Evangelizar TV": {
+    "capa": "https://i.imgur.com/wVPZqXa.png",
+    "nome": "Evangelizar TV",
+    "player": "http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8\r",
+    "pr": "null",
+    "tipo": "1"
+  },
+  "Extreme American Homes | Pluto TV Reino Unido": {
+    "capa": "https://images.pluto.tv/channels/60f03e32b6455d000748b640/colorLogoPNG.png",
+    "nome": "Extreme American Homes | Pluto TV Reino Unido",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b6455d000748b640/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Ficção Científica | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png",
+    "nome": "Ficção Científica | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Ficção Científica | link 2": {
+    "capa": "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png",
+    "nome": "Ficção Científica | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Fonte TV | Goiânia | Brasil": {
+    "capa": "https://i.imgur.com/Ez1nnbc.png",
+    "nome": "Fonte TV | Goiânia | Brasil",
+    "player": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8\r",
+    "tipo": "1"
+  },
+  "Fox Sports 3": {
+    "capa": "",
+    "nome": "Fox Sports 3",
+    "player": "http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8",
+    "tipo": "1"
+  },
+  "Fuel TV | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png",
+    "nome": "Fuel TV | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Fuel TV | link 2": {
+    "capa": "http://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png",
+    "nome": "Fuel TV | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Futura | Canal FDR | CE": {
+    "capa": "https://i.imgur.com/Ye3kw5d.png",
+    "nome": "Futura | Canal FDR | CE",
+    "player": "https://d3ruy0tnspeepl.cloudfront.net/out/v1/9209c51e6b23480fa297e754c6ca6670/index.m3u8\r",
+    "tipo": "1"
+  },
+  "Futura | Unisc TV | RS": {
+    "capa": "http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",
+    "nome": "Futura | Unisc TV | RS",
+    "player": "https://d3ruy0tnspeepl.cloudfront.net/out/v1/9209c51e6b23480fa297e754c6ca6670/index.m3u8\r",
+    "tipo": "1"
+  },
+  "Gaming Ubisoft | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png",
+    "nome": "Gaming Ubisoft | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9elivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Gaming Ubisoft | Pluto TV Brasil | link 2": {
+    "capa": "http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png",
+    "nome": "Gaming Ubisoft | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9elivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Geek e Tech | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png",
+    "nome": "Geek e Tech | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Geek e Tech | Pluto TV Brasil | link 2": {
+    "capa": "http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png",
+    "nome": "Geek e Tech | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Gospel Movies | Brasil": {
+    "capa": "https://i.imgur.com/qqhdkym.png",
+    "nome": "Gospel Movies | Brasil",
+    "player": "https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8\r",
+    "tipo": "1"
+  },
+  "Guinness World Records": {
+    "capa": "https://i.imgur.com/ZPA2yTM.png",
+    "nome": "Guinness World Records",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=567\r",
+    "tipo": "1"
+  },
+  "Inferno Sobre Rodas | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png",
+    "nome": "Inferno Sobre Rodas | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Inferno Sobre Rodas | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png",
+    "nome": "Inferno Sobre Rodas | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Jeannie é um Gênio | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png",
+    "nome": "Jeannie é um Gênio | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Jovem Pan News | Pluto TV Brasil": {
+    "capa": "https://i.imgur.com/ZO2qtTH.png",
+    "nome": "Jovem Pan News | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Jovem Pan News | Pluto TV Brasil | link 2": {
+    "capa": "https://i.imgur.com/ZO2qtTH.png",
+    "nome": "Jovem Pan News | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Junior | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
+    "nome": "Junior | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "KFood | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",
+    "nome": "KFood | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Karaokê por Stingray | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+    "nome": "Karaokê por Stingray | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Karaokê por Stingray | Pluto TV Brasil 2": {
+    "capa": "http://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+    "nome": "Karaokê por Stingray | Pluto TV Brasil 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Kids | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+    "nome": "Kids | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Kids | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+    "nome": "Kids | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Last Stream on The Left | Adult Swim": {
+    "capa": "https://i.imgur.com/bnZCZD2.png",
+    "nome": "Last Stream on The Left | Adult Swim",
+    "player": "https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8\r",
+    "tipo": "1"
+  },
+  "MTV Are you the One? | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
+    "nome": "MTV Are you the One? | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Are you the One? | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
+    "nome": "MTV Are you the One? | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "MTV Biggest Pop | Pluto TV Argentina": {
+    "capa": "https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png",
+    "nome": "MTV Biggest Pop | Pluto TV Argentina",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Biggest Pop | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+    "nome": "MTV Biggest Pop | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Catfish | Brasil": {
+    "capa": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
+    "nome": "MTV Catfish | Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Catfish | link 2": {
+    "capa": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
+    "nome": "MTV Catfish | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "MTV Com o Ex | Brasil": {
+    "capa": "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
+    "nome": "MTV Com o Ex | Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Com o Ex | link 2": {
+    "capa": "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
+    "nome": "MTV Com o Ex | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "MTV Drag | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",
+    "nome": "MTV Drag | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Drag | link 2 | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",
+    "nome": "MTV Drag | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "MTV Jovens e Mães | Teen Mom | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
+    "nome": "MTV Jovens e Mães | Teen Mom | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Jovens e Mães | Teen Mom | link 2": {
+    "capa": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
+    "nome": "MTV Jovens e Mães | Teen Mom | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "MTV Shore | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
+    "nome": "MTV Shore | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV Shore | link 2": {
+    "capa": "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
+    "nome": "MTV Shore | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "MTV | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png",
+    "nome": "MTV | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "MTV | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png",
+    "nome": "MTV | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "MasterChef | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png",
+    "nome": "MasterChef | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Minha Obsessão Favorita | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png",
+    "nome": "Minha Obsessão Favorita | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Mistérios sem Solução | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png",
+    "nome": "Mistérios sem Solução | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Mistérios sem Solução | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png",
+    "nome": "Mistérios sem Solução | Pluto TV Brasil | link 2",
+    "player": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\r",
+    "tipo": "1"
+  },
+  "Mistérios | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png",
+    "nome": "Mistérios | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Moranguinho | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png",
+    "nome": "Moranguinho | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Moranguinho | link 2 | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png",
+    "nome": "Moranguinho | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Motorvision | Brasil": {
+    "capa": "https://i.imgur.com/gDWDdVY.png",
+    "nome": "Motorvision | Brasil",
+    "player": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Motorvision | Brasil 2": {
+    "capa": "https://i.imgur.com/gDWDdVY.png",
+    "nome": "Motorvision | Brasil 2",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=758\r",
+    "tipo": "1"
+  },
+  "Motorvision | Brasil 3": {
+    "capa": "https://i.imgur.com/gDWDdVY.png",
+    "nome": "Motorvision | Brasil 3",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676\r",
+    "tipo": "1"
+  },
+  "Motorvision | Brasil 4": {
+    "capa": "https://i.imgur.com/gDWDdVY.png",
+    "nome": "Motorvision | Brasil 4",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182\r",
+    "tipo": "1"
+  },
+  "Naruto | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",
+    "nome": "Naruto | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Naruto | link 2 | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",
+    "nome": "Naruto | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Natureza | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png",
+    "nome": "Natureza | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Negócio Fechado | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+    "nome": "Negócio Fechado | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Negócio Fechado | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+    "nome": "Negócio Fechado | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "NickTeen | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png",
+    "nome": "NickTeen | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Nickelodeon Clássico | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",
+    "nome": "Nickelodeon Clássico | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Nickelodeon Clássico | Pluto TV Brasil ~ link 2": {
+    "capa": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",
+    "nome": "Nickelodeon Clássico | Pluto TV Brasil ~ link 2",
+    "player": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\r",
+    "tipo": "1"
+  },
+  "Nickelodeon Clássico | Pluto TV Brasil ~ link 3": {
+    "capa": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",
+    "nome": "Nickelodeon Clássico | Pluto TV Brasil ~ link 3",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Nickelodeon | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png",
+    "nome": "Nickelodeon | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Nickelodeon | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png",
+    "nome": "Nickelodeon | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Nickelodeon | Pluto TV Brasil | link 3": {
+    "capa": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png",
+    "nome": "Nickelodeon | Pluto TV Brasil | link 3",
+    "player": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\r",
+    "tipo": "1"
+  },
+  "Nosey Escândalos | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png",
+    "nome": "Nosey Escândalos | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Novo Tempo | Brasil": {
+    "capa": "https://i.imgur.com/exdDHml.png",
+    "nome": "Novo Tempo | Brasil",
+    "player": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "O Reino Infantil | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png",
+    "nome": "O Reino Infantil | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "O encantador de cães | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png",
+    "nome": "O encantador de cães | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Off The Air | Adult Swim": {
+    "capa": "https://i.imgur.com/X2qhBpO.png",
+    "nome": "Off The Air | Adult Swim",
+    "player": "https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8\r",
+    "tipo": "1"
+  },
+  "One Piece | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png",
+    "nome": "One Piece | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "One Piece | Pluto TV Brasil | link 2": {
+    "capa": "http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png",
+    "nome": "One Piece | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Os Padrinhos Mágicos | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png",
+    "nome": "Os Padrinhos Mágicos | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Os Padrinhos Mágicos | Pluto TV Brasil | link 2": {
+    "capa": "http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png",
+    "nome": "Os Padrinhos Mágicos | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Os arquivos do FBI | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png",
+    "nome": "Os arquivos do FBI | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "PFL MMA | em inglês | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png",
+    "nome": "PFL MMA | em inglês | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "PFL MMA | em inglês | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png",
+    "nome": "PFL MMA | em inglês | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Party Tyme Karaoke | Brasil": {
+    "capa": "https://i.imgur.com/DZIzcKA.png",
+    "nome": "Party Tyme Karaoke | Brasil",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=469\r",
+    "tipo": "1"
+  },
+  "Party Tyme Karaoke | Brasil 2": {
+    "capa": "https://i.imgur.com/DZIzcKA.png",
+    "nome": "Party Tyme Karaoke | Brasil 2",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=480\r",
+    "tipo": "1"
+  },
+  "Party Tyme Karaoke | Brasil 3": {
+    "capa": "https://i.imgur.com/DZIzcKA.png",
+    "nome": "Party Tyme Karaoke | Brasil 3",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=574\r",
+    "tipo": "1"
+  },
+  "Party Tyme Karaoke | Brasil 4": {
+    "capa": "https://i.imgur.com/DZIzcKA.png",
+    "nome": "Party Tyme Karaoke | Brasil 4",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=575\r",
+    "tipo": "1"
+  },
+  "Party Tyme Karaoke | Brasil 5": {
+    "capa": "https://i.imgur.com/DZIzcKA.png",
+    "nome": "Party Tyme Karaoke | Brasil 5",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2181\r",
+    "tipo": "1"
+  },
+  "Patrulha Canina | Paw Patrol | Pluto TV Brasil": {
+    "capa": "http://images.pluto.tv/channels/6495c7ad115d060008bf6df0/colorLogoPNG.png",
+    "nome": "Patrulha Canina | Paw Patrol | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Patrulha Canina | Paw Patrol | Pluto TV Brasil | link 2": {
+    "capa": "http://images.pluto.tv/channels/6495c7ad115d060008bf6df0/colorLogoPNG.png",
+    "nome": "Patrulha Canina | Paw Patrol | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Pluto TV Gamer": {
+    "capa": "http://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png",
+    "nome": "Pluto TV Gamer",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Ponte Preta | Campinas SP | Soul TV Brasil": {
+    "capa": "https://i.imgur.com/kySWaiL.png",
+    "nome": "Ponte Preta | Campinas SP | Soul TV Brasil",
+    "player": "https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Porta dos Fundos | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png",
+    "nome": "Porta dos Fundos | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Prank TV": {
+    "capa": "https://i.imgur.com/iDW6SMg.png",
+    "nome": "Prank TV",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1849\r",
+    "tipo": "1"
+  },
+  "Pronto-Socorro: histórias de emergência | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png",
+    "nome": "Pronto-Socorro: histórias de emergência | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Pânico | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png",
+    "nome": "Pânico | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Pânico | link 2 | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png",
+    "nome": "Pânico | link 2 | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "RS News Web 2 | Brasil: esportes": {
+    "capa": "https://i.imgur.com/m25TK0O.png",
+    "nome": "RS News Web 2 | Brasil: esportes",
+    "player": "https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "RS News Web 3 | Brasil: esportes": {
+    "capa": "https://i.imgur.com/m25TK0O.png",
+    "nome": "RS News Web 3 | Brasil: esportes",
+    "player": "https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "RS News Web | Brasil: esportes": {
+    "capa": "https://i.imgur.com/m25TK0O.png",
+    "nome": "RS News Web | Brasil: esportes",
+    "player": "https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Rakuten Documentários | português e inglês": {
+    "capa": "https://i.imgur.com/QwPiPlI.png",
+    "nome": "Rakuten Documentários | português e inglês",
+    "player": "https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "RealMadrid TV | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",
+    "nome": "RealMadrid TV | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "RealMadrid TV | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",
+    "nome": "RealMadrid TV | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Record News | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",
+    "nome": "Record News | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Record News | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",
+    "nome": "Record News | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Record News | RunTime Brasil": {
+    "capa": "https://i.imgur.com/iC5UoAN.png",
+    "nome": "Record News | RunTime Brasil",
+    "player": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431\r",
+    "tipo": "1"
+  },
+  "Rede Família | Brasil": {
+    "capa": "https://i.imgur.com/RCPEpPc.png",
+    "nome": "Rede Família | Brasil",
+    "player": "https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Rede Minas | Brasil": {
+    "capa": "https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",
+    "nome": "Rede Minas | Brasil",
+    "player": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Rede Mundial | Brasil": {
+    "capa": "https://i.imgur.com/gLfsyx7.png",
+    "nome": "Rede Mundial | Brasil",
+    "player": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Rede Premium TV | Osasco | SP Brasil": {
+    "capa": "https://i.imgur.com/hfvzbsC.png",
+    "nome": "Rede Premium TV | Osasco | SP Brasil",
+    "player": "https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Rede Super | Brasil": {
+    "capa": "https://i.imgur.com/rNizzxd.png",
+    "nome": "Rede Super | Brasil",
+    "player": "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Rede Século 21 | Brasil": {
+    "capa": "https://i.imgur.com/ZHO33ib.png",
+    "nome": "Rede Século 21 | Brasil",
+    "player": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8\r",
+    "tipo": "1"
+  },
+  "Rede TV Episódios | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png",
+    "nome": "Rede TV Episódios | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Rede TV Episódios | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png",
+    "nome": "Rede TV Episódios | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Rede Vida | Brasil": {
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",
+    "nome": "Rede Vida | Brasil",
+    "player": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Retrô | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png",
+    "nome": "Retrô | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "SBT | Bem TV | Tangará da Serra | MT": {
+    "capa": "https://i.imgur.com/srURmsi.png",
+    "nome": "SBT | Bem TV | Tangará da Serra | MT",
+    "player": "https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8\r",
+    "pr": "https://www.sbt.com.br/jogos/programacao",
+    "tipo": "1"
+  },
+  "SBT | Rede Massa | PR": {
+    "capa": "https://i.imgur.com/srURmsi.png",
+    "nome": "SBT | Rede Massa | PR",
+    "player": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8\r",
+    "pr": "https://www.sbt.com.br/jogos/programacao",
+    "tipo": "1"
+  },
+  "SBT | TV Cidade Verde | Piauí": {
+    "capa": "https://i.imgur.com/srURmsi.png",
+    "nome": "SBT | TV Cidade Verde | Piauí",
+    "player": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8\r",
+    "pr": "https://www.sbt.com.br/jogos/programacao",
+    "tipo": "1"
+  },
+  "SBT | TV Guajará | Tailândia | PA": {
+    "capa": "https://i.imgur.com/srURmsi.png",
+    "nome": "SBT | TV Guajará | Tailândia | PA",
+    "player": "https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8\r",
+    "tipo": "1"
+  },
+  "SBT | TV Paraense | Castanhal | PA": {
+    "capa": "https://i.imgur.com/srURmsi.png",
+    "nome": "SBT | TV Paraense | Castanhal | PA",
+    "player": "https://cdn.jmvstream.com/w/AVJ-13102/playlist/master.m3u8\r",
+    "tipo": "1"
+  },
+  "SBT | interior de SP": {
+    "capa": "https://i.imgur.com/srURmsi.png",
+    "nome": "SBT | interior de SP",
+    "player": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8\r",
+    "tipo": "1"
+  },
+  "Sesc TV | Brasil": {
+    "capa": "https://i.imgur.com/Wn1VFRx.png",
+    "nome": "Sesc TV | Brasil",
+    "player": "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8\r",
+    "tipo": "1"
+  },
+  "Sesc TV ~ 720 | Brasil": {
+    "capa": "https://i.imgur.com/Wn1VFRx.png",
+    "nome": "Sesc TV ~ 720 | Brasil",
+    "player": "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index720p.m3u8\r",
+    "tipo": "1"
+  },
+  "Soul Cine Clube | Brasil": {
+    "capa": "https://i.imgur.com/QapVmCb.png",
+    "nome": "Soul Cine Clube | Brasil",
+    "player": "https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Sport Club Internacional | Porto Alegre RS | Brasil": {
+    "capa": "https://i.imgur.com/FStHrVv.png",
+    "nome": "Sport Club Internacional | Porto Alegre RS | Brasil",
+    "player": "https://clubeinternacionalcod.akamaized.net/internacional/internacional/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Stingray Pop Adult | Plex TV": {
+    "capa": "https://i.imgur.com/RhlKdT0.png",
+    "nome": "Stingray Pop Adult | Plex TV",
+    "player": "https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee7992271f393d2d9f709c.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1\r",
+    "tipo": "1"
+  },
+  "TV Aparecida | Brasil": {
+    "capa": "https://i.imgur.com/NJCEHbQ.png",
+    "nome": "TV Aparecida | Brasil",
+    "player": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Brasil Web": {
+    "capa": "https://i.imgur.com/faZEzAh.png",
+    "nome": "TV Brasil Web",
+    "player": "https://tvbrasil-stream.ebc.com.br/index.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Brasil | RBA TV | Rio do Sul | SC": {
+    "capa": "https://i.imgur.com/ewJjke2.jpg",
+    "nome": "TV Brasil | RBA TV | Rio do Sul | SC",
+    "player": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Brasil | TV UFG": {
+    "capa": "https://i.imgur.com/f72hUD9.png",
+    "nome": "TV Brasil | TV UFG",
+    "player": "http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Brasil | TVE (RS)": {
+    "capa": "https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg",
+    "nome": "TV Brasil | TVE (RS)",
+    "player": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Brasil | TVE Bahia": {
+    "capa": "https://i.imgur.com/ewJjke2.jpg",
+    "nome": "TV Brasil | TVE Bahia",
+    "player": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Cultura | Catve | PR": {
+    "capa": "https://i.imgur.com/r18rHyH.png",
+    "nome": "TV Cultura | Catve | PR",
+    "player": "https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Cultura | São Paulo": {
+    "capa": "https://i.imgur.com/zmheeSl.png",
+    "nome": "TV Cultura | São Paulo",
+    "player": "https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Cultura | TV Futuro | RN": {
+    "capa": "https://i.imgur.com/zmheeSl.png",
+    "nome": "TV Cultura | TV Futuro | RN",
+    "player": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Cultura | TV Guará | MA": {
+    "capa": "https://i.imgur.com/zmheeSl.png",
+    "nome": "TV Cultura | TV Guará | MA",
+    "player": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Cultura | episódios | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png",
+    "nome": "TV Cultura | episódios | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "TV Escola | Brasil": {
+    "capa": "https://i.imgur.com/77Vszxq.png",
+    "nome": "TV Escola | Brasil",
+    "player": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Fátima | Portugal": {
+    "capa": "https://i.imgur.com/hCFVc5S.jpg",
+    "nome": "TV Fátima | Portugal",
+    "player": "https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Gazeta | Brasil": {
+    "capa": "https://i.imgur.com/lAXbfuU.png",
+    "nome": "TV Gazeta | Brasil",
+    "player": "https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Gideões | Brasil": {
+    "capa": "https://i.imgur.com/LNtEEZK.png",
+    "nome": "TV Gideões | Brasil",
+    "player": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Maná | Brasil": {
+    "capa": "https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png",
+    "nome": "TV Maná | Brasil",
+    "player": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Mão Amiga | Brasil": {
+    "capa": "https://i.imgur.com/OYtftmG.png",
+    "nome": "TV Mão Amiga | Brasil",
+    "player": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Paraná Turismo | Brasil": {
+    "capa": "https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj",
+    "nome": "TV Paraná Turismo | Brasil",
+    "player": "http://200.189.113.201/hls/tve.m3u8\r",
+    "tipo": "1"
+  },
+  "TV União | Brasília | Brasil": {
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png",
+    "nome": "TV União | Brasília | Brasil",
+    "player": "https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8\r",
+    "tipo": "1"
+  },
+  "TV União | Fortaleza | Brasil": {
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png",
+    "nome": "TV União | Fortaleza | Brasil",
+    "player": "https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8\r",
+    "tipo": "1"
+  },
+  "TV União | Natal | Brasil": {
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png",
+    "nome": "TV União | Natal | Brasil",
+    "player": "https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8\r",
+    "tipo": "1"
+  },
+  "TV União | Rio Branco | Brasil": {
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png",
+    "nome": "TV União | Rio Branco | Brasil",
+    "player": "https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8\r",
+    "tipo": "1"
+  },
+  "TV Verdade | Brasil e Filipinas": {
+    "capa": "https://i.imgur.com/6UoUybZ.png",
+    "nome": "TV Verdade | Brasil e Filipinas",
+    "player": "https://acesso.ecast.site:3104/hybrid/play.m3u8\r",
+    "tipo": "1"
+  },
+  "TV ZYN - SBT | Brasil": {
+    "capa": "https://i.imgur.com/HwwQeLo.png",
+    "nome": "TV ZYN - SBT | Brasil",
+    "player": "https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-runtimelatam/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Tastemade | Pluto TV Brasil": {
+    "capa": "https://i.imgur.com/JnHVIgo.png",
+    "nome": "Tastemade | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "The Drew Barrymore Show | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/63eb9b26c111bc0008fea494/colorLogoPNG.png",
+    "nome": "The Drew Barrymore Show | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9b26c111bc0008fea494/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Turbo | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+    "nome": "Turbo | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Turbo | link 2": {
+    "capa": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+    "nome": "Turbo | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Turma da Mônica | Pluto TV BR link 2": {
+    "capa": "https://i.imgur.com/kJHRcfo.png",
+    "nome": "Turma da Mônica | Pluto TV BR link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Turma da Mônica | Pluto TV Brasil": {
+    "capa": "https://i.imgur.com/kJHRcfo.png",
+    "nome": "Turma da Mônica | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "UniTV Porto Alegre | Brasil": {
+    "capa": "https://i.imgur.com/GmA5uuk.png",
+    "nome": "UniTV Porto Alegre | Brasil",
+    "player": "http://unitvaovivo.ufrgs.br:8080/live.ogg\r",
+    "tipo": "1"
+  },
+  "Unique Sports | SC Brasil": {
+    "capa": "https://uniquetv.com.br/img/logo-uniquetv.png",
+    "nome": "Unique Sports | SC Brasil",
+    "player": "https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "Vida Real | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png",
+    "nome": "Vida Real | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "Vida Real | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png",
+    "nome": "Vida Real | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Vitrine Esporte": {
+    "capa": "https://i.imgur.com/zKi4iBj.png",
+    "nome": "Vitrine Esporte",
+    "player": "https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8\r",
+    "tipo": "1"
+  },
+  "Weather Spy | Brasil": {
+    "capa": "https://i.imgur.com/E9r23h4.png",
+    "nome": "Weather Spy | Brasil",
+    "player": "https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8\r",
+    "tipo": "1"
+  },
+  "World Poker Tour | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png",
+    "nome": "World Poker Tour | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "World Poker Tour | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png",
+    "nome": "World Poker Tour | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  },
+  "Your Pretty Face is Going to Hell | Adult Swim": {
+    "capa": "https://i.imgur.com/uLoRE4F.png",
+    "nome": "Your Pretty Face is Going to Hell | Adult Swim",
+    "player": "https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8\r",
+    "tipo": "1"
+  },
+  "iCarly | Pluto TV Brasil": {
+    "capa": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+    "nome": "iCarly | Pluto TV Brasil",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown\r",
+    "tipo": "1"
+  },
+  "iCarly | Pluto TV Brasil | link 2": {
+    "capa": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+    "nome": "iCarly | Pluto TV Brasil | link 2",
+    "player": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1\r",
+    "tipo": "1"
+  }
+}
