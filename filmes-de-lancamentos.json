@@ -1,7 +1,7 @@
 [
   {
     "nome": "+ Velozes + Furiosos mod",
-    "categoria": "AÃÂ§ÃÂ£o",
+    "categoria": "AÃÂÃÂ§ÃÂÃÂ£o",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg",
     "player": "https://streamtape.com/v/2O6ZlGOwbOTZDMp/%2B_Velozes_%2B_Furiosos"
@@ -12,5 +12,12 @@
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg",
     "player": "https://streamtape.com/v/2O6ZlGOwbOTZDMp/%2B_Velozes_%2B_Furiosos"
+  },
+  {
+    "nome": "Um Sonho de Liberdade",
+    "categoria": "test",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500//umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+    "player": "URL manualofff"
   }
 ]
