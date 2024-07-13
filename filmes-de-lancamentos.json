@@ -1,7 +1,14 @@
 [
   {
     "nome": "+ Velozes + Furiosos 2",
-    "categoria": "Ação",
+    "categoria": "AÃ§Ã£o",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg",
+    "player": "https://streamtape.com/v/2O6ZlGOwbOTZDMp/%2B_Velozes_%2B_Furiosos"
+  },
+  {
+    "nome": "+ Velozes + Furiosos 3",
+    "categoria": "ART",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg",
     "player": "https://streamtape.com/v/2O6ZlGOwbOTZDMp/%2B_Velozes_%2B_Furiosos"
