@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "nome": "Um Sonho de Liberdade",
+    "categoria": "as",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500//umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+    "player": "URL manual",
+    "tmdbId": "278"
+  }
+]
