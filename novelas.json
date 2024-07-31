@@ -1,8 +1,9 @@
 [
   {
-  "nome": "Nome da Série",
-  "id": "12345",
-  "totaleps": 230,
+  "nome": "a dona do pedaco",
+  "capa": "https://image.tmdb.org/t/p/w500/4I7zrtDSbjuaxeIz9dNCsKgsZA.jpg"
+  "id": "90234",
+  "totaleps": 50,
   "players": {
     "1": "https://streamtape.com/v/KWyvKra9ydC0XeL/a-mais-pura-verdade-1x1-dublado-www.encontrei.tv",
     "2": "https://streamtape.com/v/wPJZ2zwzrWfJykj/a-mais-pura-verdade-1x2-dublado-www.encontrei.tv",
