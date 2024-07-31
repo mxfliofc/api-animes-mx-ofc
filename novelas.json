@@ -19,5 +19,16 @@
       "2": "ia.com"
     },
     "categoria": "brasileiras"
+  },
+  {
+    "nome": "Breaking Bad: A Quimica do Mal",
+    "id": "1396",
+    "totaleps": "1",
+    "capa": "https://image.tmdb.org/t/p/w500/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg",
+    "players": {
+      "1": "oi.net",
+      "2": "ia.com"
+    },
+    "categoria": "turcas"
   }
 ]
