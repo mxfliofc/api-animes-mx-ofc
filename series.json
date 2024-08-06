@@ -8,7 +8,7 @@
     "categoria": "Acao",
     "idade": "14",
     "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg"
-},
+  },
   {
     "nome": "A MÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o do Eurico",
     "id": "239465",
@@ -1278,5 +1278,15 @@
     "categoria": "Fic��o cientifica",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/xw7GkWtmPQDU8qzfKshFEN038sj.jpg"
+  },
+  {
+    "nome": "test series",
+    "id": "94997",
+    "temporada": "1",
+    "totaleps": "5",
+    "players": "{   \"1\": \"https://wishonly.site/pka0kxrr2l67\",   \"2\": \"https://wishonly.site/7548f4wmwiea\",   \"3\": \"https://wishonly.site/nzn95snnkhlu\",   \"4\": \"https://wishonly.site/13dfzok58hhu\",   \"5\": \"https://wishonly.site/50bf2hbuu9dc\" }",
+    "categoria": "Cinema",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
   }
 ]
