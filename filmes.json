@@ -1,10 +1,9 @@
 [
   {
-    "capa": "https://image.tmdb.org/t/p/w500/fbytkyUibUnksjBEpIwcMxQJTfJ.jpg",
-    "categoria": "AÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
-    "id": "707",
-    "idade": "16",
     "nome": "007 Na Mira dos Assassinos",
+    "categoria": "Acao",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/fbytkyUibUnksjBEpIwcMxQJTfJ.jpg",
     "player": "https://streamtape.com/v/vQRGKWg3ebFBwo/007-na-mira-dos-assassinos-dublado-www.encontrei.tv"
   },
   {
@@ -166,6 +165,14 @@
     "idade": "14",
     "nome": "A EspiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ Que Sabia de Menos",
     "player": "https://streamtape.net/e/8q8VqDYd9AUokjA/A_Espi%C3%A3_Que_Sabia_de_Menos"
+  },
+  {
+    "capa": "https://image.tmdb.org/t/p/w500/noanwChjqswpEz5FTaqdbztfSsB.jpg",
+    "categoria": "Aventura",
+    "id": "252",
+    "idade": "10",
+    "nome": "A FantÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡stica FÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡brica de Chocolate 1",
+    "player": "https://streamtape.net/e/Ywx1y078bkFvW4L/A_Fant%C3%A1stica_F%C3%A1brica_de_Chocolate_1"
   },
   {
     "capa": "https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg",
