@@ -1280,9 +1280,9 @@
     "capa": "https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
   },
   {
-    "nome": "  test  Pride",
     "id": "1",
-    "temporada": "1",
+    "nome": "  test  Pride",
+    "temporada": "2",
     "totaleps": "5",
     "players": "null",
     "categoria": "Animacao",
