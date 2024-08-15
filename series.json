@@ -1278,15 +1278,5 @@
     "categoria": "Cinema",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
-  },
-  {
-    "id": "1",
-    "nome": "  test  Pride",
-    "temporada": "2",
-    "totaleps": "5",
-    "players": "null",
-    "categoria": "Animacao",
-    "idade": "Livre",
-    "capa": "https://image.tmdb.org/t/p/w500/9Ub2BwnLYKoiSaQF93ItyXriCon.jpg"
   }
 ]
