@@ -6,5 +6,13 @@
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/5u2vr0Hg70LxkpnJh723IdhHNnJ.jpg",
     "player": "testt21"
+  },
+  {
+    "id": "sd",
+    "nome": "d",
+    "categoria": "Animacao",
+    "idade": "12",
+    "capa": "ddd",
+    "player": "dfc"
   }
 ]
