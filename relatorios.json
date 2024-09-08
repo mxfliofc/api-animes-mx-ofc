@@ -1,1 +1,17 @@
-[{"nome": "Jo\u00e3o", "categoria": "Eletr\u00f4nicos", "descricao": "Compra de um laptop"}, {"nome": "ROMEU_2006", "categoria": "QUALIDADE RUIM", "descricao": "DESC HAHAH"}, {"nome": "ROMEU_2006", "categoria": "QUALIDADE RUIM", "descricao": "DESC HAHAH"}, {"nome": "Descendentes: A Ascens\u00c3\u00a3o de Copas_ID_974262", "categoria": "Qualidade ruim ", "descricao": "desc"}]
+[
+  {
+    "nome": "ROMEU_2006",
+    "categoria": "QUALIDADE RUIM",
+    "descricao": "DESC HAHAH"
+  },
+  {
+    "nome": "ROMEU_2006",
+    "categoria": "QUALIDADE RUIM",
+    "descricao": "DESC HAHAH"
+  },
+  {
+    "nome": "Descendentes: A Ascensão de Copas_ID_974262",
+    "categoria": "Qualidade ruim ",
+    "descricao": "desc"
+  }
+]
