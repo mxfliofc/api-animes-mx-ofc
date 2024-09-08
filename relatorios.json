@@ -1,1 +1,7 @@
-[{"nome": "Jo\u00e3o", "categoria": "Eletr\u00f4nicos", "descricao": "Compra de um laptop"}, {"nome": "Jo\u00e3o", "categoria": "Eletr\u00f4nicos", "descricao": "Compra de um laptop agora"}]
+[
+  {
+    "nome": "João",
+    "categoria": "Eletrônicos",
+    "descricao": "Compra de um laptop agora"
+  }
+]
