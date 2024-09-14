@@ -1328,5 +1328,15 @@
     "categoria": "Ficcao cientifica",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/6vbxUh6LWHGhfuPI7GrimQaXNsQ.jpg"
+  },
+  {
+    "nome": "Battlestar Galactica 2004",
+    "id": "1972",
+    "temporada": "1",
+    "totaleps": "13",
+    "players": "{     \"1\": \"https://filemoon.wf/e/b2it4op8x2sq/1x1\",     \"2\": \"https://filemoon.wf/e/0utfcl0bzuuf/1x2\",     \"3\": \"https://filemoon.wf/e/8kjnqm2cbztc/1x3\",     \"4\": \"https://filemoon.wf/e/jcft2ihhpsyh/1x4\",     \"5\": \"https://filemoon.wf/e/214sscbll0k9/1x5\",     \"6\": \"https://filemoon.wf/e/0zidirfmq2vw/1x6\",     \"7\": \"https://filemoon.wf/e/eyqwv8c54qgf/1x7\",     \"8\": \"https://filemoon.wf/e/x44ohcfrzxcl/1x8\",     \"9\": \"https://filemoon.wf/e/f3x77szjjaff/1x9\",     \"10\": \"https://filemoon.wf/e/ndne346mkyh2/1x10\",     \"11\": \"https://filemoon.wf/e/1xmvd1vc4dmo/1x11\",     \"12\": \"https://filemoon.wf/e/jbzdhe4g1fsc/1x12\",     \"13\": \"https://filemoon.wf/e/olivj9rscu7u/1x13\" }",
+    "categoria": "Ficcao cientifica",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg"
   }
 ]
