@@ -1318,5 +1318,15 @@
     "categoria": "Ficcao cientifica",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/6vbxUh6LWHGhfuPI7GrimQaXNsQ.jpg"
+  },
+  {
+    "nome": "Batman e Robin",
+    "id": "2287",
+    "temporada": "3",
+    "totaleps": "26",
+    "players": "{     \"1\": \"https://filemoon.wf/e/xdwn0sglox6p/3x1\",     \"2\": \"https://filemoon.wf/e/0w4vw3bxgjoe/3x2\",     \"3\": \"https://filemoon.wf/e/bed7qsyhjycu/3x3\",     \"4\": \"https://filemoon.wf/e/kzojdzf68iub/3x4\",     \"5\": \"https://filemoon.wf/e/lvadede9pu5k/3x5\",     \"6\": \"https://filemoon.wf/e/mkos1hhtuii9/3x6\",     \"7\": \"https://filemoon.wf/e/kj9pcl5684yi/3x7\",     \"8\": \"https://filemoon.wf/e/hm668jngddr8/3x8\",     \"9\": \"https://filemoon.wf/e/xck2d377keau/3x9\",     \"10\": \"https://filemoon.wf/e/l5o57gt5ccb8/3x10\",     \"11\": \"https://filemoon.wf/e/z7vgjc5383z9/3x11\",     \"12\": \"https://filemoon.wf/e/38dg8x3omnmu/3x12\",     \"13\": \"https://filemoon.wf/e/g3u6lx4szlx1/3x13\",     \"14\": \"https://filemoon.wf/e/9ztcjy0qvmbj/3x14\",     \"15\": \"https://filemoon.wf/e/w9syxdp8vszs/3x15\",     \"16\": \"https://filemoon.wf/e/wjasqfne74lh/3x16\",     \"17\": \"https://filemoon.wf/e/76ag58qujblz/3x17\",     \"18\": \"https://filemoon.wf/e/j9ihj2x2km8m/3x18\",     \"19\": \"https://filemoon.wf/e/z4z6sgf6z1mn/3x19\",     \"20\": \"https://filemoon.wf/e/ns57gkt03y1g/3x20\",     \"21\": \"https://filemoon.wf/e/xm1pzeuqbstd/3x21\",     \"22\": \"https://filemoon.wf/e/fp0yvyk7jpj2/3x22\",     \"23\": \"https://filemoon.wf/e/g1419uuym0az/3x23\",     \"24\": \"https://filemoon.wf/e/wl3yhx6vgh2q/3x24\",     \"25\": \"https://filemoon.wf/e/igzhacmae56y/3x25\",     \"26\": \"https://filemoon.wf/e/gs7ekery42f2/3x26\" }",
+    "categoria": "Ficcao cientifica",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/6vbxUh6LWHGhfuPI7GrimQaXNsQ.jpg"
   }
 ]
