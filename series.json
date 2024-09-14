@@ -1338,5 +1338,15 @@
     "categoria": "Ficcao cientifica",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg"
+  },
+  {
+    "nome": "Battlestar Galactica 2004",
+    "id": "1972",
+    "temporada": "2",
+    "totaleps": "20",
+    "players": "{     \"1\": \"https://filemoon.wf/e/3h5nibgcgq78/2x1\",     \"2\": \"https://filemoon.wf/e/qxiqxh2tr8tx/2x2\",     \"3\": \"https://filemoon.wf/e/fm5m0pgs66db/2x3\",     \"4\": \"https://filemoon.wf/e/n53t06tl6hzj/2x4\",     \"5\": \"https://filemoon.wf/e/t6g1853vf9c6/2x5\",     \"6\": \"https://filemoon.wf/e/2lazc1z7qa81/2x6\",     \"7\": \"https://filemoon.wf/e/vikdngwdzd3k/2x7\",     \"8\": \"https://filemoon.wf/e/dj95jx75h3ra/2x8\",     \"9\": \"https://filemoon.wf/e/5rto13rc912b/2x9\",     \"10\": \"https://filemoon.wf/e/a5u4i33p509v/2x10\",     \"11\": \"https://filemoon.wf/e/v509w2mvk8qf/2x11\",     \"12\": \"https://filemoon.wf/e/ylqjjyke5425/2x12\",     \"13\": \"https://filemoon.wf/e/hmb19ofsioov/2x13\",     \"14\": \"https://filemoon.wf/e/q12vhg470g2b/2x14\",     \"15\": \"https://filemoon.wf/e/bqmj6qlj4815/2x15\",     \"16\": \"https://filemoon.wf/e/beyo4tqspj6c/2x16\",     \"17\": \"https://filemoon.wf/e/akmdhtwp0ajt/2x17\",     \"18\": \"https://filemoon.wf/e/vufrs5aehc2i/2x18\",     \"19\": \"https://filemoon.wf/e/to5tgv2leivl/2x19\",     \"20\": \"https://filemoon.wf/e/uaxhnvmnds03/2x20\",     \"21\": \"https://filemoon.wf/e/0acr4gkqluon/2x20\" }",
+    "categoria": "Ficcao cientifica",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg"
   }
 ]
