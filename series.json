@@ -8,5 +8,15 @@
     "categoria": "Dorama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/hxdLE2LMTkF6oEyF6KA8jonDCK3.jpg"
+  },
+  {
+    "nome": "test_Breaking Bad: A Química do Mal",
+    "id": "1396",
+    "temporada": "1",
+    "serv": "1",
+    "players": "145256",
+    "categoria": "Cinema",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg"
   }
 ]
