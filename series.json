@@ -8,5 +8,15 @@
     "categoria": "Cinema",
     "idade": "Livre",
     "capa": "capa.com"
+  },
+  {
+    "nome": "Objeto 1",
+    "id": "",
+    "temporada": "1",
+    "serv": "5",
+    "players": "null",
+    "categoria": "Cinema",
+    "idade": "Livre",
+    "capa": "capa.com"
   }
 ]
