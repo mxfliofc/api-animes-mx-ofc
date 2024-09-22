@@ -142,5 +142,14 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/3fn6Jearv8UcJkaguHJ22MOaZUy.jpg"
+  },
+  {
+    "nome": "Ultimate Homem-Aranha",
+    "id": "34391",
+    "serv": "1",
+    "players": "209796",
+    "categoria": "Aventura",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/aoZxQsP5qbWYM5ziXDK5bNpuhyi.jpg"
   }
 ]
