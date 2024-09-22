@@ -151,5 +151,14 @@
     "categoria": "Aventura",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/aoZxQsP5qbWYM5ziXDK5bNpuhyi.jpg"
+  },
+  {
+    "nome": "Ashley Garcia: A de Amor",
+    "id": "99517",
+    "serv": "1",
+    "players": "209705",
+    "categoria": "Comedia",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/ekoY0lniQPaeK7ejgcjDnirML6B.jpg"
   }
 ]
