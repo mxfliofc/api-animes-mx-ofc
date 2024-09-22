@@ -43,5 +43,14 @@
     "categoria": "Animacao",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/tZ3oKqwaeX2v9j6hSNhX4vPjP4c.jpg"
+  },
+  {
+    "nome": "Boy For Rent",
+    "id": "89381",
+    "serv": "1",
+    "players": "209478",
+    "categoria": "Comedia",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/gYlWu7ZxnVlpQaw0bUA0xj0AQkl.jpg"
   }
 ]
