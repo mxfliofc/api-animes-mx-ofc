@@ -124,5 +124,14 @@
     "categoria": "Comedia",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/2PSVoTWWqJpUEkKcYsUwT1Yc0OV.jpg"
+  },
+  {
+    "nome": "Treadstone",
+    "id": "83949",
+    "serv": "1",
+    "players": "209686",
+    "categoria": "Acao",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/tzoxJjPSgsPCepWgpl4LWjCKise.jpg"
   }
 ]
