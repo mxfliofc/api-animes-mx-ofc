@@ -1,6 +1,6 @@
 [
   {
-    "nome": "Ao Sul do Coração",
+    "nome": "Ao Sul do CoraÃ§Ã£o",
     "id": "252118",
     "serv": "1",
     "players": "209391",
@@ -54,12 +54,21 @@
     "capa": "https://image.tmdb.org/t/p/w500/gYlWu7ZxnVlpQaw0bUA0xj0AQkl.jpg"
   },
   {
-    "nome": "Flesh and Blood: Um Crime na Vizinhan�a",
+    "nome": "Flesh and Blood: Um Crime na Vizinhança",
     "id": "31035",
     "serv": "1",
     "players": "209622",
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/dhE6SvLTVkrEIS49Zppp8qAfP9i.jpg"
+  },
+  {
+    "nome": "Franklin & Bash",
+    "id": "33301",
+    "serv": "1",
+    "players": "209645",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/so3xbOsAcG5lkxgfRjHbTFkXxM0.jpg"
   }
 ]
