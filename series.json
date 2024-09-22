@@ -97,5 +97,14 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/gsegitK9AnY1Lrgc7xsQuZvktIc.jpg"
+  },
+  {
+    "nome": "Pesca Implacável",
+    "id": "82498",
+    "serv": "1",
+    "players": "209694",
+    "categoria": "Documentario",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/f05CT7h9xoGTRC5ixFT3KmmB0Sp.jpg"
   }
 ]
