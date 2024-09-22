@@ -1,6 +1,6 @@
 [
   {
-    "nome": "Ao Sul do CoraÃ§Ã£o",
+    "nome": "Ao Sul do CoraÃƒÂ§ÃƒÂ£o",
     "id": "252118",
     "serv": "1",
     "players": "209391",
@@ -54,7 +54,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/gYlWu7ZxnVlpQaw0bUA0xj0AQkl.jpg"
   },
   {
-    "nome": "Flesh and Blood: Um Crime na Vizinhança",
+    "nome": "Flesh and Blood: Um Crime na VizinhanÃ§a",
     "id": "31035",
     "serv": "1",
     "players": "209622",
@@ -72,12 +72,21 @@
     "capa": "https://image.tmdb.org/t/p/w500/so3xbOsAcG5lkxgfRjHbTFkXxM0.jpg"
   },
   {
-    "nome": "G�nio Diab�lico",
+    "nome": "Gênio Diabólico",
     "id": "79126",
     "serv": "1",
     "players": "209704",
     "categoria": "Documentario",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/ozMw3yXM3AFkydMFwurKGx5ch21.jpg"
+  },
+  {
+    "nome": "Nobel - Peace at Any Cost",
+    "id": "67894",
+    "serv": "1",
+    "players": "209684",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/omr7oxw3FTP1KrAOsqLh6FZp4sF.jpg"
   }
 ]
