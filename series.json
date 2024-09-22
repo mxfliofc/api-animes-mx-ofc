@@ -70,5 +70,14 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/so3xbOsAcG5lkxgfRjHbTFkXxM0.jpg"
+  },
+  {
+    "nome": "Gênio Diabólico",
+    "id": "79126",
+    "serv": "1",
+    "players": "209704",
+    "categoria": "Documentario",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/ozMw3yXM3AFkydMFwurKGx5ch21.jpg"
   }
 ]
