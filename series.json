@@ -16,5 +16,14 @@
     "categoria": "Ficcao cientifica",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/6vbxUh6LWHGhfuPI7GrimQaXNsQ.jpg"
+  },
+  {
+    "nome": "Battlestar Galactica",
+    "id": "1972",
+    "serv": "1",
+    "players": "209693",
+    "categoria": "Ficcao cientifica",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg"
   }
 ]
