@@ -88,5 +88,14 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/omr7oxw3FTP1KrAOsqLh6FZp4sF.jpg"
+  },
+  {
+    "nome": "A Magia das Sereias",
+    "id": "231725",
+    "serv": "1",
+    "players": "209477",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/gsegitK9AnY1Lrgc7xsQuZvktIc.jpg"
   }
 ]
