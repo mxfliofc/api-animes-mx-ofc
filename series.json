@@ -34,5 +34,14 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/uQI5At2xT1mv0Go0tz35TyGNJ6Q.jpg"
+  },
+  {
+    "nome": "Beck",
+    "id": "43288",
+    "serv": "1",
+    "players": "209691",
+    "categoria": "Animacao",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/tZ3oKqwaeX2v9j6hSNhX4vPjP4c.jpg"
   }
 ]
