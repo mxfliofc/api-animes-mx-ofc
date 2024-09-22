@@ -133,5 +133,14 @@
     "categoria": "Acao",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/tzoxJjPSgsPCepWgpl4LWjCKise.jpg"
+  },
+  {
+    "nome": "Trigger - Gatilho Mental",
+    "id": "99671",
+    "serv": "1",
+    "players": "209687",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/3fn6Jearv8UcJkaguHJ22MOaZUy.jpg"
   }
 ]
