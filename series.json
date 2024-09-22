@@ -1,11 +1,20 @@
 [
   {
-    "nome": "Ao Sul do Coração",
+    "nome": "Ao Sul do CoraÃ§Ã£o",
     "id": "252118",
     "serv": "1",
     "players": "209391",
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/iYrqkj9Oya1vpVuJJVV8xr18ycN.jpg"
+  },
+  {
+    "nome": "Batman e Robin",
+    "id": "2287",
+    "serv": "1",
+    "players": "209695",
+    "categoria": "Ficcao cientifica",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/6vbxUh6LWHGhfuPI7GrimQaXNsQ.jpg"
   }
 ]
