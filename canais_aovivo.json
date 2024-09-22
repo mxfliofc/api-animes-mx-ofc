@@ -82,5 +82,9 @@
   {
     "img": "https://portalnacional.com.pt/images/icons/tv/SPTV4.png",
     "url": "https://reidoscanais.me/embed/?id=sporttvpt4"
+  },
+  {
+    "img": "https://beec.com.br/uploads/tv_image/sm/sport-tv-5.png",
+    "url": "https://reidoscanais.me/embed/?id=sporttvpt5"
   }
 ]
