@@ -115,5 +115,14 @@
     "categoria": "Comedia",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/btVvUqEC081tqS2fE7AJ06i8lWg.jpg"
+  },
+  {
+    "nome": "Gilmore Girls",
+    "id": "4586",
+    "serv": "1",
+    "players": "209706",
+    "categoria": "Comedia",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/2PSVoTWWqJpUEkKcYsUwT1Yc0OV.jpg"
   }
 ]
