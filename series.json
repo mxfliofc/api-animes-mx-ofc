@@ -304,5 +304,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/4p2MVh0bSaweWwaBV9aFG4t7hww.jpg"
+  },
+  {
+    "nome": "Ted  A Serie",
+    "id": "201834",
+    "serv": "1",
+    "players": "210359",
+    "categoria": "Comedia",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg"
   }
 ]
