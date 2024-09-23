@@ -376,5 +376,14 @@
     "categoria": "Familia",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/s7idyoMLHLsI65xXj1ApBwedTmm.jpg"
+  },
+  {
+    "nome": "Minha Vida de Ouro",
+    "id": "72707",
+    "serv": "1",
+    "players": "210375",
+    "categoria": "Dorama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/dxseoIiZ2HiGJb7LOAg9Uh78qO5.jpg"
   }
 ]
