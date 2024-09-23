@@ -160,5 +160,14 @@
     "categoria": "Comedia",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/ekoY0lniQPaeK7ejgcjDnirML6B.jpg"
+  },
+  {
+    "nome": "Duas Semanas",
+    "id": "53095",
+    "serv": "1",
+    "players": "210371",
+    "categoria": "Acao",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/2Lsk8XAAoHtPGfbDE4YG5jhCwnT.jpg"
   }
 ]
