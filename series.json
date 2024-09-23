@@ -385,5 +385,14 @@
     "categoria": "Dorama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/dxseoIiZ2HiGJb7LOAg9Uh78qO5.jpg"
+  },
+  {
+    "nome": "Amor Entre Linguas",
+    "id": "242317",
+    "serv": "1",
+    "players": "210376",
+    "categoria": "TV",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/p3MxuRU3yZbEHJrhu5F0h5BpFJF.jpg"
   }
 ]
