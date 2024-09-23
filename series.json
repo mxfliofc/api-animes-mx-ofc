@@ -547,5 +547,14 @@
     "categoria": "Aventura",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/3GDJdcTflTEvXhVrVO77FaeNesc.jpg"
+  },
+  {
+    "nome": "Otros pecados",
+    "id": "88983",
+    "serv": "1",
+    "players": "210131",
+    "categoria": "Misterio",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/naiHzPsjNjhZPHeabEgeQMwirUG.jpg"
   }
 ]
