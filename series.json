@@ -178,5 +178,14 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/4rrRbG56DK2daha5xiYZhQ1XBS4.jpg"
+  },
+  {
+    "nome": "Bibi e Tina",
+    "id": "100918",
+    "serv": "1",
+    "players": "209800",
+    "categoria": "Familia",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/7yZUFGRA7e4a5rdoz3gWsJRbLpy.jpg"
   }
 ]
