@@ -421,5 +421,14 @@
     "categoria": "Comedia",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/A90x0Jf8VxkQzfHTnpLUsdkOgOi.jpg"
+  },
+  {
+    "nome": "Bad Monkey",
+    "id": "130853",
+    "serv": "1",
+    "players": "210380",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/sDbpr5VoxlcQvzvWFECr7bXCAwg.jpg"
   }
 ]
