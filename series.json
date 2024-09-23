@@ -223,5 +223,14 @@
     "categoria": "Drama",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/8gFUibKNCHkqqSltuHUp229TQ1b.jpg"
+  },
+  {
+    "nome": "Um Maluco no Pedaco",
+    "id": "1892",
+    "serv": "1",
+    "players": "209882",
+    "categoria": "Comedia",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"
   }
 ]
