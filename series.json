@@ -268,5 +268,14 @@
     "categoria": "Crime",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/9XUr6YLnXRkFU2J25fR0zauzsrI.jpg"
+  },
+  {
+    "nome": "A Fragilidade dos Corpos",
+    "id": "72651",
+    "serv": "1",
+    "players": "null",
+    "categoria": "Misterio",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/eNVWobMYwdTBf6gVqOW3tv7mCT3.jpg"
   }
 ]
