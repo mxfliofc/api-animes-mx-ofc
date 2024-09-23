@@ -250,5 +250,14 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/zDBOwVgCNuWibAKp7XpmvehFKwW.jpg"
+  },
+  {
+    "nome": "Sua Parte do Trato",
+    "id": "95409",
+    "serv": "1",
+    "players": "210114",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/5g1HH3uu3GLeT8UrO1IN8ATaZe1.jpg"
   }
 ]
