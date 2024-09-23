@@ -205,5 +205,14 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/og51R7e0iqF9h0Hqu7WoHJyRkTr.jpg"
+  },
+  {
+    "nome": "True Jackson",
+    "id": "7714",
+    "serv": "1",
+    "players": "null",
+    "categoria": "Comedia",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/fDuoIlEnpFei6ZTO9n4JyCVsyYN.jpg"
   }
 ]
