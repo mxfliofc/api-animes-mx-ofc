@@ -187,5 +187,14 @@
     "categoria": "Familia",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/7yZUFGRA7e4a5rdoz3gWsJRbLpy.jpg"
+  },
+  {
+    "nome": "Call Your Mother",
+    "id": "111260",
+    "serv": "1",
+    "players": "209802",
+    "categoria": "Comedia",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/xdtYChabx06Skimt3tIeMvmQgNK.jpg"
   }
 ]
