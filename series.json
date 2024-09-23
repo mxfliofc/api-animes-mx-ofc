@@ -394,5 +394,14 @@
     "categoria": "TV",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/p3MxuRU3yZbEHJrhu5F0h5BpFJF.jpg"
+  },
+  {
+    "nome": "O Caminho do Destino",
+    "id": "98104",
+    "serv": "1",
+    "players": "210377",
+    "categoria": "Dorama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/dFkfro3lVb1lm8hDRncSGNvT2Zq.jpg"
   }
 ]
