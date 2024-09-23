@@ -232,5 +232,14 @@
     "categoria": "Comedia",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"
+  },
+  {
+    "nome": "Xena A Princesa Guerreira",
+    "id": "4616",
+    "serv": "1",
+    "players": "209889",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/6xVr1Cz9trnwCbmBnFYCp89Men4.jpg"
   }
 ]
