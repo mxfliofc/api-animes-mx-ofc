@@ -448,5 +448,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/kaqOWx48JhxoZaf1PJ6WwIF4aHA.jpg"
+  },
+  {
+    "nome": "Big Nate",
+    "id": "153528",
+    "serv": "1",
+    "players": "210386",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/wPWbK8Vo0uwcBJRhcW25y5FObvh.jpg"
   }
 ]
