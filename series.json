@@ -484,5 +484,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/ey2BZaCaJllWy7BGAw6J4zNfPK4.jpg"
+  },
+  {
+    "nome": "Um Chefe e Um Bebe",
+    "id": "217806",
+    "serv": "1",
+    "players": "210394",
+    "categoria": "Dorama",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/gZWFoNQkZZF6fHIV3A8MBuiFIaf.jpg"
   }
 ]
