@@ -529,5 +529,14 @@
     "categoria": "Misterio",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/xgoQAgL3eFKCxrEJpHD0IVkv0W4.jpg"
+  },
+  {
+    "nome": "Minha fortuna e te amar",
+    "id": "137671",
+    "serv": "1",
+    "players": "210129",
+    "categoria": "Romance",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/K5yPMFqVf97LVrgDXF3pK35ou0.jpg"
   }
 ]
