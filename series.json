@@ -313,5 +313,14 @@
     "categoria": "Comedia",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg"
+  },
+  {
+    "nome": "The Umbrella Academy",
+    "id": "75006",
+    "serv": "1",
+    "players": "210362",
+    "categoria": "Acao",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg"
   }
 ]
