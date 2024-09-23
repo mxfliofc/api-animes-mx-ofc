@@ -565,5 +565,14 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/1qcv11hx35vnXcELgSjRG3iktbM.jpg"
+  },
+  {
+    "nome": "Cidades Assombradas",
+    "id": "74298",
+    "serv": "1",
+    "players": "210133",
+    "categoria": "TV",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/h49MzcQYawxGgze9UrvPllDgO2X.jpg"
   }
 ]
