@@ -511,5 +511,14 @@
     "categoria": "TV",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/iS8oxzP6GM59D4KmdvwjxSRAJQ4.jpg"
+  },
+  {
+    "nome": "Sr Young",
+    "id": "37731",
+    "serv": "1",
+    "players": "210127",
+    "categoria": "Comedia",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/b1K4xB1FoExSQiPC92Euosa1trz.jpg"
   }
 ]
