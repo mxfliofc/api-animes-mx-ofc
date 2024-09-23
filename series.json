@@ -358,5 +358,14 @@
     "categoria": "Animacao",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/cvemCfNkx64x2VkRN4VFGWLpNi4.jpg"
+  },
+  {
+    "nome": "Operacao Tyrant",
+    "id": "246748",
+    "serv": "1",
+    "players": "210373",
+    "categoria": "Acao",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/nsnHc9nQ9W1Iy9QvmGThmgYRNo.jpg"
   }
 ]
