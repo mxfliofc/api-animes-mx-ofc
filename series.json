@@ -538,5 +538,14 @@
     "categoria": "Romance",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/K5yPMFqVf97LVrgDXF3pK35ou0.jpg"
+  },
+  {
+    "nome": "Alex e Companhia",
+    "id": "65852",
+    "serv": "1",
+    "players": "210130",
+    "categoria": "Aventura",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/3GDJdcTflTEvXhVrVO77FaeNesc.jpg"
   }
 ]
