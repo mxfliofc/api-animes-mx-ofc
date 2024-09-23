@@ -196,5 +196,14 @@
     "categoria": "Comedia",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/xdtYChabx06Skimt3tIeMvmQgNK.jpg"
+  },
+  {
+    "nome": "Balthazar",
+    "id": "84234",
+    "serv": "1",
+    "players": "209803",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/og51R7e0iqF9h0Hqu7WoHJyRkTr.jpg"
   }
 ]
