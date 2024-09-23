@@ -367,5 +367,14 @@
     "categoria": "Acao",
     "idade": "18",
     "capa": "https://image.tmdb.org/t/p/w500/nsnHc9nQ9W1Iy9QvmGThmgYRNo.jpg"
+  },
+  {
+    "nome": "O Segredo de Feriha",
+    "id": "47711",
+    "serv": "1",
+    "players": "210374",
+    "categoria": "Familia",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/s7idyoMLHLsI65xXj1ApBwedTmm.jpg"
   }
 ]
