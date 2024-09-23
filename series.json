@@ -520,5 +520,14 @@
     "categoria": "Comedia",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/b1K4xB1FoExSQiPC92Euosa1trz.jpg"
+  },
+  {
+    "nome": "Historias de Terror",
+    "id": "33275",
+    "serv": "1",
+    "players": "210128",
+    "categoria": "Misterio",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/xgoQAgL3eFKCxrEJpHD0IVkv0W4.jpg"
   }
 ]
