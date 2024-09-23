@@ -439,5 +439,14 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/4WWdPyBI7EdpH873sV9voLdCFr9.jpg"
+  },
+  {
+    "nome": "A Little Thing Called First Love",
+    "id": "95100",
+    "serv": "1",
+    "players": "210385",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/kaqOWx48JhxoZaf1PJ6WwIF4aHA.jpg"
   }
 ]
