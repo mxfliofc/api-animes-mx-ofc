@@ -169,5 +169,14 @@
     "categoria": "Acao",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/2Lsk8XAAoHtPGfbDE4YG5jhCwnT.jpg"
+  },
+  {
+    "nome": "Terça do Terror",
+    "id": "258306",
+    "serv": "1",
+    "players": "210372",
+    "categoria": "Drama",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/4rrRbG56DK2daha5xiYZhQ1XBS4.jpg"
   }
 ]
