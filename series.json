@@ -502,5 +502,14 @@
     "categoria": "Dorama",
     "idade": "18",
     "capa": "https://image.tmdb.org/t/p/w500/x9nbRCyOD1WJK13rqrZPleJJoKp.jpg"
+  },
+  {
+    "nome": "De Ator a Cantor",
+    "id": "248123",
+    "serv": "1",
+    "players": "210126",
+    "categoria": "TV",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/iS8oxzP6GM59D4KmdvwjxSRAJQ4.jpg"
   }
 ]
