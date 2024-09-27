@@ -1060,5 +1060,14 @@
     "categoria": "Dorama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/exFH07nu1IeeeeWGTZLX0MTXg24.jpg"
+  },
+  {
+    "nome": "Big",
+    "id": "43083",
+    "serv": "1",
+    "players": "213126",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/l5y2IxdqNgCouoqBwWy4dOVhIOf.jpg"
   }
 ]
