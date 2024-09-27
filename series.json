@@ -844,5 +844,14 @@
     "categoria": "Thriller",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/tIYktvRtyPiOtxKiWDfOuckTbNS.jpg"
+  },
+  {
+    "nome": "Defensores da Terra",
+    "id": "1794",
+    "serv": "1",
+    "players": "213508",
+    "categoria": "Animacao",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/cuRklKSdUyQOSI9WR2BxAkRylAf.jpg"
   }
 ]
