@@ -628,5 +628,14 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/1e2JsdkIf2C4nKgbR6Lntxu5BOR.jpg"
+  },
+  {
+    "nome": "Erro",
+    "id": "Erro",
+    "serv": "1",
+    "players": "Erro2",
+    "categoria": "Cinema",
+    "idade": "Livre",
+    "capa": "capa"
   }
 ]
