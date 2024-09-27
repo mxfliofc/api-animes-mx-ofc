@@ -862,5 +862,14 @@
     "categoria": "Animacao",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/pZIu3iWaiCrm9gyMpNOLjukiv8l.jpg"
+  },
+  {
+    "nome": "Zeke e Luther",
+    "id": "17519",
+    "serv": "1",
+    "players": "213512",
+    "categoria": "Comedia",
+    "idade": "10",
+    "capa": "https://image.tmdb.org/t/p/w500/culTMW7FW1kDRp0jJVZA5aKWqCD.jpg"
   }
 ]
