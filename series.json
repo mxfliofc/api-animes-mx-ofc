@@ -988,5 +988,14 @@
     "categoria": "Crime",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/27lzViIwcOv3IjczmDlgfCbMzVO.jpg"
+  },
+  {
+    "nome": "Selenkay",
+    "id": "153577",
+    "serv": "1",
+    "players": "213558",
+    "categoria": "Ficcao cientifica",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/2oCXH9pDFfU7bpyxyusCjYIgeGO.jpg"
   }
 ]
