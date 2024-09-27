@@ -763,5 +763,14 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/ixY3Ulu26di9b3cDf9yrLhwsiYy.jpg"
+  },
+  {
+    "nome": "Do Seu Lado",
+    "id": "133396",
+    "serv": "1",
+    "players": "213247",
+    "categoria": "Novela",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/vI3ZJ6vXNHO4jBX9bvDA6SSbXr8.jpg"
   }
 ]
