@@ -925,5 +925,14 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/2VZOVNL2zAdbHSYIkY9534xAHOd.jpg"
+  },
+  {
+    "nome": "Amor Moderno Amsterda",
+    "id": "214663",
+    "serv": "1",
+    "players": "213542",
+    "categoria": "Romance",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/bRxWr1IwLEwjfIEdDJzwMhK5Zr2.jpg"
   }
 ]
