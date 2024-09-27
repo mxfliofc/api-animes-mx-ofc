@@ -952,5 +952,14 @@
     "categoria": "Misterio",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/jEsOoAjGf13pQU5JY3uidU4PEHA.jpg"
+  },
+  {
+    "nome": "Wyatt Earp and the Cowboy War",
+    "id": "259709",
+    "serv": "1",
+    "players": "213548",
+    "categoria": "Documentario",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/3J6MdyMKOb5bAEn0C6c3RtuqgT7.jpg"
   }
 ]
