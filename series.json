@@ -1078,5 +1078,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/4imAZWkDGkKUM5OYWnVXegtXi1L.jpg"
+  },
+  {
+    "nome": "Seu Tempo Maravilhoso",
+    "id": "263106",
+    "serv": "1",
+    "players": "213221",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/wKMX32MU2YmLuoPJyObAP5FI59v.jpg"
   }
 ]
