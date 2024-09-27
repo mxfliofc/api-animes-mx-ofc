@@ -898,5 +898,14 @@
     "categoria": "Animacao",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/rGlVo2wXmrHTiHQxAjBXDzsPtCf.jpg"
+  },
+  {
+    "nome": "Queenie",
+    "id": "226633",
+    "serv": "1",
+    "players": "213534",
+    "categoria": "Drama",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/50Sz8X7qRo6CQjnQ77vk40ZJyy5.jpg"
   }
 ]
