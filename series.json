@@ -1006,5 +1006,14 @@
     "categoria": "Comedia",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/jGI54TyocVBOAAfPmq8sytJGxeG.jpg"
+  },
+  {
+    "nome": "Pop Star Academy KATSEYE",
+    "id": "260264",
+    "serv": "1",
+    "players": "213564",
+    "categoria": "Documentario",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/eWPe0nRouV0JHgld0aMXgNbuOV8.jpg"
   }
 ]
