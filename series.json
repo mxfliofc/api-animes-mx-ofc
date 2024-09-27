@@ -601,5 +601,14 @@
     "categoria": "Documentario",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/2jiPMqcaMnE21tBADq4lzBHXOJ8.jpg"
+  },
+  {
+    "nome": "O Som e a Silaba",
+    "id": "214217",
+    "serv": "1",
+    "players": "213100",
+    "categoria": "Drama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/5INf0NZvMP8tI4i8jTLKZYF11aq.jpg"
   }
 ]
