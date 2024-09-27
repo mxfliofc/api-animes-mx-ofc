@@ -781,5 +781,14 @@
     "categoria": "Documentario",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/iYzkAGHHtyOmcay07swpGW9peMI.jpg"
+  },
+  {
+    "nome": "Voo IC 814 Sequestro a Bordo",
+    "id": "247829",
+    "serv": "1",
+    "players": "213263",
+    "categoria": "Thriller",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/nKPmQlQMMokp4WJHDMtqBoRhr2y.jpg"
   }
 ]
