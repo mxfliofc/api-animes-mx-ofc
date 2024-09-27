@@ -673,5 +673,14 @@
     "categoria": "Documentario",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/wNepz38uy5qXbosqM2iZC3o82VC.jpg"
+  },
+  {
+    "nome": "Cris Miro Ela",
+    "id": "256212",
+    "serv": "1",
+    "players": "213124",
+    "categoria": "Romance",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/n9PpsCKghxfVGuSF4FbZmDiByr3.jpg"
   }
 ]
