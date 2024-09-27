@@ -1213,5 +1213,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "capa"
+  },
+  {
+    "nome": "Fix You",
+    "id": "101906",
+    "serv": "1",
+    "players": "213516",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/mFdzrVxHe2Zzrvj4JjQwncEyHnO.jpg"
   }
 ]
