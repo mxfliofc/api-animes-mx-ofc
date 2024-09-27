@@ -700,5 +700,14 @@
     "categoria": "Romance",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/4OodlZVeOnydmMK0MTYsSLuHINq.jpg"
+  },
+  {
+    "nome": "Nada Acontece Duas Vezes",
+    "id": "126797",
+    "serv": "1",
+    "players": "213219",
+    "categoria": "Thriller",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/1cTmY3GTGDOJFKfHuUEjtU3XPRn.jpg"
   }
 ]
