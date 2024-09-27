@@ -574,5 +574,14 @@
     "categoria": "TV",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/h49MzcQYawxGgze9UrvPllDgO2X.jpg"
+  },
+  {
+    "nome": "Gecenin Kralicesi",
+    "id": "68348",
+    "serv": "1",
+    "players": "213132",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/nvTiX7fgIK9iA4Ul5NWcsmYq0Ac.jpg"
   }
 ]
