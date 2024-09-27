@@ -808,5 +808,14 @@
     "categoria": "Romance",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/wM1BxbNoTdZZOwHpyXdyrJymQns.jpg"
+  },
+  {
+    "nome": "Os Piores Ex",
+    "id": "259259",
+    "serv": "1",
+    "players": "213273",
+    "categoria": "Documentario",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/92QUDVsbIsgomngpBGg7ed68AE.jpg"
   }
 ]
