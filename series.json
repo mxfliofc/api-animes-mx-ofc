@@ -1096,5 +1096,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/8ymub6EZ0Ixx7GJ2BEfToY5YhTV.jpg"
+  },
+  {
+    "nome": "Silencioso",
+    "id": "210444",
+    "serv": "1",
+    "players": "213227",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/imwVhXhvejDnTMYsH9iHPLReitf.jpg"
   }
 ]
