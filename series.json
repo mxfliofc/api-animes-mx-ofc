@@ -772,5 +772,14 @@
     "categoria": "Novela",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/vI3ZJ6vXNHO4jBX9bvDA6SSbXr8.jpg"
+  },
+  {
+    "nome": "O Mal na sua Essencia A Historia de Hadden Clark",
+    "id": "261449",
+    "serv": "1",
+    "players": "213249",
+    "categoria": "Documentario",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/iYzkAGHHtyOmcay07swpGW9peMI.jpg"
   }
 ]
