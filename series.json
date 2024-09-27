@@ -1195,5 +1195,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/7OpDNXpe3AYoJXHp3FosYPLbFVD.jpg"
+  },
+  {
+    "nome": "Segredo",
+    "id": "57278",
+    "serv": "1",
+    "players": "213267",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/q7AfUdNep4HO811kjCVy71gIAxg.jpg"
   }
 ]
