@@ -1249,5 +1249,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/iyaemTFNmwFpAb6mTs7Z0qgtW4C.jpg"
+  },
+  {
+    "nome": "Rei Charly",
+    "id": "208533",
+    "serv": "1",
+    "players": "213532",
+    "categoria": "Comedia",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/zi8T0anV4L3OZOakrEjp0AjuVyl.jpg"
   }
 ]
