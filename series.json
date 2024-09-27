@@ -790,5 +790,14 @@
     "categoria": "Thriller",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/nKPmQlQMMokp4WJHDMtqBoRhr2y.jpg"
+  },
+  {
+    "nome": "Plan B",
+    "id": "212055",
+    "serv": "1",
+    "players": "213269",
+    "categoria": "Ficcao cientifica",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/jP81t2WwpQVLZ8dqPJSPvH0r79z.jpg"
   }
 ]
