@@ -637,5 +637,14 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/oKJ9dCgyvyX7xwa0M5wMNqOVPiv.jpg"
+  },
+  {
+    "nome": "LEGO Pixar BrickToons",
+    "id": "262153",
+    "serv": "1",
+    "players": "213111",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/yFswYZNprs9CgzkhaqPpBQuwGya.jpg"
   }
 ]
