@@ -736,5 +736,14 @@
     "categoria": "Documentario",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/enKrKSuW7Z813vTceMzWF1cUrSR.jpg"
+  },
+  {
+    "nome": "O Estranho Retorno de Diana Salazar",
+    "id": "252701",
+    "serv": "1",
+    "players": "213233",
+    "categoria": "Romance",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/wY5LO3EGZzLnCccSObdioK47Mxw.jpg"
   }
 ]
