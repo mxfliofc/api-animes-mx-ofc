@@ -745,5 +745,14 @@
     "categoria": "Romance",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/wY5LO3EGZzLnCccSObdioK47Mxw.jpg"
+  },
+  {
+    "nome": "O Casal Perfeito",
+    "id": "220564",
+    "serv": "1",
+    "players": "213235",
+    "categoria": "Thriller",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/vcuziD11Yeeo7o7ima8DHoPfVwW.jpg"
   }
 ]
