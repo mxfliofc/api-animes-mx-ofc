@@ -970,5 +970,14 @@
     "categoria": "Documentario",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/ap9uroogZbJitHaY2hTYfZdvH8d.jpg"
+  },
+  {
+    "nome": "O tunel",
+    "id": "56336",
+    "serv": "1",
+    "players": "213552",
+    "categoria": "Thriller",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/qpuGcfrFjvjsEHtuVjyTVQCWNzV.jpg"
   }
 ]
