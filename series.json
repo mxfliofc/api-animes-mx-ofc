@@ -1015,5 +1015,14 @@
     "categoria": "Documentario",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/eWPe0nRouV0JHgld0aMXgNbuOV8.jpg"
+  },
+  {
+    "nome": "O Assassino da Capa de Chuva Caca ao Serial Killer Coreano",
+    "id": "134902",
+    "serv": "1",
+    "players": "213566",
+    "categoria": "Documentario",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/7Hjvk8ZRL5vovRpPTwVxjbruSsq.jpg"
   }
 ]
