@@ -979,5 +979,14 @@
     "categoria": "Thriller",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/qpuGcfrFjvjsEHtuVjyTVQCWNzV.jpg"
+  },
+  {
+    "nome": "A Voz Ausente",
+    "id": "260877",
+    "serv": "1",
+    "players": "213556",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/27lzViIwcOv3IjczmDlgfCbMzVO.jpg"
   }
 ]
