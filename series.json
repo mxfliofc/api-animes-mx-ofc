@@ -871,5 +871,14 @@
     "categoria": "Comedia",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/culTMW7FW1kDRp0jJVZA5aKWqCD.jpg"
+  },
+  {
+    "nome": "Como Voce Nao Ha 2",
+    "id": "103967",
+    "serv": "1",
+    "players": "213518",
+    "categoria": "Romance",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/oSG8rO2y8bkNQ6lWI4qVVB12aiQ.jpg"
   }
 ]
