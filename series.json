@@ -943,5 +943,14 @@
     "categoria": "Acao",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/gH13WFXejNvwZg4KJEWkLPIkxNx.jpg"
+  },
+  {
+    "nome": "You Are Wanted",
+    "id": "70048",
+    "serv": "1",
+    "players": "213546",
+    "categoria": "Misterio",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/jEsOoAjGf13pQU5JY3uidU4PEHA.jpg"
   }
 ]
