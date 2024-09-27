@@ -880,5 +880,14 @@
     "categoria": "Romance",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/oSG8rO2y8bkNQ6lWI4qVVB12aiQ.jpg"
+  },
+  {
+    "nome": "Amor De Bairro",
+    "id": "63408",
+    "serv": "1",
+    "players": "213520",
+    "categoria": "Romance",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/zmBHDAxHcCubaSKCRuLKg8IDEiR.jpg"
   }
 ]
