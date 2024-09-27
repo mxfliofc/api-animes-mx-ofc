@@ -619,5 +619,14 @@
     "categoria": "Comedia",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/4spiEAaqaj91h2R5IGO7ASnU5k8.jpg"
+  },
+  {
+    "nome": "LEGO Star Wars Reconstruindo a Galaxia",
+    "id": "253760",
+    "serv": "1",
+    "players": "213107",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/1e2JsdkIf2C4nKgbR6Lntxu5BOR.jpg"
   }
 ]
