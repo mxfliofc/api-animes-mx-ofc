@@ -709,5 +709,14 @@
     "categoria": "Thriller",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/1cTmY3GTGDOJFKfHuUEjtU3XPRn.jpg"
+  },
+  {
+    "nome": "Os Kennedys Depois de Camelot",
+    "id": "70908",
+    "serv": "1",
+    "players": "213225",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/3Kmb5l5NPhvpJcHg1NypLnPYver.jpg"
   }
 ]
