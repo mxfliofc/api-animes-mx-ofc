@@ -889,5 +889,14 @@
     "categoria": "Romance",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/zmBHDAxHcCubaSKCRuLKg8IDEiR.jpg"
+  },
+  {
+    "nome": "Tartarugas Ninjas Historias Mutantes",
+    "id": "231394",
+    "serv": "1",
+    "players": "213528",
+    "categoria": "Animacao",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/rGlVo2wXmrHTiHQxAjBXDzsPtCf.jpg"
   }
 ]
