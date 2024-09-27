@@ -583,5 +583,14 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/nvTiX7fgIK9iA4Ul5NWcsmYq0Ac.jpg"
+  },
+  {
+    "nome": "Kalp Ats",
+    "id": "83028",
+    "serv": "1",
+    "players": "213128",
+    "categoria": "Novela",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/sjNvi0fOwjMlcKGukHmZB3zNnD.jpg"
   }
 ]
