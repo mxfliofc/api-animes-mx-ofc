@@ -1150,5 +1150,14 @@
     "categoria": "Dorama",
     "idade": "16",
     "capa": "capa"
+  },
+  {
+    "nome": "Amor Contra as Regras",
+    "id": "237101",
+    "serv": "1",
+    "players": "213255",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/wXoHWMvxWOzuFCY0m3MfQoRqeCv.jpg"
   }
 ]
