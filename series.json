@@ -826,5 +826,14 @@
     "categoria": "Aventura",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/e5RbECKKop0CnavnI5BAWfUZQhu.jpg"
+  },
+  {
+    "nome": "KAOS",
+    "id": "102621",
+    "serv": "1",
+    "players": "213279",
+    "categoria": "Ficcao cientifica",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg"
   }
 ]
