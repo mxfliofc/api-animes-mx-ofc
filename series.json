@@ -817,5 +817,14 @@
     "categoria": "Documentario",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/92QUDVsbIsgomngpBGg7ed68AE.jpg"
+  },
+  {
+    "nome": "My Little Pony Conta a Tua Historia",
+    "id": "202905",
+    "serv": "1",
+    "players": "213276",
+    "categoria": "Aventura",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/e5RbECKKop0CnavnI5BAWfUZQhu.jpg"
   }
 ]
