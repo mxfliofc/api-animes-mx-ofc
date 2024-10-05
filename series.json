@@ -1276,14 +1276,5 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/uQhpgk9Gy0GiWisb3Y8Vmunhx8j.jpg"
-  },
-  {
-    "nome": "test delet",
-    "id": "1396",
-    "serv": "1",
-    "players": "mxflix/player",
-    "categoria": "Cinema",
-    "idade": "Livre",
-    "capa": "capa"
   }
 ]
