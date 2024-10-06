@@ -1753,5 +1753,14 @@
     "categoria": "Drama",
     "idade": "18",
     "capa": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
+  },
+  {
+    "nome": "Kiddie Kai O Universo das Artes Marciais",
+    "id": "209626",
+    "serv": "1",
+    "players": "215483",
+    "categoria": "Aventura",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/bDsGQPlgnhnQ6PPk1T4gWXJShVU.jpg"
   }
 ]
