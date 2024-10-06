@@ -1366,5 +1366,14 @@
     "categoria": "Documentario",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/8uGdYsxrN77de7CHHKAfd1zaMsj.jpg"
+  },
+  {
+    "nome": "A CEO Secreta",
+    "id": "261143",
+    "serv": "1",
+    "players": "214068",
+    "categoria": "Romance",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/5XkSG71VRX3USuKp25OOewGWIQ4.jpg"
   }
 ]
