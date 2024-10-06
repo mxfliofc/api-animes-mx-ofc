@@ -1663,5 +1663,14 @@
     "categoria": "Documentario",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/n6imMof4R5Pkfj5x8fe4aJiwNZo.jpg"
+  },
+  {
+    "nome": "Misterios no Alasca",
+    "id": "119539",
+    "serv": "1",
+    "players": "215449",
+    "categoria": "Documentario",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/kTuMlTTo3xfirw4dnTtZXq9UpyR.jpg"
   }
 ]
