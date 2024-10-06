@@ -1834,5 +1834,14 @@
     "categoria": "Dorama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/pmB3nkOOPWb7mltpcZFMu1PNKRp.jpg"
+  },
+  {
+    "nome": "Lacos de Estrelas Cadentes",
+    "id": "7803",
+    "serv": "1",
+    "players": "214061",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/8c6TMWSv6cxQoVHRKX5kf66hEZ.jpg"
   }
 ]
