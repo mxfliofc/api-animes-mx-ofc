@@ -1555,5 +1555,14 @@
     "categoria": "Acao",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/iCAGBp2p6ip7jbUi1P0in3K3U9L.jpg"
+  },
+  {
+    "nome": "Forca de Mulher",
+    "id": "77532",
+    "serv": "1",
+    "players": "215421",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/wdd4O3gS2JAJHOZly9FjlwFN4EL.jpg"
   }
 ]
