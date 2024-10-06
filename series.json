@@ -1312,5 +1312,14 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/b3J4CcYo99biTTYl9AidSG0s4vh.jpg"
+  },
+  {
+    "nome": "O Show do Patrick Estrela",
+    "id": "126824",
+    "serv": "1",
+    "players": "214047",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/zXwvdw2n3TshH5Yd1lTi2ABGkNp.jpg"
   }
 ]
