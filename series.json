@@ -1483,5 +1483,14 @@
     "categoria": "Romance",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/sGgYl7voI8T34azn5biA0MRpG3c.jpg"
+  },
+  {
+    "nome": "Quem Segura a Minha Familia",
+    "id": "118640",
+    "serv": "1",
+    "players": "214108",
+    "categoria": "Drama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/x6kkYT4lAvLmWmTNIhx7bp5TyrG.jpg"
   }
 ]
