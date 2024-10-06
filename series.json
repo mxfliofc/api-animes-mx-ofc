@@ -1393,5 +1393,14 @@
     "categoria": "Drama",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/cDWnzBzqdQiIWSakuMxxq7yBcV7.jpg"
+  },
+  {
+    "nome": "Lu e Seus Amigos",
+    "id": "226057",
+    "serv": "1",
+    "players": "214082",
+    "categoria": "Animacao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500/2yy0AkGfxUGPljNeyZRk2pBV3Hh.jpg"
   }
 ]
