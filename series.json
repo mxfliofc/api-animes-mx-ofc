@@ -1852,5 +1852,14 @@
     "categoria": "Dorama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/wjHt1RVKEMnvMPTvSFcD8IIcsYL.jpg"
+  },
+  {
+    "nome": "Batalha de Influencers",
+    "id": "243149",
+    "serv": "1",
+    "players": "214066",
+    "categoria": "Dorama",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/ee2b9lDgdcQcZ8yPa6bMsH7j32Z.jpg"
   }
 ]
