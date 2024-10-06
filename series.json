@@ -1411,5 +1411,14 @@
     "categoria": "Aventura",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/4660vpxXLVFGWaX4ZlqDSf0LPyx.jpg"
+  },
+  {
+    "nome": "77 Sunset Strip",
+    "id": "925",
+    "serv": "1",
+    "players": "214086",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/3E533YY70yC3upv49XkeDcvd5z0.jpg"
   }
 ]
