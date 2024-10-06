@@ -1600,5 +1600,14 @@
     "categoria": "Documentario",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/eybz0hQqBSsSXYfIzmX8xoM3xkN.jpg"
+  },
+  {
+    "nome": "O Estrangulador de Chicago A Cacada",
+    "id": "153859",
+    "serv": "1",
+    "players": "215434",
+    "categoria": "Documentario",
+    "idade": "18",
+    "capa": "https://image.tmdb.org/t/p/w500/n5wgriQRTozW7METk8ERf9YJPax.jpg"
   }
 ]
