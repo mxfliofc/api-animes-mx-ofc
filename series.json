@@ -1501,5 +1501,14 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/6Nl1ablo4DNTLb4ZH7Mycz81AEt.jpg"
+  },
+  {
+    "nome": "LaLola",
+    "id": "245250",
+    "serv": "1",
+    "players": "214118",
+    "categoria": "Comedia",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/8tol8OVB8z43GMqSEZyAcTZZh1i.jpg"
   }
 ]
