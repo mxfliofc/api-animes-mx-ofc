@@ -1285,5 +1285,14 @@
     "categoria": "Documentario",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/AugBwPn0m7Tr4yfHtBkt7nNHDoY.jpg"
+  },
+  {
+    "nome": "Novamente Apaixonados",
+    "id": "62630",
+    "serv": "1",
+    "players": "214037",
+    "categoria": "Romance",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/8yQ5dLh5a74xtfeQhfe2wtK6wic.jpg"
   }
 ]
