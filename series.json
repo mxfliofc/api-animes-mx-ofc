@@ -1627,5 +1627,14 @@
     "categoria": "Documentario",
     "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/9mrKsmGACwyzIYpjTS3jvqxa0Bd.jpg"
+  },
+  {
+    "nome": "Videos Paranormais",
+    "id": "86845",
+    "serv": "1",
+    "players": "215441",
+    "categoria": "Documentario",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/8UpK1HAsbYERphPlIHDWg9oYjG5.jpg"
   }
 ]
