@@ -1402,5 +1402,14 @@
     "categoria": "Animacao",
     "idade": "Livre",
     "capa": "https://image.tmdb.org/t/p/w500/2yy0AkGfxUGPljNeyZRk2pBV3Hh.jpg"
+  },
+  {
+    "nome": "Lakefront Empire",
+    "id": "248744",
+    "serv": "1",
+    "players": "214084",
+    "categoria": "Aventura",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/4660vpxXLVFGWaX4ZlqDSf0LPyx.jpg"
   }
 ]
