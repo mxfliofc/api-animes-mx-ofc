@@ -1564,5 +1564,14 @@
     "categoria": "Drama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/wdd4O3gS2JAJHOZly9FjlwFN4EL.jpg"
+  },
+  {
+    "nome": "Largados e Pelados Sozinhos",
+    "id": "211468",
+    "serv": "1",
+    "players": "215425",
+    "categoria": "TV",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/hf1x2jcptMjZKM2ejBJC3mtKdQq.jpg"
   }
 ]
