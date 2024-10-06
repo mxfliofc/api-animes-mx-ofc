@@ -1519,5 +1519,14 @@
     "categoria": "Crime",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/jkWMRTlTDkRPRkr89b2uasG4qTU.jpg"
+  },
+  {
+    "nome": "Renascido para o Asfalto",
+    "id": "257168",
+    "serv": "1",
+    "players": "214124",
+    "categoria": "TV",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/zvKJGYwO8VpUFgWjTKM0JAjLRge.jpg"
   }
 ]
