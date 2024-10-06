@@ -1726,5 +1726,14 @@
     "categoria": "Ficcao cientifica",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/5GeQCZwtUvxBLlsccGK2qvMpFBH.jpg"
+  },
+  {
+    "nome": "Sangue Novo",
+    "id": "66604",
+    "serv": "1",
+    "players": "215473",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/1VZ3kUF8AET7L3AXcEiuRHTS1m.jpg"
   }
 ]
