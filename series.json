@@ -1717,5 +1717,14 @@
     "categoria": "Misterio",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/sdIL94YiH8s2nwukJyqFg87Upt9.jpg"
+  },
+  {
+    "nome": "Os Bandidos do Tempo",
+    "id": "114924",
+    "serv": "1",
+    "players": "215471",
+    "categoria": "Ficcao cientifica",
+    "idade": "12",
+    "capa": "https://image.tmdb.org/t/p/w500/5GeQCZwtUvxBLlsccGK2qvMpFBH.jpg"
   }
 ]
