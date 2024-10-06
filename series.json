@@ -1690,5 +1690,14 @@
     "categoria": "Drama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/a4uoG1kYoMCf8rqPak0hDmcljPC.jpg"
+  },
+  {
+    "nome": "Efeito Carbonaro",
+    "id": "60913",
+    "serv": "1",
+    "players": "215455",
+    "categoria": "Comedia",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/am9aBRY0ZuUi2wEEUUySNp7ewjT.jpg"
   }
 ]
