@@ -1762,5 +1762,14 @@
     "categoria": "Aventura",
     "idade": "12",
     "capa": "https://image.tmdb.org/t/p/w500/bDsGQPlgnhnQ6PPk1T4gWXJShVU.jpg"
+  },
+  {
+    "nome": "The Madame Blanc Mysteries",
+    "id": "136275",
+    "serv": "1",
+    "players": "215485",
+    "categoria": "Drama",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/kEb8zqZuO1Og9DG2lzg3ldi6nXt.jpg"
   }
 ]
