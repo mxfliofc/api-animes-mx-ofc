@@ -1465,5 +1465,14 @@
     "categoria": "TV",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/zBb0ZbSOHI37SSDdydzqVTwXd2J.jpg"
+  },
+  {
+    "nome": "Manual de Assassinato para Boas Garotas",
+    "id": "218342",
+    "serv": "1",
+    "players": "214100",
+    "categoria": "Misterio",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/vVngL07lpZOqcA6k5RjQON2j8L2.jpg"
   }
 ]
