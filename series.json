@@ -1843,5 +1843,14 @@
     "categoria": "Dorama",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/8c6TMWSv6cxQoVHRKX5kf66hEZ.jpg"
+  },
+  {
+    "nome": "Os Golpistas de Toquio",
+    "id": "249906",
+    "serv": "1",
+    "players": "214063",
+    "categoria": "Dorama",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/wjHt1RVKEMnvMPTvSFcD8IIcsYL.jpg"
   }
 ]
