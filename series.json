@@ -1798,5 +1798,14 @@
     "categoria": "Documentario",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/ojxDHzrMSAmIdhsuOeYn62J14ig.jpg"
+  },
+  {
+    "nome": "Peter Gunn",
+    "id": "10305",
+    "serv": "1",
+    "players": "215501",
+    "categoria": "Crime",
+    "idade": "16",
+    "capa": "https://image.tmdb.org/t/p/w500/hE0Un65f1k11GUQTCqk7s0hzokY.jpg"
   }
 ]
