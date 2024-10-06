@@ -1699,5 +1699,14 @@
     "categoria": "Comedia",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/am9aBRY0ZuUi2wEEUUySNp7ewjT.jpg"
+  },
+  {
+    "nome": "As Portas do Tempo",
+    "id": "253808",
+    "serv": "1",
+    "players": "215461",
+    "categoria": "Romance",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/lc5Auyq4F8QK6yeMCCpvdwJIIve.jpg"
   }
 ]
