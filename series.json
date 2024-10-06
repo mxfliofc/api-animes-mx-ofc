@@ -1591,5 +1591,14 @@
     "categoria": "Documentario",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/kC4qb2PtRwfoDAeFvidJiZxhfXr.jpg"
+  },
+  {
+    "nome": "Silencio Mortal",
+    "id": "68401",
+    "serv": "1",
+    "players": "215431",
+    "categoria": "Documentario",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/eybz0hQqBSsSXYfIzmX8xoM3xkN.jpg"
   }
 ]
