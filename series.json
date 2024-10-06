@@ -1870,5 +1870,14 @@
     "categoria": "Dorama",
     "idade": "16",
     "capa": "https://image.tmdb.org/t/p/w500/4i9V9diZtdqQRp8yynxUoByHR5q.jpg"
+  },
+  {
+    "nome": "A Jornada de um Heroi Solitario",
+    "id": "251599",
+    "serv": "1",
+    "players": "214074",
+    "categoria": "Dorama",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/6XRYvW85iRWhhCyFdD1Y1wlB81U.jpg"
   }
 ]
