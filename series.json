@@ -1735,5 +1735,14 @@
     "categoria": "Crime",
     "idade": "14",
     "capa": "https://image.tmdb.org/t/p/w500/1VZ3kUF8AET7L3AXcEiuRHTS1m.jpg"
+  },
+  {
+    "nome": "Blackshore",
+    "id": "245547",
+    "serv": "1",
+    "players": "215479",
+    "categoria": "Crime",
+    "idade": "14",
+    "capa": "https://image.tmdb.org/t/p/w500/9iGqOX3CiSm0s6udKiTd09R3li5.jpg"
   }
 ]
