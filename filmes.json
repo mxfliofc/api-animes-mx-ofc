@@ -39,6 +39,14 @@
         "categoria": "Animacao",
         "idade": 12
     },
+      {
+    "id": "1186532",
+    "nome": "A Forja – O Poder da Transformação - The Forge (2024)",
+    "categoria": "Acao",
+    "idade": "Livre",
+    "capa": "https://image.tmdb.org/t/p/w500//zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg",
+    "player": "l32ztl29kt5c"
+  },
     {
         "player": "h3x104ci6oth",
         "id": 1016084,
