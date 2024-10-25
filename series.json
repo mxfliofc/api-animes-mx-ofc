@@ -3,18 +3,9 @@
     "id": "252118",
     "nome": "teste 01",
     "serv": "1",
-    "players": "",
+    "players": "MbS6pgEAxHY",
     "categoria": "Drama",
     "idade": "12",
-    "capa": "https://image.tmdb.org/t/p/w500/iYrqkj9Oya1vpVuJJVV8xr18ycN.jpg"
-  },
-  {
-    "id": "252118",
-    "nome": "teste 02",
-    "serv": "1",
-    "players": "fxBNkq5XgDA",
-    "categoria": "Drama",
-    "idade": "10",
     "capa": "https://image.tmdb.org/t/p/w500/iYrqkj9Oya1vpVuJJVV8xr18ycN.jpg"
   }
 ]
